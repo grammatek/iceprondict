@@ -38,7 +38,7 @@ Leyfi: Creative Commons Attribution 4.0 International (CC BY 4.0; Sjá leyfistex
 
 Íslensk framburðarorðabók inniheldur handyfirfarnar hljóðritanir í fjórum framburðartilbrigðum íslensku: það sem kalla má hefðbundinn framburð, norðlenskt harðmæli, harðmæli + raddaðan framburð sem einkennandi er fyrir norð-austurland, og sunnlenskan hv-framburð. Nánari lýsingar á framburði og framburðartilbrigðum í íslensku er að finna í skjölunum `IPA_Pronunciation.pdf` eða `SAMPA_Pronunciation.pdf` (þessi skjöl eru eins að öllu leyti, nema að fyrra skjalið notar IPA-hljóðritunarstafrófið en það seinna SAMPA-stafrófið til þess að lýsa framburði).
 
-Skjalið `sampa_ipa_single.tsv` inniheldur lista SAMPA hljóðritunartákna sem notuð eru í orðabókinni og varpanir yfir á tákn í IPA annars vegar og yfir á nýtt stafróf, þar sem hvert hljóð er alltaf táknað með einum bókstaf/tölustaf, en slíkt stafróf getur nýst vel í "end-to-end" talgervingu.
+Skjalið `sampa_ipa_single.tsv` inniheldur lista SAMPA hljóðritunartákna sem notuð eru í orðabókinni og varpanir yfir á tákn í IPA annars vegar og yfir á nýtt stafróf hins vegar, þar sem hvert hljóð er alltaf táknað með einum bókstaf/tölustaf, en slíkt stafróf getur nýst vel í "end-to-end" talgervingu.
 
 Verkefnið er hluti af Máltækniáætlun fyrir íslensku 2019-2023.
 
