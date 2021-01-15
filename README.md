@@ -1,11 +1,15 @@
-# Icelandic Pronunciation Dictionary
+# Icelandic Pronunciation Dictionary for Language Technology
 
 Lexical conceptual resource
+
 Version: 21.01
 
 Authors: Anna Björk Nikulásdóttir, Bjarki Ármannsson, Bryndís Bergþórsdóttir, Eiríkur Rögnvaldsson
+
 Publisher: Grammatek ehf
+
 Contact: anna@grammatek.com
+
 Funding: Ministry of Education, Science and Culture (Mennta- og menningamálaráðuneytið)
 
 License: CC BY 4.0
@@ -31,11 +35,12 @@ The project is funded by the Icelandic Government as a part of the Language Tech
 Anna Björk Nikulásdóttir, Jón Guðnason, Anton Karl Ingason, Hrafn Loftsson, Eiríkur Rögnvaldsson, Einar Freyr Sigurðsson, Steinþór Steingrímsson. 2020. Language Technology Programme for Icelandic 2019–2023. Proceedings of LREC 2020 (https://arxiv.org/pdf/2003.09244.pdf)
 
 
-# Íslensk framburðarorðabók
+# Íslensk framburðarorðabók fyrir máltækni
 
 Útgáfa: 21.01
 
 Höfundar: Anna Björk Nikulásdóttir, Bjarki Ármannsson, Bryndís Bergþórsdóttir, Eiríkur Rögnvaldsson
+
 Útgefandi: Grammatek ehf.
 
 Tengiliður: anna@grammatek.com
