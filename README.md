@@ -2,7 +2,7 @@
 
 Lexical conceptual resource
 
-Version: 21.01
+Version: 21.02
 
 Authors: Anna Björk Nikulásdóttir, Bjarki Ármannsson, Bryndís Bergþórsdóttir, Eiríkur Rögnvaldsson
 
@@ -18,6 +18,7 @@ The Icelandic Pronunciation Dictionary contains manually revised transcriptions 
 
 The file `sampa_ipa_single.tsv` contains the set of SAMPA symbols used in the dictionaries and their mappings to IPA on the one hand and on a custom developed single-character alphabet developed for use in end-to-end speech synthesis.
 
+The repository contains training and test data, both for the training and testing of g2p models, and for the testing of automatic syllabification and stress labeling algorithms.
 
 The project is funded by the Icelandic Government as a part of the Language Technology Programme for Icelandic 2019–2023 which is described in the following publication:
 
@@ -26,7 +27,7 @@ Anna Björk Nikulásdóttir, Jón Guðnason, Anton Karl Ingason, Hrafn Loftsson,
 
 # Íslensk framburðarorðabók fyrir máltækni
 
-Útgáfa: 21.01
+Útgáfa: 21.02
 
 Höfundar: Anna Björk Nikulásdóttir, Bjarki Ármannsson, Bryndís Bergþórsdóttir, Eiríkur Rögnvaldsson
 
@@ -39,6 +40,8 @@ Leyfi: Creative Commons Attribution 4.0 International (CC BY 4.0; Sjá leyfistex
 Íslensk framburðarorðabók inniheldur handyfirfarnar hljóðritanir í fjórum framburðartilbrigðum íslensku: það sem kalla má hefðbundinn framburð, norðlenskt harðmæli, harðmæli + raddaðan framburð sem einkennandi er fyrir norð-austurland, og sunnlenskan hv-framburð. Nánari lýsingar á framburði og framburðartilbrigðum í íslensku er að finna í skjölunum `IPA_Pronunciation.pdf` eða `SAMPA_Pronunciation.pdf` (þessi skjöl eru eins að öllu leyti, nema að fyrra skjalið notar IPA-hljóðritunarstafrófið en það seinna SAMPA-stafrófið til þess að lýsa framburði).
 
 Skjalið `sampa_ipa_single.tsv` inniheldur lista SAMPA hljóðritunartákna sem notuð eru í orðabókinni og varpanir yfir á tákn í IPA annars vegar og yfir á nýtt stafróf hins vegar, þar sem hvert hljóð er alltaf táknað með einum bókstaf/tölustaf, en slíkt stafróf getur nýst vel í "end-to-end" talgervingu.
+
+Hirslan inniheldur einnig þjálfunar- og prófunargögn fyrir þjálfun grapheme-to-phoneme (g2p) líkana, sem og prófunarsett fyrir sjálfvirka atkvæðaskiptingu og áherslumerkingar.
 
 Verkefnið er hluti af Máltækniáætlun fyrir íslensku 2019-2023.
 
