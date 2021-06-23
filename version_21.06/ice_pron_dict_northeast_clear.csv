@@ -1,3 +1,4 @@
+a	a:
 aaron	a: r O n
 abbadísin	a p a t i s I n
 abbas	a p a s
@@ -1549,6 +1550,7 @@ aðventunni	a D v E n t_h Y n I
 aðvörun	a D v 9 r Y n
 aþena	a: T E n a
 aþenu	a: T E n Y
+b	p j E:
 bach	p a x
 bachelor	p a t s j E l O r
 background	p a h k r au n t
@@ -3665,6 +3667,7 @@ býtum	p i: t_h Y m
 býð	p i: D
 býðst	p i D s t
 býður	p i: D Y r
+c	s j E:
 cab	k_h a: p
 cache	k_h a s
 cactus	k_h a x t Y s
@@ -3940,6 +3943,7 @@ customers	k_h 9 s t O m E r_0 s
 cut	k_h 9 t
 cycles	s ai: k u l s
 cyrus	s ai: r 9 s
+d	t j E:
 d'or	t O: r
 dabbi	t a p I
 dad	t a: t
@@ -4892,6 +4896,7 @@ dýrum	t i: r Y m
 dýrunum	t i: r O n Y m
 dýrustu	t i: r Y s t Y
 dýrð	t i r D
+e	E:
 each	i t s
 eagle	i: k u l
 eagles	i: k u l s
@@ -6200,6 +6205,7 @@ eðvaldsdóttir	E D v a l t s t ou h t I r
 eðvaldsdóttur	E D v a l t s t ou h t Y r
 eðvaldsson	E D v a l s O n
 eþíópíu	E: T i ou p i j Y
+f	E f
 fabio	f a: p i ou
 fabregas	f a p r E k a s
 face	f ei: s
@@ -9179,6 +9185,7 @@ fús	f u: s
 fúslega	f u s t l E G a
 fýlusvip	f i: l Y s v I p_h
 fýsn	f i s t n
+g	c E:
 gaal	k a: l
 gabb	k a p
 gabba	k a p a
@@ -10855,6 +10862,7 @@ gústafsdóttir	k u s t a f s t ou h t I r
 gústafsson	k u s t a f s O n
 gústavsson	k u s t a f s O n
 gýgur	c i: G Y r
+h	h au:
 ha	h a:
 haag	h a: G
 haarde	h O r t E
@@ -14325,6 +14333,7 @@ húðinni	h u: D I n I
 hýjungur	h i: j u N k Y r
 hýsa	h i: s a
 hýsir	h i: s I r
+i	I:
 i'd	ai t
 i'll	ai l
 i've	ai: v
@@ -14658,6 +14667,7 @@ iðnó	I D n ou
 iðulega	I: D Y l E G a
 iðunn	I: D Y n
 iðunnar	I: D Y n a r
+j	j O: D
 ja	j a:
 jack	t j a h k
 jackson	t j a h k s O n
@@ -17191,7 +17201,7 @@ kýpur	c_h i: p_h Y r
 kýr	c_h i: r
 kýrnar	c_h i r t n a r
 kýs	c_h i: s
-l	ai:
+l	E t l_0
 labb	l a p
 labba	l a p a
 labbandi	l a p a n t I
@@ -19050,6 +19060,7 @@ lýðræðið	l i D r ai D I D
 lýður	l i: D Y r
 lýðveldi	l i D v E l t I
 lýðveldisins	l i D v E l t I s I n s
+m	E m
 mac	m a k
 machine	m a s j i n
 macro	m a k r ou
@@ -20765,6 +20776,7 @@ mýri	m i: r I
 mýrum	m i: r Y m
 mývatn	m i: v a h t n_0
 mývatnssveit	m i: v a s v ei t_h
+n	E n
 nachos	n a t s j O s
 nafar	n a: v a r
 naflaskoðun	n a p l a s k O D Y n
@@ -21555,6 +21567,7 @@ nýverið	n i: v E r I D
 nýyrðasmíð	n i: I r D a s m i D
 nýárs	n i:  j au r_0 s
 nýársdag	n i: j au r_0 s t a G
+o	O:
 obama	ou p a: m a
 obb	O p
 obbann	O p a n
@@ -21858,6 +21871,7 @@ own	ou: n
 owned	ou: n t
 owners	ou: n E r_0 s
 oxford	O k s f O r t
+p	p_h j E:
 pabba	p_h a p a
 pabbar	p_h a p a r
 pabbarnir	p_h a p a r t n I r
@@ -22626,6 +22640,7 @@ pútín	p_h u: t i n
 pútíns	p_h u: t i n s
 púði	p_h u: D I
 púður	p_h u: D Y r
+q	k_h u:
 quality	k_h v a l I t i
 quattro	k_h v a h t r ou
 que	k_h E
@@ -22639,6 +22654,7 @@ quiet	k_h v ai E t
 quite	k_h v ai t
 quiz	k_h v I s
 quo	k_h v ou
+r	E r
 rabba	r a p a
 rabbaði	r a p a D I
 rabbi	r a p I
@@ -23851,6 +23867,7 @@ rýr	r i: r
 rýra	r i: r a
 rýriskiptingu	r i: r I s c I f t i N k Y
 rýrnað	r i r t n a D
+s	E s
 saari	s a: r i
 sabbath	s a p a T
 sachs	s a k s
@@ -28435,6 +28452,7 @@ sýslumanns	s i s t l Y m a n s
 sýslumannsins	s i s t l Y m a n s I n s
 sýslumaður	s i s t l Y m a D Y r
 sýslumaðurinn	s i s t l Y m a D Y r I n
+t	t_h j E:
 table	t_h ei: p u l
 tabú	t_h a: p u
 taco	t_h a k ou
@@ -29609,6 +29627,7 @@ týndur	t_h i n t Y r
 týnt	t_h i n t_h
 týr	t_h i: r
 týra	t_h i: r a
+u	Y:
 uber	u: p E r
 uefa	j u: E f a
 ufsa	Y f s a
@@ -30106,6 +30125,7 @@ utanríkisráðuneytisins	Y: t_h a n r i c_h I s r au D Y n ei t_h I s I n s
 utanríkisráðuneytið	Y: t_h a n r i c_h I s r au D Y n ei t_h I D
 utanríkisstefnu	Y: t a n r i c I s t E p n Y
 utd	j u: n ai t E t
+v	v a f
 vafa	v a: v a
 vafalaust	v a: v a l 9i s t
 vafalítið	v a: v a l i t I D
@@ -31606,6 +31626,7 @@ vöxtum	v 9 k s t Y m
 vöxtur	v 9 k s t Y r
 vöxturinn	v 9 k s t Y r I n
 vöðva	v 9 D v a
+w	t_h v 9: f a l_0 t v a f
 waage	v O G E
 wade	v ei: t
 wage	v ei: t s j
@@ -31749,8 +31770,10 @@ written	r I h t E n
 wrong	r O N
 wrote	r ou: t
 wuhan	v u: h a n
+x	E k s
 xavi	s a: v i
 xi	s i:
+y	Y f s I l O n I:
 yahoo	j a: h u
 yard	j a r t
 yaya	j a: j a
@@ -31878,6 +31901,7 @@ ytra	I: t r a
 ytri	I t_h r I
 yðar	I: D a r
 yður	I: D Y r
+z	s E: t_h a
 zagreb	s a: k r E p
 zeit	t s ai: t
 zeppelin	s E h p E l I n
@@ -31886,6 +31910,7 @@ zone	s ou: n
 zoo	s u:
 zoëga	s ou: E k a
 zuckerberg	s 9 h k E r p E r k
+á	au:
 ábending	au: p E n t i N k
 ábendinga	au: p E n t i N k a
 ábendingar	au: p E n t i N k a r
@@ -32593,6 +32618,7 @@ zuckerberg	s 9 h k E r p E r k
 áðurnefndur	au: D Y r n E m t Y r
 áþekkt	au: T E x t
 áþreifanlega	au: T r ei v a n l E G a
+æ	ai:
 æfa	ai: v a
 æfi	ai: v I
 æfing	ai: v i N k
@@ -32677,10 +32703,12 @@ zuckerberg	s 9 h k E r p E r k
 æðsta	ai D s t a
 æðsti	ai D s t I
 æðstu	ai D s t Y
+é	j E:
 ég	j E: G
 éljagangur	j E l j a k au N k Y r
 éljum	j E l j Y m
 éta	j E: t_h a
+í	i:
 íbv	i: p j E v a f
 íbyggin	i: p I c I n
 íbúa	i: p u a
@@ -32906,6 +32934,7 @@ zuckerberg	s 9 h k E r p E r k
 íþróttir	i: T r ou h t I r
 íþróttum	i T r ou h t Y m
 íþyngjandi	i: T i J c a n t I
+ó	ou:
 óalgengt	ou: a l c ei N t_h
 óaðlaðandi	ou: a D l a D a n t I
 óbein	ou: p ei n
@@ -33286,6 +33315,7 @@ zuckerberg	s 9 h k E r p E r k
 óþægindum	ou: T ai j I n t Y m
 óþörf	ou: T 9 r v
 óþörfu	ou: T 9 r v Y
+ö	9:
 öfga	9 v k a
 öfgar	9 v k a r
 öfl	9 p l_0
@@ -33434,6 +33464,7 @@ zuckerberg	s 9 h k E r p E r k
 öðru	9 D r Y
 öðrum	9 D r Y m
 öðruvísi	9 D r Y v i s I
+ú	u:
 úff	u f
 úganda	u k a n t a
 úkraína	u: k_h r a i n a
@@ -33667,6 +33698,7 @@ zuckerberg	s 9 h k E r p E r k
 útvegsmanna	u: t_h v E x s m a n a
 útvegsmenn	u: t v E x s m E n
 úði	u: D I
+ý	Y f s I l O n i:
 ýja	i: j a
 ýlfrandi	i l v r a n t I
 ýlfruðu	i l v r Y D Y
@@ -33691,6 +33723,7 @@ zuckerberg	s 9 h k E r p E r k
 ýtrustu	i: t r Y s t Y
 ýtt	i h t
 ýtti	i h t I
+þ	T O r n_0
 þagga	T a k a
 þagnarskyldu	T a k n a r_0 s c I l t Y
 þak	T a: k_h
@@ -34329,3 +34362,4 @@ zuckerberg	s 9 h k E r p E r k
 þýðingarmikið	T i: D i N k a r m I c I D
 þýðingu	T i: D i N k Y
 þýðir	T i: D I r
+ð	E: d
