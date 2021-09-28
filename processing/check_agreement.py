@@ -106,17 +106,19 @@ def is_voiced_variant(modifier, compound):
         return False
 
 def is_front_variant(modifier, compound):
+    print(modifier, compound)
     mod_len = len(modifier)
-    next_sound = compound[mod_len + 1]
-    if len(compound) > (mod_len + 2):
-        if compound[mod_len + 2] != ' ':
-            next_sound += compound[mod_len + 2]
-    if modifier[-1] in back_2_front and compound.startswith(modifier[:-1] + back_2_front[modifier[-1]]) \
+    if len(compound) > mod_len:
+        next_sound = compound[mod_len + 1]
+        if len(compound) > (mod_len + 2):
+            if compound[mod_len + 2] != ' ':
+                next_sound += compound[mod_len + 2]
+        if modifier[-1] in back_2_front and compound.startswith(modifier[:-1] + back_2_front[modifier[-1]]) \
             and next_sound in front_vowels:
-        return True
-    elif modifier[-3:] in back_2_front and compound.startswith(modifier[:-3] + back_2_front[modifier[-3:]]) \
+            return True
+        elif modifier[-3:] in back_2_front and compound.startswith(modifier[:-3] + back_2_front[modifier[-3:]]) \
             and next_sound in front_vowels:
-        return True
+            return True
     return False
 
 def no_plosive(modifier, compound):
