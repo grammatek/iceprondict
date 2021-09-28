@@ -106,7 +106,6 @@ def is_voiced_variant(modifier, compound):
         return False
 
 def is_front_variant(modifier, compound):
-    print(modifier, compound)
     mod_len = len(modifier)
     if len(compound) > mod_len:
         next_sound = compound[mod_len + 1]
