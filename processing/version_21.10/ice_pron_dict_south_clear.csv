@@ -23,7 +23,9 @@ abstraktsins	a p s t r a x t s I n s
 abu	a p u
 ac	a: s j E
 access	a k s E s
+accessibility	a k s E s I p I l I t i
 accident	a k s I t E n_0 t
+account	a k_h au n_0 t
 acer	a: s E r
 acid	a: s I t
 act	a x t
@@ -876,6 +878,7 @@ alhug	a: l h Y G
 ali	a: l I
 alice	a: l I s
 alið	a: l I D
+aliexpress	a: l i j E k s p r E s
 alin	a: l I n
 alinn	a: l I n
 alist	a: l I s t
@@ -1385,6 +1388,7 @@ annual	a n j u a l
 annþór	a n T ou r
 ansi	a n s I
 answer	a n s 9 r
+&	a n t
 anthony	a n T O n i
 anti	a n_0 t i
 antoine	a n_0 t v a n
@@ -1416,6 +1420,7 @@ appelsínusafa	a h p E l s i n Y s a v a
 appelsínusíld	a h p E l s i n Y s i l t
 appið	a h p I D
 apple	a h p u l
+apps	a h p s
 april	ei: p_h r I l
 aprílkönnun	a: p_h r i l_0 k_h 9 n Y n
 aprílmánuði	a: p_h r i l m au n Y D I
@@ -1571,6 +1576,7 @@ assad	a s a t
 assange	a s a n s
 asset	a s E t
 assets	a s E t s
+assistant	a s I s t a n_0 t
 aston	a s t O n
 astrid	a s t r I t
 ata	a: t a
@@ -1996,6 +2002,7 @@ austurströnd	9i s t Y r_0 s t r 9 n t
 austurvegi	9i s t Y r v ei j I
 austurvelli	9i s t Y r v E t l I
 austurvöll	9i s t Y r v 9 t l_0
+authenticator	O T E n_0 t I k_h ei t O r
 author	O: T O r
 automotive	O: t ou m ou t I v
 auto	O: t ou
@@ -2008,6 +2015,7 @@ average	a: v E r E t s j
 avion	a: v i j O n
 aviv	a v i v
 avocado	a: v O k_h a t ou
+away	a v ei:
 axarskaft	a k s a r_0 s k a f t
 axarsköft	a k s a r_0 s k 9 f t
 axb	a: E k s p j E
@@ -2933,6 +2941,7 @@ baby	p ei: p i
 bachelor	p a t s j E l O r
 bach	p a x
 background	p a h k r au n t
+backup	p a h k 9 p
 badda	p a t a
 badminton	p a t m I n t_h O n
 bad	p a: t
@@ -3280,6 +3289,7 @@ baráttusveitina	p a: r au h t Y s v ei t I n a
 baráttusveitin	p a: r au h t Y s v ei t I n
 baráttuvilja	p a: r au h t Y v I l j a
 barbara	p a r p a r a
+barcode	p a r k_h ou t
 bardagaatriðin	p a r t a G a a t r I D I n
 bardagann	p a r t a G a n
 bardaga	p a r t a G a
@@ -3487,6 +3497,7 @@ bátur	p au: t Y r
 bbc	p j E: p j E s j E
 bc	p j E: s j E
 beach	p i: t s
+beam	p i: m
 bear	p E: r
 bears	p E: r s
 beast	p i: s t
@@ -3838,6 +3849,7 @@ bifvélavirkinn	p I f v j E l a v I r_0 c I n
 bigger	p I k E r
 biggest	p I k E s t
 biggi	p I c I
+bigo	p I: k ou
 big	p I k
 bikarinn	p I: k a r I n
 bikarkeppninnar	p I: k a r_0 c_h E h p n I n a r
@@ -4022,6 +4034,7 @@ bitni	p I h t n I
 bit	p I t
 biturri	p I: t Y r I
 bitventla	p I: t v E n_0 t l a
+bixby	p I k s p i
 bíboppið	p i: p O h p I D
 bíbopp	p i: p O h p
 bíddu	p i t Y
@@ -4462,6 +4475,7 @@ blómum	p l ou: m Y m
 blóraböggulinn	p l ou: r a p 9 k Y l I n
 blue	p l u:
 blues	p l u: s
+bluetooth	p l u: t_h u T
 blund	p l Y n t
 blúgrassi	p l u k r a s I
 blús	p l u: s
@@ -4667,12 +4681,15 @@ bone	p ou: n
 bones	p ou: n s
 bono	p O: n ou
 bon	p O: n
+booking	p u h c I N
 book	p u k
 books	p u k s
 boom	p u m
+booster	p u s t E r
 boost	p u s t
 boot	p u t
 boots	p u t s
+boozt	p u s t
 bo	p ou:
 borað	p O: r a D
 bora	p O: r a
@@ -5967,10 +5984,12 @@ cache	k_h a s
 cactus	k_h a x t Y s
 cahill	c_h ei: h I l
 cake	k_h ei: k
+calculator	k_h a l_0 k j u l ei t O r
 called	k_h O l t
 calling	k_h O l i N
 calls	k_h O l s
 calm	k_h O l m
+calorie	k_h a: l O r i
 cambria	k_h a m p r i j a
 cambridge	c_h ei m p r I t s
 camera	k_h a: m E r a
@@ -5987,6 +6006,7 @@ cannes	k_h a n
 cannot	k_h a n O t
 can't	k_h a n_0 t
 cant	k_h a n_0 t
+capcut	k_h a p k_h 9 t
 captured	k_h a p t s j u r t
 caravan	k_h a: r a v a n
 carbon	k_h a r p O n
@@ -6057,8 +6077,10 @@ charles	t s j a r l s
 charlie	t s j a r l i
 charlotte	s j a r l O h t
 charlton	t s j a r l_0 t O n
+charming	t j a r m i N
 chartered	t s j a r_0 t E r t
 cha	t s j a:
+chat	t s j a t
 chavez	t s j a: v E s
 check	t s j E h k
 cheese	t s j i: s
@@ -6091,6 +6113,7 @@ christiansen	k_h r I s t j a n s E n
 christ	k_h r ai s t
 christmas	k_h r I s t m a s
 christopher	k_h r I s t O f E r
+chrome	k_h r ou: m
 chronicle	k_h r O: n I k u l
 chuck	t s j 9 h k
 church	t s j 9 r t s
@@ -6116,6 +6139,7 @@ classic	k_h l a s I k
 classics	k_h l a s I k s
 claudio	k_h l au: t i j ou
 claus	k l O: s
+cleaner	k_h l i: n E r
 clean	k_h l i: n
 clear	k_h l i: r
 clearly	k_h l i: r l i
@@ -6131,6 +6155,7 @@ close	k_h l ou: s
 closely	k_h l ou: s t l i
 closer	k_h l ou: s E r
 clothes	k_h l ou: D s
+clothing	k_h l ou: D i N
 cloud	k_h l au: t
 clouds	k_h l au: t s
 club	k_h l 9 p
@@ -6198,6 +6223,7 @@ costs	k_h O s t s
 could	k_h Y t
 couldn't	k_h Y t n t
 council	k_h au: n s I l
+counter	k_h au n_0 t E r
 country's	k_h au n_0 t r i s
 coupe	k_h u: p
 couple	k_h 9 h p u l
@@ -6208,6 +6234,7 @@ courts	k_h O r_0 t s
 coventry	k_h O v E n_0 t r i
 covered	k_h O v E r t
 cover	k_h O v E r
+covid	k_h ou: v I t
 cox	k_h O k s
 craft	k_h r a f t
 craig	k_h r ei k
@@ -6246,6 +6273,7 @@ curry	k_h 9 r i
 customers	k_h 9 s t O m E r_0 s
 cut	k_h 9 t
 cycles	s ai: k u l s
+cycling	s ai k l i N
 cyrus	s ai: r 9 s
 dabbi	t a p I
 dadda	t a t a
@@ -6448,6 +6476,7 @@ das	t a: s
 database	t ei: t a p ei s
 data	t a: t a
 date	t ei: t
+dating	t ei: t i N
 datt	t a h t
 dauðadags	t 9i: D a t a x s
 dauðadómur	t 9i: D a t ou m Y r
@@ -6758,6 +6787,7 @@ dimmt	t I m_0 t
 dimmuna	t I m Y n a
 dimmu	t I m Y
 dinamo	t ai: n a m ou
+dineout	t ai: n au t
 dinglaðu	t i N l a D Y
 dinglandi	t i N l a n t I
 dingla	t i N l a
@@ -6767,10 +6797,13 @@ dion	t i j O n
 diouf	t s j u f
 diplóma	t I h p l ou m a
 diplómat	t I h p l ou m a t
+directions	t I r E x s j O n s
+direct	t I r E x t
 dirfðist	t I r D I s t
 dirfsku	t I r f s k Y
 dirk	t 9 r_0 k
 dirty	t 9 r_0 t i
+discord	t i s k O r t
 disco	t I s k ou
 diska	t I s k a
 diskinn	t I s c I n
@@ -6784,6 +6817,8 @@ diskum	t I s k Y m
 diskurinn	t I s k Y r I n
 diskur	t I s k Y r
 disney	t I s t n ei
+disney+	t I s t n ei p_h l u s
+display	t I s p l ei
 dissa	t I s a
 distance	t I s t a n s
 district	t I s t r I x t
@@ -6940,6 +6975,7 @@ double	t 9 p u l
 doubt	t au: t
 douglas	t 9 k l a s
 downey	t au: n i
+download	t au: n l ou t
 downtown	t au: n t_h au n
 dow	t au:
 dólgur	t ou l k Y r
@@ -7249,6 +7285,7 @@ drollurnar	t r O l Y r t n a r
 drollur	t r O l Y r
 drollu	t r O l Y
 dropasteins	t r O: p a s t ei n s
+dropbox	t r O h p O k s
 dropi	t r O: p I
 drops	t r O p s
 drop	t r O p
@@ -7374,6 +7411,7 @@ dundu	t Y n t Y
 dunið	t Y: n I D
 dunkinn	t u J_0 c I n
 dunkinum	t u J_0 c I n Y m
+duolingo	t u: ou l i N k ou
 duo	t u: ou
 durant	t j u: r a n_0 t
 duran	t u: r a n
@@ -7639,6 +7677,7 @@ eagle	i: k u l
 eagles	i: k u l s
 earlier	9 r l i 9 r
 early	9 r l i
+earn	9 r n
 earth	9 r T
 earthquake	9 r T k_h v ei k
 earthquakes	9 r T k_h v ei k s
@@ -7646,6 +7685,7 @@ eastern	i s t E r n
 east	i s t
 easy	i: s i
 easyjet	i: s i t j E t
+easypark	i: s i p_h a r_0 k
 eating	i: t i N
 eat	i: t
 ebay	i: p ei
@@ -7666,6 +7706,7 @@ edgar	E t k a r
 edge	E t s
 edinborg	E: t I n p O r k
 edin	E: t I n
+editor	E: t I t_h O r
 edrú	E t r u
 eduardo	E t u a r t ou
 edward	E t v a r t
@@ -9052,6 +9093,8 @@ eru	E: r Y
 erum	E: r Y m
 esa	E: s a
 esbjerg	E s p j E r k
+e-scooter	i: s k u t E r
+e-scooters	i: s k u t E r_0 s
 es	E: s
 esja	E: s j a
 esju	E: s j Y
@@ -9078,6 +9121,7 @@ estrógenið	E s t r ou c E n I D
 estrógeni	E s t r ou c E n I
 estrógens	E s t r ou c E n s
 eta	E: t a
+ethernet	E T E r n E t
 etja	E: t j a
 etta	E h t a
 euro	j u: r ou
@@ -9185,6 +9229,7 @@ exeter	E: k s E t E r
 exi	E k s I
 exista	E k s I s t a
 existu	E k s I s t Y
+experience	E k s p i r i j E n s
 expo	E k s p ou
 export	E k s p O r_0 t
 express	E k s p r E s
@@ -9312,6 +9357,7 @@ fabregas	f a p r E k a s
 facebook	f ei: s p u k
 face	f ei: s
 faces	f ei: s E s
+facewidgets	f ei: s v I t s j E t s
 fact	f a x t
 factor	f a x t O r
 factors	f a x t O r_0 s
@@ -10149,6 +10195,7 @@ fih	E f i h au
 fikra	f I: k r a
 fikruðu	f I: k r Y D Y
 fikta	f I x t a
+file	f ai: l
 filip	f I: l I p
 filippseyja	f I: l I h p s ei j a
 filippseyjum	f I: l I p s ei j Y m
@@ -10208,6 +10255,7 @@ fimmvörðuhálsi	f I m v 9 r D Y h au l s I
 finally	f ai: n a l i
 finals	f ai: n a l s
 finance	f ai: n a n s
+finder	f ai n t E r
 find	f ai n t
 fine	f ai: n
 fin	f I n
@@ -10249,7 +10297,7 @@ finsen	f I n s E n
 fiorentina	f j O r E n t_h i n a
 firði	f I r D I
 firðinum	f I r D I n Y m
-fire	f ai: 9 r
+fire	f ai: j E r
 firm	f 9 r m
 firra	f I r a
 firringu	f I r i N k Y
@@ -10344,6 +10392,7 @@ fiskvinnslunni	f I s k v I n s t l Y n I
 fiskvinnslustöðva	f I s k v I n s t l Y s t 9 D v a
 fissure	f I s j u r
 fita	f I: t a
+fitbit	f I h t p I h t
 fitch	f I t s
 fit	f I: t
 fitjaði	f I: t j a D I
@@ -11139,6 +11188,7 @@ flottur	f l O h t Y r
 flottustu	f l O h t Y s t Y
 flotvogarinnar	f l O: t v O G a r I n a r
 flotvörpuskipin	f l O: t v 9 r_0 p Y s c I p I n
+flower	f l au: E r
 flowers	f l au: E r_0 s
 flow	f l ou:
 floyd	f l Oi t
@@ -11672,6 +11722,7 @@ fortíðina	f O r_0 t i D I n a
 fortíðinni	f O r_0 t_h i D I n I
 fortress	f O r_0 t_h r E s
 fortune	f O r_0 t j u n
+fortunescope	f O r_0 t j u n s k ou p
 forum	f O: r Y m
 forusta	f O: r Y s t a
 forustan	f O: r Y s t a n
@@ -12370,6 +12421,7 @@ fréttist	f r j E h t I s t
 fréttnæmt	f r j E h t n ai m_0 t
 fréttum	f r j E h t Y m
 fréttunum	f r j E h t O n Y m
+friday	f r ai: t ei
 friðað	f r I: D a D
 friða	f r I: D a
 friðar	f r I: D a r
@@ -12769,6 +12821,7 @@ funeral	f j u: n E r a l
 fun	f 9 n
 funi	f Y: n I
 funk	f 9 N_0 k
+funkin	f 9 J_0 c I n
 funny	f 9 n i
 furða	f Y r D a
 furðar	f Y r D a r
@@ -14439,6 +14492,7 @@ glösin	k l 9: s I n
 glös	k l 9: s
 glötuð	k l 9: t Y D
 glötun	k l 9: t Y n
+gmail	c E: m ei l
 gm	k j E: E m
 g-moll	c E: m O l
 gnarr	k n a r
@@ -14469,6 +14523,7 @@ golden	k ou l t E n
 goldið	k O l t I D
 gold	k ou l t
 goldman	k ou l t m a n
+golfbox	k O l v p O k s
 golfhringir	k O l f r_0 i J c I r
 golfið	k O l v I D
 golfi	k O l v I
@@ -14921,6 +14976,7 @@ grindavíkurbæjar	k r I n t a v i k Y r p ai j a r
 grindavíkur	k r I n t a v i k Y r
 grindavíkurvelli	k r I n t a v i k Y r v E t l I
 grind	k r I n t
+grindr	k r ai n t E r
 grindvíkinga	k r I n t v i c i N k a
 grindvíkingar	k r I n t v i c i N k a r
 grindvíkingum	k r I n t v i c i N k Y m
@@ -15927,6 +15983,7 @@ hangið	h au J c I D
 hangikjöt	h au J c I c_h 9 t
 hangikjötsilm	h au J c I c_h 9 t s I l m
 hangir	h au J c I r
+hangout	h a N au t
 hangover	h a N ou v E r
 hangsað	h au N s a D
 hangsa	h au N s a
@@ -16322,6 +16379,7 @@ hbo	h au: p j E ou
 head	h E t
 heading	h E t i N
 heads	h E t s
+headspace	h E t s p ei s
 healthcare	h E l T c_h E r
 health	h E l T
 healthy	h E l T i
@@ -18355,6 +18413,7 @@ horfum	h O r v Y m
 horfur	h O r v Y r
 horfurnar	h O r v Y r t n a r
 hor	h O: r
+horizon	h O r ai: s O n
 hormón	h O r m ou n
 hornafirði	h O r t n a f I r D I
 hornafjarðar	h O r t n a f j a r D a r
@@ -18387,6 +18446,7 @@ hostel	h O s t E l
 hostels	h O s t E l s
 host	h ou s t
 hotel	h ou t_h E l
+hotels	h ou t_h E l_0 s
 hot	h O t
 hotspur	h O t s p 9 r
 houllier	h u: l i j E r
@@ -19771,11 +19831,14 @@ höttur	h 9 h t Y r
 ian	i: a n
 ibm	I: p j E E m
 ibrahim	I p r a h I m
+icelandair	ai: s l a n t E r
 iceland	ai: s l a n t
 ices	ai s E s
 ich	i C
 i'd	ai t
-id	ai: t i:
+id	ai: t i
+identification	ai t E n_0 t I f I c_h ei: s j O n
+identify	ai t E n_0 t I f ai
 idol	ai: t O l
 iða	I: D a
 iðandi	I: D a n t I
@@ -20194,9 +20257,11 @@ internetinu	I n_0 t E r n E t I n Y
 internets	I n_0 t E r n E t s
 internetsins	I n_0 t E r n E t s I n s
 interpol	I n_0 t E r_0 p_h ou l
+interpreter	I n_0 t E r_0 p_h r E t E r
 interview	I n_0 t E r v j u
 into	I n t_h u
 invest	I n v E s t
+investment	I n v E s t m E n_0 t
 investments	I n v E s t m E n_0 t s
 iowa	ai: ou a
 ipad	ai: p_h a t
@@ -21145,6 +21210,7 @@ kafna	k_h a p n a
 kafnir	k_h a p n I r
 kafrjóð	k_h a v r j ou D
 kahn	k_h a: n
+kahoot	k_h a h u: t
 kaiserslautern	k_h ei: s E r_0 s l au t_h E r n
 kaíró	k_h ai: r ou
 kajaka	k_h a: j a k a
@@ -21864,6 +21930,7 @@ kex	c_h E k s
 kexið	c_h E k s I D
 kexkökur	c_h E k s k_h 9 k Y r
 kexpakkinn	c_h E k s p_h a h c I n
+keyboard	c_h i: p O r t
 key	c_h i:
 keypta	c_h ei f t a
 keyptar	c_h ei f t a r
@@ -24228,6 +24295,7 @@ langtíma	l au N k t_h i m a
 langtímum	l au N t_h i m Y m
 langtum	l au N_0 t Y m
 language	l a N k v E t s
+languages	l a N k v E t s E s
 langvarandi	l au N k v a r a n t I
 langveginn	l au N k v ei j I n
 langveikra	l au N k v ei k r a
@@ -24348,6 +24416,7 @@ launatekjur	l 9i: n a t_h E c Y r
 launatengd	l 9i: n a t_h ei N t
 launavísitölu	l 9i: n a v i s I t_h 9 l Y
 launaþróun	l 9i: n a T r ou Y n
+launcher	l O n t s E r
 launin	l 9i: n I n
 launkofa	l 9i N k_h O v a
 launuð	l 9i: n Y D
@@ -25230,6 +25299,7 @@ lingard	l i N k a r t
 lingus	l i N k u s
 linings	l ai: n i N s
 linka	l i N_0 k a
+linkedin	l i N_0 k t I n
 linkind	l i n c_h I n t
 link	l i N_0 k
 linkur	l i N_0 k Y r
@@ -27213,7 +27283,8 @@ measure	m E s j Y r
 measures	m E s j Y r_0 s
 meat	m i: t
 media	m i: t i a
-medical	m E t I k a l
+medical	m E: t I k a l
+meditation	m E: t I t_h ei s j O n
 medium	m i: t i j Y m
 med	m E: t
 medvedev	m E: t v E t E v
@@ -27279,6 +27350,7 @@ meðvitundarlaus	m E D v I t Y n t a r l 9i s
 meðvitundar	m E D v I t Y n t a r
 meðvitund	m E D v I t Y n t
 meeting	m i: t i N
+meetings	m i: t i N s
 meet	m i: t
 mefistó	m E: f I s t ou
 megabæta	m E: k a p ai t a
@@ -27451,6 +27523,7 @@ meltinguna	m E l_0 t i N k Y n a
 melur	m E: l Y r
 member	m E m p E r
 membership	m E m p E r_0 s j I p
+members	m E m p E r_0 s
 me	m E:
 meme	m i: m
 memm	m E m
@@ -27580,6 +27653,7 @@ merkur	m E r_0 k Y r
 merkustu	m E r_0 k Y s t Y
 mesópótamía	m E: s ou p_h ou t a m i j a
 message	m E s E t s
+messages	m E s E t s E s
 messa	m E s a
 messenger	m E s E n t s j E r
 messi	m E s I
@@ -28516,6 +28590,7 @@ moment	m ou: m E n_0 t
 moms	m O m s
 monaco	m ou n a k ou
 monde	m O n t
+money	m O n i
 monitoring	m O n I t O r i N
 monkey	m O N_0 k i
 monkeys	m O N_0 k i s
@@ -28622,6 +28697,7 @@ movement	m u: v m E n_0 t
 movements	m u: v m E n_0 t s
 move	m u: v
 movie	m u: v i
+movies	m u: v i s
 moving	m u: v i N
 moyes	m Oi s
 mozart	m ou: s a r_0 t
@@ -28816,6 +28892,7 @@ murphy	m 9 r_0 f I
 murray	m 9 r ei
 musharraf	m u s h a r a f
 musical	m j u: s I k a l
+music	m j u: s I k
 musk	m 9 s k
 musterisriddarinn	m Y s t E r I s r I t a r I n
 must	m 9 s t
@@ -29194,6 +29271,7 @@ nautakjöts	n 9i: t a c_h 9 t s
 nauthólsvík	n 9i t h ou l s v i k
 naut	n 9i: t
 navas	n a: v a s
+navigation	n a v I c ei s j O n
 nábrók	n au: p r ou k
 náði	n au: D I
 náðir	n au: D I r
@@ -29733,6 +29811,7 @@ none	n O n
 nonna	n O n a
 nonni	n O n I
 non	n O n
+noona	n u: n a
 noon	n u: n
 nordal	n O r t a l
 nordea	n O r t E a
@@ -30229,7 +30308,9 @@ offered	O f E r t
 offering	O f E r i N
 offer	O f E r
 offers	O f E r_0 s
+office	O f I s
 officer	O f I s E r
+official	O f I s j a l
 offita	O f I t a
 offitu	O f I t Y
 offjárfesting	O f j au r_0 f E s t i N k
@@ -30359,9 +30440,12 @@ olsson	O l s O n
 olympiakos	ou: l I m_0 p i j a k O s
 omar	ou: m a r
 omega	ou: m E k a
+omegle	ou m E k u l
 omx	O: E m E k s
 once	v O n s
 ondo	O n t ou
+onedrive	v O n t r ai v
+onenote	v O n ou t
 ones	v O n s
 one	v O n
 ongoing	O n k ou i N
@@ -30587,6 +30671,7 @@ ottósson	O h t ou s O n
 our	au r
 out	au t
 outfitters	au t f I h t E r_0 s
+outlook	au t l u k
 outside	au t s ai t
 overall	ou: v E r O l
 over	ou: v E r
@@ -31219,6 +31304,7 @@ pallíettur	p_h a l i E h t Y r
 pall	p_h a t l_0
 palmas	p_h a l m a s
 palmer	p_h a l m E r
+palm	p_h a l m
 pamela	p_h a: m E l a
 panama	p_h a n a m a
 panathinaikos	p_h a: n a T I n ai k_h O s
@@ -31349,6 +31435,7 @@ paulo	p_h au: l ou
 paul	p_h O: l
 pavel	p_h a: v E l
 payment	p_h ei: m E n_0 t
+paypal	p_h ei: p_h a l
 pay	p_h ei:
 páfagauk	p_h au: v a k 9i k
 páfagaukur	p_h au: v a k 9i k Y r
@@ -31446,6 +31533,7 @@ penslar	p_h E n s t l a r
 pensli	p_h E n s t l I
 penslum	p_h E n s t l Y m
 pens	p_h E n s
+penup	p_h E n 9 p
 people	p_h i: p u l
 pepe	p_h E p E
 pepperoni	p_h E h p E r ou n i
@@ -31540,6 +31628,7 @@ pétursdóttur	p_h j E: t Y r_0 s t ou h t Y r
 péturs	p_h j E: t Y r_0 s
 péturssonar	p_h j E: t Y r_0 s O n a r
 péturssyni	p_h j E: t Y r_0 s I n I
+pfizer	f ai: s E r
 pga	p_h j E: k j E a
 phantom	f a n_0 t O m
 pharma	f a r m a
@@ -31561,6 +31650,7 @@ physical	f I s I k a l
 pick	p_h I h k
 picture	p_h I k s j Y r
 pictures	p_h I k s j Y r_0 s
+picturethis	p_h I k s Y r D I s
 piece	p_h i: s
 pieces	p_h i: s E s
 pierre	p_h i: j E r
@@ -31637,6 +31727,7 @@ pinkla	p_h i N_0 k l a
 pink	p_h i N_0 k
 pinni	p_h I n I
 pinot	p_h i: n ou
+pinterest	p_h I n_0 t E r E s t
 piparmey	p_h I: p a r m ei
 piparnum	p_h I: p a r t n Y m
 pipar	p_h I: p a r
@@ -31822,6 +31913,7 @@ plötusnúður	p_h l 9: t Y s t n u D Y r
 plötusöfnun	p_h l 9: t Y s 9 p n Y n
 pm	p_h j E E m
 podcast	p_h O t k_h a s t
+podcasts	p_h O t k_h a s t s
 pod	p_h O t
 poetry	p_h ou E t_h r i
 pogba	p_h O k p a
@@ -31913,6 +32005,7 @@ popular	p_h O p u l a r
 pork	p_h O r_0 k
 por	p_h O r
 porsche	p_h O r_0 s
+portfolio	p_h O r_0 t f ou l i j ou
 portland	p_h O r_0 t l a n t
 porto	p_h O r_0 t ou
 port	p_h O r_0 t
@@ -32114,6 +32207,7 @@ produce	p_h r O t u s
 production	p_h r O t 9 x s j O n
 product	p_h r O t 9 x t
 products	p_h r O t u x t s
+profile	p_h r ou: f ai l
 programme	p_h r ou k r a m
 program	p_h r ou k r a m
 progress	p_h r O k r E s
@@ -32125,6 +32219,7 @@ proposed	p_h r O p ou: s t
 proppé	p_h r O h p j E
 prop	p_h r O p
 prost	p_h r ou s t
+protect	p_h r O t_h E x t
 protein	p_h r O t_h i n
 protest	p_h r O t E s t
 protocol	p_h r ou t O k_h O l
@@ -32796,6 +32891,7 @@ ráspól	r au: s p_h ou l
 rás	r au: s
 reached	r i t s t
 reach	r i t s
+reader	r i: t E r
 reading	r i: t i N
 read	r i: t
 reads	r i: t s
@@ -32814,6 +32910,7 @@ record	r E k_h O r t
 records	r E k O r t s
 redda	r E t a
 reddast	r E t a s t
+reddit	r E t I t
 redknapp	r E t n a h p
 red	r E t
 reður	r E: D Y r
@@ -33098,6 +33195,7 @@ retta	r E h t a
 reuters	r u t E r_0 s
 revenue	r E v E n j u
 revolution	r E v O l u s j O n
+reward	r i v O r t
 reyðarfirði	r ei: D a r_0 f I r D I
 reyðarfjarðar	r ei: D a r_0 f j a r D a r
 reyðarfjörð	r ei: D a r_0 f j 9 r D
@@ -33364,6 +33462,7 @@ ringlaðir	r i N l a D I r
 ringluð	r i N l Y D
 ring	r i N
 rings	r i N s
+ringtones	r i N t_h ou n s
 ringulreið	r i N k Y l r ei D
 rio	r i: ou
 risa	r I: s a
@@ -34938,6 +35037,7 @@ sátu	s au: t Y
 sáum	s au: Y m
 sáu	s au: Y
 sáust	s au: Y s t
+scanner	s k a n E r
 scene	s i: n
 scheduled	s c E t j u l t
 scheving	s c E: v i N k
@@ -34947,6 +35047,8 @@ schumacher	s j u: m a x E r
 science	s ai j E n s
 sciences	s ai j E n s E s
 scientists	s ai j E n t_h I s t s
+scooter	s k u: t E r
+scooters	s k u: t E r_0 s
 scored	s k O: r t
 scores	s k O: r s
 scotland	s k O h t l a n t
@@ -35264,6 +35366,7 @@ serótónín	s E: r ou t_h ou n i n
 serum	s E r u m
 served	s 9: r v t
 serve	s 9: r v
+service	s 9 r v I s
 services	s 9 r v I s E s
 sesselja	s E s E l j a
 sesselju	s E s E l j Y
@@ -35404,17 +35507,22 @@ shape	s j ei: p
 shared	s j E: r t
 share	s j E: r
 shares	s j E: r s
+sharing	s j E: r i N
 sharon	s h a: r O n
 sharons	s j a: r O n s
 shaun	s j O: n
 shaw	s j O:
+shazam	s j a s a: m
 shearer	s j i r E r
 sheen	s j i: n
 sheep	s j i: p
 sheeran	s j i: r a n
+sheets	s j i t s
 sheffield	s j E f i l t
 sheff	s j E f
 sheikh	s j ei k
+shein-fashion	s j i: j I n f a s j O n
+shein	s j i: j I n
 shell	s j E l
 she	s j i:
 she's	s j i s
@@ -35427,6 +35535,7 @@ ship	s j I p
 ships	s j I p s
 shit	s j I t
 shock	s j O h k
+shoes	s j u: s
 shooting	s j u: t i N
 shoot	s j u: t
 shopping	s j O h p i N
@@ -35439,6 +35548,7 @@ shouse	s j au: s
 showed	s j ou: t
 showing	s j ou: i N
 shown	s j ou: n
+show	s j ou:
 shows	s j ou: s
 shy	s j ai:
 sibba	s I p a
@@ -37370,6 +37480,7 @@ skyldur	s c I l t Y r
 skyldu	s c I l t Y
 skyldutrygging	s c I l t Y t_h r I c i N k
 skyldutryggingu	s c I l t Y t_h r I c i N k Y
+skyline	s k ai: l ai n
 skylt	s c I l_0 t
 skyndihjálp	s c I n t I C au l_0 p
 skyndilega	s c I n t I l E G a
@@ -37708,6 +37819,7 @@ smalling	s m O l i N
 smalli	s m a l I
 small	s m O l
 smart	s m a r_0 t
+smartwallet	s m a r_0 t v O l E t
 smáar	s m au: a r
 smáa	s m au: a
 smáatriði	s m au: a t r I D I
@@ -37768,6 +37880,7 @@ smitast	s m I: t a s t
 smith	s m I T
 smiti	s m I: t I
 smit	s m I: t
+smitten	s m I h t E n
 smíðaðir	s m i: D a D I r
 smíðaði	s m i: D a D I
 smíðað	s m i: D a D
@@ -38053,6 +38166,7 @@ sonur	s O: n Y r
 sony	s ou: n i
 soon	s u: n
 sophie	s ou: f i
+sophos	s ou: f O s
 sophusson	s ou: f Y s O n
 sorgina	s O r c I n a
 sorginni	s O r c I n I
@@ -38072,6 +38186,7 @@ sorry	s O r i
 sortna	s O r_0 t n a
 sort	s O r_0 t
 soul	s ou: l
+soundboard	s au: n t p O r t
 sound	s au: n t
 sounds	s au: n t s
 souness	s u: n E s
@@ -38426,6 +38541,7 @@ sporlaust	s p O r l 9i s t
 spornað	s p O r t n a D
 sporna	s p O r t n a
 spor	s p O: r
+sportabler	s p O r_0 t a p l E r
 sporting	s p O r_0 t i N
 sport	s p O r_0 t
 sports	s p O r_0 t s
@@ -39413,12 +39529,14 @@ stoppistöð	s t O h p I s t 9 D
 stopp	s t O h p
 stoppuðum	s t O h p Y D Y m
 stop	s t O p
+storage	s t O: r E t s
 store	s t O: r
 stories	s t O: r i s
 stormi	s t O r m I
 storm	s t O r m
 stormur	s t O r m Y r
 story	s t O: r i
+storytel	s t O: r i t_h E l
 stóðhestar	s t ou T h E s t a r
 stóð	s t ou: D
 stóðst	s t ou D s t
@@ -41014,6 +41132,7 @@ taumurinn	t_h 9i: m Y r I n
 taumur	t_h 9i: m Y r
 tautaði	t_h 9i: t a D I
 tauta	t_h 9i: t a
+taxihreyfill	t_h a k s i r_0 ei v I t l_0
 taxi	t_h a k s i
 taxta	t_h a k s t a
 tax	t_h a k s
@@ -41135,6 +41254,7 @@ teldust	t_h E l t Y s t
 teldu	t_h E l t Y
 telefaxi	t_h E: l E f a k s I
 telefax	t_h E: l E f a k s
+telegram	t_h E: l E k r a m
 telegraph	t_h E: l E k r a f
 television	t_h E l E v I s j O n
 teljandi	t_h E l j a n t I
@@ -41143,6 +41263,7 @@ telja	t_h E l j a
 teljist	t_h E l j I s t
 telji	t_h E l j I
 teljum	t_h E l j Y m
+teller	t_h E l E r
 tells	t_h E l s
 tell	t_h E l
 telma	t_h E l m a
@@ -41280,11 +41401,13 @@ thatcher	T a t s j E r
 that	D a t
 that's	D E t s
 theater	T i: E t_h E r
+the	D E
 theft	T E f t
 their	D E r
 thelma	t_h E l m a
 thelmu	t_h E l m Y
 them	D E m
+themes	T i: m s
 then	D E n
 theodóra	t_h E: O t ou r a
 theodór	t_h E: O t ou r
@@ -41302,6 +41425,7 @@ they	D ei:
 they're	D E: r
 thief	T i: f
 thierry	t_h i j E r I
+things	T i N s
 thing	T i N
 thinking	T i N k_h i N
 think	T i N_0 k
@@ -41343,6 +41467,7 @@ tif	t_h I: f
 tiger	t_h ai: k E r
 tignarleg	t_h I k n a r l E G
 tign	t_h I k n_0
+tiktok	t_h I h k t_h O h k
 tilbaka	t_h I l p a k a
 tilbeiðsla	t_h I l p ei D s t l a
 tilboða	t_h I l p O D a
@@ -41450,7 +41575,7 @@ tillagna	t_h I l a k n a
 tillann	t_h I l a n
 tillanum	t_h I l a n Y m
 tillarnir	t_h I l a r t n I r
-tilla	t_h I l a
+tilla	t_h I t l a
 tillen	t_h I l E n
 tilli	t_h I t l I
 tilliti	t_h I l I t I
@@ -41869,6 +41994,7 @@ tortryggni	t_h O r_0 t_h r I k n I
 torvelda	t_h O r v E l t a
 totally	t_h ou: t_h a l i
 total	t_h ou: t a l
+to	t_h u:
 tottenham	t_h O h t E n h a m
 tot	t_h O t
 totti	t_h O h t I
@@ -41982,6 +42108,7 @@ tónum	t_h ou: n Y m
 tónverk	t_h ou n v E r_0 k
 tóta	t_h ou: t a
 tóti	t_h ou: t I
+tracker	t_h r a h k E r
 track	t_h r a h k
 trade	t_h r ei: t
 trading	t_h r ei: t i N
@@ -42009,6 +42136,7 @@ tranmere	t_h r a n m i r
 transfer	t_h r a n s f E r
 transit	t_h r a n s I t
 translate	t_h r a n s l ei t
+translator	t_h r a n s l ei t O r
 transport	t_h r a n s p O r_0 t
 trans	t_h r a n s
 trauma	t_h r au: m a
@@ -44988,7 +45116,8 @@ vélunum	v j E: l O n Y m
 vél	v j E: l
 vér	v j E: r
 vésteinn	v j E s t ei t n_0
-via	v i: a
+viaplay	v i: j a p_h l ei
+via	v i: j a
 viã	v i: j a
 viborg	v I: p O r k
 victims	v I x t I m s
@@ -45554,6 +45683,7 @@ virta	v I r_0 t a
 virtir	v I r_0 t I r
 virtist	v I r_0 t I s t
 virti	v I r_0 t I
+virtual	v 9 r_0 t j u a l
 virtum	v I r_0 t Y m
 virtur	v I r_0 t Y r
 virtustu	v I r_0 t Y s t Y
@@ -45835,6 +45965,7 @@ vogi	v Oi j I
 vogue	v ou: k
 vogum	v O: G Y m
 vog	v O: G
+voice	v Oi s
 volga	v O l k a
 volgt	v O l_0 t
 volkswagen	f ou l s v a k E n
@@ -46064,6 +46195,7 @@ wales	v ei: l s
 walker	v O l_0 k E r
 walking	v O: k i N
 walk	v O: k
+wallet	v O l E t
 wall	v O l
 walter	v O l_0 t E r
 wanderers	v O n t E r E r_0 s
@@ -46096,12 +46228,14 @@ wave	v ei: v
 wayne	v ei: n
 ways	v ei: s
 wealth	v E l T
+wearable	v E: r a p u l
 wearing	v E: r i N
 wear	v E: r
 weather	v E: D E r
 webber	v E p E r
 web	v E p
 wedding	v E t i N
+weed	v i t
 weekend	v i k E n t
 weeks	v i k s
 weight	v ei: t
@@ -46126,7 +46260,9 @@ we've	v i: v
 whales	v ei l s
 whale	v ei: l
 whaling	v ei: l i N
-what's	v a h t s
+whatsapp	v O t s a h p
+whatsflirt	v O t s f l 9 r_0 t
+what's	v O t s
 while	v ai: l
 whitney	v I h t n i
 whom	h u: m
@@ -46134,8 +46270,11 @@ whose	h u: s
 why	v ai:
 wicked	v I h k E t
 wide	v ai: t
+widgets	v I t s j E t s
 wieder	v i: t E r
 wife	v ai: f
+wi-fi	v ai: f ai
+wifi	v ai: f ai
 wildlife	v ai: l t l ai: f
 wild	v ai: l t
 williams	v I l j a m s
@@ -46172,7 +46311,6 @@ won't	v ou n_0 t
 won	v O n
 woods	v u: t s
 wood	v u: t
-WORD	p ou k m E n_0 t Y m
 words	v 9 r t s
 word	v 9 r t
 worked	v 9 r_0 k t
@@ -46407,7 +46545,9 @@ zeit	t s ai: t
 zeppelin	s E h p E l I n
 zero	s i: r ou
 zoëga	s ou: E k a
+zolo	s ou: l ou
 zone	s ou: n
+zoom	s u m
 zoo	s u:
 zuckerberg	s 9 h k E r p E r k
 þaðan	T a: D a n

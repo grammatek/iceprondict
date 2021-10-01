@@ -23,7 +23,9 @@ abstraktsins	a p s t r a x t s I n s	all
 abu	a p u	all
 ac	a: s j E	all
 access	a k s E s	all
+accessibility	a k s E s I p I l I t i	all
 accident	a k s I t E n_0 t	all
+account	a k_h au n_0 t	all
 acer	a: s E r	all
 acid	a: s I t	all
 act	a x t	all
@@ -1080,6 +1082,7 @@ ali	a: l I	all
 ali	a: l I	all
 alice	a: l I s	all
 alið	a: l I D	all
+aliexpress	a: l i j E k s p r E s	all
 alin	a: l I n	all
 alin	a: l I n	all
 alin	a: l I n	all
@@ -1325,8 +1328,8 @@ alþingishúsið	a l T i J c I s h u s I D	all
 alþingishúsinu	a l T i J c I s h u s I n Y	all
 alþingiskosninga	a l T i J c I s k_h O s t n i N k a	all
 alþingiskosningar	a l T i J c I s k_h O s t n i N k a r	all
-alþingiskosningarnar	a l T i J c I s k_h O s t n i N k a t n a r	standard_cas
 alþingiskosningarnar	a l T i J c I s k_h O s t n i N k a r t n a r	standard_clear
+alþingiskosningarnar	a l T i J c I s k_h O s t n i N k a t n a r	standard_cas
 alþingiskosningum	a l T i J c I s k_h O s t n i N k Y m	all
 alþingiskosningunum	a l T i J c I s k_h O s t n i N k O n Y m	all
 alþingismaður	a l T i J c I s m a D Y r	all
@@ -1770,6 +1773,7 @@ ansi	a n s I	all
 answer	a n s 9 r	all
 anthony	a n T O n i	all
 anti	a n_0 t i	all
+&	a n t	all
 antoine	a n_0 t v a n	all
 anton	a n_0 t O n	standard_clear
 anton	a n t_h O n	northeast_clear
@@ -1811,6 +1815,7 @@ appelsínusafa	a h p E l s i n Y s a v a	all
 appelsínusíld	a h p E l s i n Y s i l t	all
 appið	a h p I D	all
 apple	a h p u l	all
+apps	a h p s	all
 april	ei: p_h r I l	all
 aprílkönnun	a: p_h r i l_0 k_h 9 n Y n	all
 aprílmánuði	a: p_h r i l m au n Y D I	all
@@ -2018,6 +2023,7 @@ assad	a s a t	all
 assange	a s a n s	all
 asset	a s E t	all
 assets	a s E t s	all
+assistant	a s I s t a n_0 t	all
 aston	a s t O n	all
 astrid	a s t r I t	all
 ata	a: t a	standard_clear
@@ -2671,6 +2677,7 @@ austurströnd	9i s t Y r_0 s t r 9 n t	all
 austurvegi	9i s t Y r v ei j I	all
 austurvelli	9i s t Y r v E t l I	all
 austurvöll	9i s t Y r v 9 t l_0	all
+authenticator	O T E n_0 t I k_h ei t O r	all
 author	O: T O r	all
 automotive	O: t ou m ou t I v	all
 auto	O: t ou	all
@@ -2683,6 +2690,7 @@ average	a: v E r E t s j	all
 avion	a: v i j O n	all
 aviv	a v i v	all
 avocado	a: v O k_h a t ou	all
+away	a v ei:	all
 axarskaft	a k s a r_0 s k a f t	all
 axarsköft	a k s a r_0 s k 9 f t	all
 axb	a: E k s p j E	all
@@ -2935,8 +2943,8 @@ aþenu	a: T E n Y	all
 áhugafólki	au: h Y G a f ou l_0 c I	standard_clear
 áhugafólki	au: h Y G a f ou l c_h I	northeast_clear
 áhugafólks	au: h Y G a f ou l_0 k s	standard_clear
-áhugafólks	au: h Y G a f ou l s	standard_cas
 áhugafólks	au: h Y G a f ou l k s	northeast_clear
+áhugafólks	au: h Y G a f ou l s	standard_cas
 áhugahópur	au: h Y G a h ou p_h Y r	north_clear
 áhugahópur	au: h Y G a h ou p Y r	standard_clear
 áhugaleysi	au: h Y G a l ei s I	all
@@ -3841,6 +3849,7 @@ baby	p ei: p i	all
 bachelor	p a t s j E l O r	all
 bach	p a x	all
 background	p a h k r au n t	all
+backup	p a h k 9 p	all
 badda	p a t a	all
 badminton	p a t m I n t_h O n	all
 bad	p a: t	all
@@ -4328,6 +4337,7 @@ baráttusveitin	p a: r au h t Y s v ei t_h I n	north_clear
 baráttusveitin	p a: r au h t Y s v ei t I n	standard_clear
 baráttuvilja	p a: r au h t Y v I l j a	all
 barbara	p a r p a r a	all
+barcode	p a r k_h ou t	all
 bardagaatriðin	p a r t a G a a t_h r I D I n	north_clear
 bardagaatriðin	p a r t a G a a t r I D I n	standard_clear
 bardagann	p a r t a G a n	all
@@ -4359,8 +4369,8 @@ barnaballið	p a r t n a p a l I D	standard_clear
 barnaballið	p a t n a p a l I D	standard_cas
 barnaballinu	p a r t n a p a l I n Y	standard_clear
 barnaballinu	p a t n a p a l I n Y	standard_cas
-barnaballi	p a t n a p a l I	standard_cas
 barnaballi	p a r t n a p a l I	standard_clear
+barnaballi	p a t n a p a l I	standard_cas
 barnaball	p a r t n a p a l	standard_clear
 barnaball	p a t n a p a l	standard_cas
 barnabarnabörnin	p a r t n a p a r t n a p 9 r t n I n	standard_clear
@@ -4655,6 +4665,7 @@ bátur	p au: t Y r	standard_clear
 bbc	p j E: p j E s j E	all
 bc	p j E: s j E	all
 beach	p i: t s	all
+beam	p i: m	all
 bear	p E: r	all
 bears	p E: r s	all
 beast	p i: s t	all
@@ -5136,6 +5147,7 @@ bifvélavirkinn	p I f v j E l a v I r_0 c I n	all
 bigger	p I k E r	all
 biggest	p I k E s t	all
 biggi	p I c I	all
+bigo	p I: k ou	all
 big	p I k	all
 bikarinn	p I: k a r I n	standard_clear
 bikarinn	p I: k_h a r I n	north_clear
@@ -5377,6 +5389,7 @@ biturri	p I: t_h Y r I	north_clear
 biturri	p I: t Y r I	standard_clear
 bitventla	p I: t_h v E n_0 t l a	north_clear
 bitventla	p I: t v E n_0 t l a	standard_clear
+bixby	p I k s p i	all
 bíboppið	p i: p O h p I D	all
 bíbopp	p i: p O h p	all
 bíddu	p i t Y	all
@@ -5966,6 +5979,7 @@ blómum	p l ou: m Y m	all
 blóraböggulinn	p l ou: r a p 9 k Y l I n	all
 blue	p l u:	all
 blues	p l u: s	all
+bluetooth	p l u: t_h u T	all
 blund	p l Y n t	all
 blúgrassi	p l u k r a s I	all
 blús	p l u: s	all
@@ -6201,12 +6215,15 @@ bone	p ou: n	all
 bones	p ou: n s	all
 bono	p O: n ou	all
 bon	p O: n	all
+booking	p u h c I N	all
 book	p u k	all
 books	p u k s	all
 boom	p u m	all
+booster	p u s t E r	all
 boost	p u s t	all
 boot	p u t	all
 boots	p u t s	all
+boozt	p u s t	all
 bo	p ou:	all
 borað	p O: r a D	all
 bora	p O: r a	all
@@ -8017,10 +8034,12 @@ cache	k_h a s	all
 cactus	k_h a x t Y s	all
 cahill	c_h ei: h I l	all
 cake	k_h ei: k	all
+calculator	k_h a l_0 k j u l ei t O r	all
 called	k_h O l t	all
 calling	k_h O l i N	all
 calls	k_h O l s	all
 calm	k_h O l m	all
+calorie	k_h a: l O r i	all
 cambria	k_h a m p r i j a	all
 cambridge	c_h ei m p r I t s	all
 camera	k_h a: m E r a	all
@@ -8037,6 +8056,7 @@ cannes	k_h a n	all
 cannot	k_h a n O t	all
 can't	k_h a n_0 t	all
 cant	k_h a n_0 t	all
+capcut	k_h a p k_h 9 t	all
 captured	k_h a p t s j u r t	all
 caravan	k_h a: r a v a n	all
 carbon	k_h a r p O n	all
@@ -8107,8 +8127,10 @@ charles	t s j a r l s	all
 charlie	t s j a r l i	all
 charlotte	s j a r l O h t	all
 charlton	t s j a r l_0 t O n	all
+charming	t j a r m i N	all
 chartered	t s j a r_0 t E r t	all
 cha	t s j a:	all
+chat	t s j a t	all
 chavez	t s j a: v E s	all
 check	t s j E h k	all
 cheese	t s j i: s	all
@@ -8141,6 +8163,7 @@ christiansen	k_h r I s t j a n s E n	all
 christ	k_h r ai s t	all
 christmas	k_h r I s t m a s	all
 christopher	k_h r I s t O f E r	all
+chrome	k_h r ou: m	all
 chronicle	k_h r O: n I k u l	all
 chuck	t s j 9 h k	all
 church	t s j 9 r t s	all
@@ -8166,6 +8189,7 @@ classic	k_h l a s I k	all
 classics	k_h l a s I k s	all
 claudio	k_h l au: t i j ou	all
 claus	k l O: s	all
+cleaner	k_h l i: n E r	all
 clean	k_h l i: n	all
 clear	k_h l i: r	all
 clearly	k_h l i: r l i	all
@@ -8181,6 +8205,7 @@ close	k_h l ou: s	all
 closely	k_h l ou: s t l i	all
 closer	k_h l ou: s E r	all
 clothes	k_h l ou: D s	all
+clothing	k_h l ou: D i N	all
 cloud	k_h l au: t	all
 clouds	k_h l au: t s	all
 club	k_h l 9 p	all
@@ -8248,6 +8273,7 @@ costs	k_h O s t s	all
 could	k_h Y t	all
 couldn't	k_h Y t n t	all
 council	k_h au: n s I l	all
+counter	k_h au n_0 t E r	all
 country's	k_h au n_0 t r i s	all
 coupe	k_h u: p	all
 couple	k_h 9 h p u l	all
@@ -8258,6 +8284,7 @@ courts	k_h O r_0 t s	all
 coventry	k_h O v E n_0 t r i	all
 covered	k_h O v E r t	all
 cover	k_h O v E r	all
+covid	k_h ou: v I t	all
 cox	k_h O k s	all
 craft	k_h r a f t	all
 craig	k_h r ei k	all
@@ -8296,6 +8323,7 @@ curry	k_h 9 r i	all
 customers	k_h 9 s t O m E r_0 s	all
 cut	k_h 9 t	all
 cycles	s ai: k u l s	all
+cycling	s ai k l i N	all
 cyrus	s ai: r 9 s	all
 dabbi	t a p I	all
 dadda	t a t a	all
@@ -8532,6 +8560,7 @@ das	t a: s	all
 database	t ei: t a p ei s	all
 data	t a: t a	all
 date	t ei: t	all
+dating	t ei: t i N	all
 datt	t a h t	all
 dauðadags	t 9i: D a t a x s	all
 dauðadómur	t 9i: D a t ou m Y r	all
@@ -8938,6 +8967,7 @@ dimmt	t I m t_h	northeast_clear
 dimmuna	t I m Y n a	all
 dimmu	t I m Y	all
 dinamo	t ai: n a m ou	all
+dineout	t ai: n au t	all
 dinglaðu	t i N l a D Y	all
 dinglandi	t i N l a n t I	all
 dingla	t i N l a	all
@@ -8949,11 +8979,14 @@ diouf	t s j u f	all
 diplóma	t I h p l ou m a	all
 diplómat	t I h p l ou m a t_h	north_clear
 diplómat	t I h p l ou m a t	standard_clear
+directions	t I r E x s j O n s	all
+direct	t I r E x t	all
 dirfðist	t I r D I s t	all
 dirfsku	t I r_0 s k Y	standard_cas
 dirfsku	t I r f s k Y	standard_clear
 dirk	t 9 r_0 k	all
 dirty	t 9 r_0 t i	all
+discord	t i s k O r t	all
 disco	t I s k ou	all
 diska	t I s k a	all
 diskinn	t I s c I n	all
@@ -8968,6 +9001,8 @@ diskum	t I s k Y m	all
 diskurinn	t I s k Y r I n	all
 diskur	t I s k Y r	all
 disney	t I s t n ei	all
+disney+	t I s t n ei p_h l u s	all
+display	t I s p l ei	all
 dissa	t I s a	all
 dissa	t I s a	all
 distance	t I s t a n s	all
@@ -9163,6 +9198,7 @@ double	t 9 p u l	all
 doubt	t au: t	all
 douglas	t 9 k l a s	all
 downey	t au: n i	all
+download	t au: n l ou t	all
 downtown	t au: n t_h au n	all
 dow	t au:	all
 dólgur	t ou l k Y r	all
@@ -9543,6 +9579,7 @@ drollur	t r O l Y r	all
 drollu	t r O l Y	all
 dropasteins	t r O: p a s t ei n s	standard_clear
 dropasteins	t r O: p_h a s t ei n s	north_clear
+dropbox	t r O h p O k s	all
 dropi	t r O: p_h I	north_clear
 dropi	t r O: p_h I	north_clear
 dropi	t r O: p I	standard_clear
@@ -9701,6 +9738,7 @@ dunkinn	t u J_0 c I n	standard_clear
 dunkinn	t u J c_h I n	northeast_clear
 dunkinum	t u J_0 c I n Y m	standard_clear
 dunkinum	t u J c_h I n Y m	northeast_clear
+duolingo	t u: ou l i N k ou	all
 duo	t u: ou	all
 durant	t j u: r a n_0 t	all
 duran	t u: r a n	all
@@ -10025,6 +10063,7 @@ eagle	i: k u l	all
 eagles	i: k u l s	all
 earlier	9 r l i 9 r	all
 early	9 r l i	all
+earn	9 r n	all
 earth	9 r T	all
 earthquake	9 r T k_h v ei k	all
 earthquakes	9 r T k_h v ei k s	all
@@ -10032,6 +10071,7 @@ eastern	i s t E r n	all
 east	i s t	all
 easy	i: s i	all
 easyjet	i: s i t j E t	all
+easypark	i: s i p_h a r_0 k	all
 eating	i: t i N	all
 eat	i: t	all
 ebay	i: p ei	all
@@ -10053,6 +10093,7 @@ edgar	E t k a r	all
 edge	E t s	all
 edinborg	E: t I n p O r k	all
 edin	E: t I n	all
+editor	E: t I t_h O r	all
 edrú	E t r u	all
 eduardo	E t u a r t ou	all
 edward	E t v a r t	all
@@ -11970,6 +12011,8 @@ eru	E: r Y	all
 erum	E: r Y m	all
 esa	E: s a	all
 esbjerg	E s p j E r k	all
+e-scooter	i: s k u t E r	all
+e-scooters	i: s k u t E r_0 s	all
 es	E: s	all
 esja	E: s j a	all
 esju	E: s j Y	all
@@ -12000,6 +12043,7 @@ eta	E: t a	standard_clear
 eta	E: t a	standard_clear
 eta	E: t_h a	north_clear
 eta	E: t_h a	north_clear
+ethernet	E T E r n E t	all
 etja	E: t_h j a	north_clear
 etja	E: t_h j a	north_cas
 etja	E: t j a	standard_clear
@@ -12165,6 +12209,7 @@ exi	E k s I	all
 exi	E k s I	all
 exista	E k s I s t a	all
 existu	E k s I s t Y	all
+experience	E k s p i r i j E n s	all
 expo	E k s p ou	all
 export	E k s p O r_0 t	all
 express	E k s p r E s	all
@@ -12322,6 +12367,7 @@ fabregas	f a p r E k a s	all
 facebook	f ei: s p u k	all
 face	f ei: s	all
 faces	f ei: s E s	all
+facewidgets	f ei: s v I t s j E t s	all
 fact	f a x t	all
 factor	f a x t O r	all
 factors	f a x t O r_0 s	all
@@ -13435,6 +13481,7 @@ fikra	f I: k r a	standard_clear
 fikruðu	f I: k_h r Y D Y	north_clear
 fikruðu	f I: k r Y D Y	standard_clear
 fikta	f I x t a	all
+file	f ai: l	all
 filip	f I: l I p_h	north_clear
 filip	f I: l I p	standard_clear
 filippseyja	f I: l I h p s ei j a	all
@@ -13535,6 +13582,7 @@ fimmvörðuhálsi	f I m v 9 r D Y h au l s I	all
 finally	f ai: n a l i	all
 finals	f ai: n a l s	all
 finance	f ai: n a n s	all
+finder	f ai n t E r	all
 find	f ai n t	all
 fine	f ai: n	all
 fin	f I n	all
@@ -13584,7 +13632,8 @@ finsen	f I n s E n	all
 fiorentina	f j O r E n t_h i n a	all
 firði	f I r D I	all
 firðinum	f I r D I n Y m	all
-fire	f ai: 9 r	all
+fire	f ai: j E r_0 f O k s	all
+fire	f ai: j E r	all
 firm	f 9 r m	all
 firra	f I r a	all
 firringu	f I r i N k Y	all
@@ -13697,6 +13746,7 @@ fita	f I: t a	standard_clear
 fita	f I: t a	standard_clear
 fita	f I: t_h a	north_clear
 fita	f I: t_h a	north_clear
+fitbit	f I h t p I h t	all
 fitch	f I t s	all
 fit	f I: t_h	north_clear
 fit	f I: t	standard_clear
@@ -14436,8 +14486,8 @@ flassi	f l a s I	all
 flassmyndir	f l a s m I n t I r	all
 flatan	f l a: t a n	standard_clear
 flatan	f l a: t_h a n	north_clear
-flatargjalds	f l a: t a r c a l t s	standard_clear
 flatargjalds	f l a: t a r c a l s	standard_cas
+flatargjalds	f l a: t a r c a l t s	standard_clear
 flatargjalds	f l a: t_h a r c a l t s	north_clear
 flatarmáli	f l a: t a r m au l I	standard_clear
 flatarmáli	f l a: t_h a r m au l I	north_clear
@@ -14793,6 +14843,7 @@ flotvogarinnar	f l O: t_h v O G a r I n a r	north_clear
 flotvogarinnar	f l O: t v O G a r I n a r	standard_clear
 flotvörpuskipin	f l O: t_h v 9 r_0 p Y s c I p_h I n	north_clear
 flotvörpuskipin	f l O: t v 9 r_0 p Y s c I p I n	standard_clear
+flower	f l au: E r	all
 flowers	f l au: E r_0 s	all
 flow	f l ou:	all
 floyd	f l Oi t	all
@@ -15502,6 +15553,7 @@ fortíðina	f O r_0 t i D I n a	all
 fortíðinni	f O r_0 t_h i D I n I	all
 fortress	f O r_0 t_h r E s	all
 fortune	f O r_0 t j u n	all
+fortunescope	f O r_0 t j u n s k ou p	all
 forum	f O: r Y m	all
 forusta	f O: r Y s t a	all
 forustan	f O: r Y s t a n	all
@@ -16413,6 +16465,7 @@ fréttnæmt	f r j E h t n ai m_0 t	standard_clear
 fréttnæmt	f r j E h t n ai m t_h	northeast_clear
 fréttum	f r j E h t Y m	all
 fréttunum	f r j E h t O n Y m	all
+friday	f r ai: t ei	all
 friðað	f r I: D a D	all
 friða	f r I: D a	all
 friðar	f r I: D a r	all
@@ -16900,6 +16953,7 @@ fun	f 9 n	all
 funi	f Y: n I	all
 funi	f Y: n I	all
 funk	f 9 N_0 k	all
+funkin	f 9 J_0 c I n	all
 funny	f 9 n i	all
 furða	f Y r D a	all
 furða	f Y r D a	all
@@ -19213,6 +19267,7 @@ glötuð	k l 9: t Y D	standard_clear
 glötuð	k l 9: t Y D	standard_clear
 glötun	k l 9: t_h Y n	north_clear
 glötun	k l 9: t Y n	standard_clear
+gmail	c E: m ei l	all
 gm	k j E: E m	all
 g-moll	c E: m O l	all
 gnarr	k n a r	all
@@ -19247,6 +19302,7 @@ goldið	k O l t I D	all
 goldið	k O l t I D	all
 gold	k ou l t	all
 goldman	k ou l t m a n	all
+golfbox	k O l v p O k s	all
 golfhringir	k O l f r_0 i J c I r	all
 golfið	k O l v I D	all
 golfi	k O l v I	all
@@ -19816,6 +19872,7 @@ grindavíkur	k r I n t a v i k Y r	standard_clear
 grindavíkurvelli	k r I n t a v i k_h Y r v E t l I	north_clear
 grindavíkurvelli	k r I n t a v i k Y r v E t l I	standard_clear
 grind	k r I n t	all
+grindr	k r ai n t E r	all
 grindvíkinga	k r I n t v i c_h i N k a	north_clear
 grindvíkinga	k r I n t v i c i N k a	standard_clear
 grindvíkingar	k r I n t v i c_h i N k a r	north_clear
@@ -21114,6 +21171,7 @@ hangikjöt	h au J c I c_h 9 t_h	north_clear
 hangikjöt	h au J c I c_h 9 t	standard_clear
 hangikjötsilm	h au J c I c_h 9 t s I l m	all
 hangir	h au J c I r	all
+hangout	h a N au t	all
 hangover	h a N ou v E r	all
 hangsað	h au N s a D	all
 hangsa	h au N s a	all
@@ -21669,6 +21727,7 @@ hbo	h au: p j E ou	all
 head	h E t	all
 heading	h E t i N	all
 heads	h E t s	all
+headspace	h E t s p ei s	all
 healthcare	h E l T c_h E r	all
 health	h E l T	all
 healthy	h E l T i	all
@@ -24538,6 +24597,7 @@ horfur	h O r v Y r	all
 horfurnar	h O r v Y r t n a r	standard_clear
 horfurnar	h O r v Y t n a r	standard_cas
 hor	h O: r	all
+horizon	h O r ai: s O n	all
 hormón	h O r m ou n	all
 hornafirði	h O r t n a f I r D I	standard_clear
 hornafirði	h O t n a f I r D I	standard_cas
@@ -24586,6 +24646,7 @@ hostel	h O s t E l	all
 hostels	h O s t E l s	all
 host	h ou s t	all
 hotel	h ou t_h E l	all
+hotels	h ou t_h E l_0 s	all
 hot	h O t	all
 hotspur	h O t s p 9 r	all
 houllier	h u: l i j E r	all
@@ -26754,11 +26815,14 @@ höttur	h 9 h t Y r	all
 ian	i: a n	all
 ibm	I: p j E E m	all
 ibrahim	I p r a h I m	all
+icelandair	ai: s l a n t E r	all
 iceland	ai: s l a n t	all
 ices	ai s E s	all
 ich	i C	all
-id	ai: t i:	all
+id	ai: t i	all
 i'd	ai t	all
+identification	ai t E n_0 t I f I c_h ei: s j O n	all
+identify	ai t E n_0 t I f ai	all
 idol	ai: t O l	all
 iða	I: D a	all
 iða	I: D a	all
@@ -27321,9 +27385,11 @@ internetsins	I n_0 t E r n E t s I n s	standard_clear
 internetsins	I n t_h E r n E t s I n s	northeast_clear
 internets	I n t_h E r n E t s	northeast_clear
 interpol	I n_0 t E r_0 p_h ou l	all
+interpreter	I n_0 t E r_0 p_h r E t E r	all
 interview	I n_0 t E r v j u	all
 into	I n t_h u	all
 invest	I n v E s t	all
+investment	I n v E s t m E n_0 t	all
 investments	I n v E s t m E n_0 t s	all
 iowa	ai: ou a	all
 ipad	ai: p_h a t	all
@@ -28533,6 +28599,7 @@ kafnir	k_h a p n I r	all
 kafnir	k_h a p n I r	all
 kafrjóð	k_h a v r j ou D	all
 kahn	k_h a: n	all
+kahoot	k_h a h u: t	all
 kaiserslautern	k_h ei: s E r_0 s l au t_h E r n	all
 kaíró	k_h ai: r ou	all
 kajaka	k_h a: j a k a	standard_clear
@@ -29567,6 +29634,7 @@ kexið	c_h E k s I D	all
 kexkökur	c_h E k s k_h 9 k_h Y r	north_clear
 kexkökur	c_h E k s k_h 9 k Y r	standard_clear
 kexpakkinn	c_h E k s p_h a h c I n	all
+keyboard	c_h i: p O r t	all
 key	c_h i:	all
 keypta	c_h ei f t a	all
 keypta	c_h ei f t a	all
@@ -30470,8 +30538,8 @@ knattspyrnumaðurinn	k_h n a h t s p I r t n Y m a D Y r I n	standard_clear
 knattspyrnumaðurinn	k_h n a h t s p I t n Y m a D Y r I n	standard_cas
 knattspyrnumaður	k_h n a h t s p I r t n Y m a D Y r	standard_clear
 knattspyrnumaður	k_h n a h t s p I t n Y m a D Y r	standard_cas
-knattspyrnumanna	k_h n a h t s p I t n Y m a n a	standard_cas
 knattspyrnumanna	k_h n a h t s p I r t n Y m a n a	standard_clear
+knattspyrnumanna	k_h n a h t s p I t n Y m a n a	standard_cas
 knattspyrnumála	k_h n a h t s p I r t n Y m au l a	standard_clear
 knattspyrnumála	k_h n a h t s p I t n Y m au l a	standard_cas
 knattspyrnumennirnir	k_h n a h t s p I r t n Y m E n I r t n I r	standard_clear
@@ -30480,8 +30548,8 @@ knattspyrnumenn	k_h n a h t s p I r t n Y m E n	standard_clear
 knattspyrnumenn	k_h n a h t s p I t n Y m E n	standard_cas
 knattspyrnuna	k_h n a h t s p I r t n Y n a	standard_clear
 knattspyrnuna	k_h n a h t s p I t n Y n a	standard_cas
-knattspyrnunnar	k_h n a h t s p I t n Y n a r	standard_cas
 knattspyrnunnar	k_h n a h t s p I r t n Y n a r	standard_clear
+knattspyrnunnar	k_h n a h t s p I t n Y n a r	standard_cas
 knattspyrnunni	k_h n a h t s p I r t n Y n I	standard_clear
 knattspyrnunni	k_h n a h t s p I t n Y n I	standard_cas
 knattspyrnusambandið	k_h n a h t s p I r t n Y s a m p a n t I D	standard_clear
@@ -30498,8 +30566,8 @@ knattspyrnustjóra	k_h n a h t s p I r t n Y s t j ou r a	standard_clear
 knattspyrnustjóra	k_h n a h t s p I t n Y s t j ou r a	standard_cas
 knattspyrnustjóri	k_h n a h t s p I r t n Y s t j ou r I	standard_clear
 knattspyrnustjóri	k_h n a h t s p I t n Y s t j ou r I	standard_cas
-knattspyrnustjórinn	k_h n a h t s p I t n Y s t j ou r I n	standard_cas
 knattspyrnustjórinn	k_h n a h t s p I r t n Y s t j ou r I n	standard_clear
+knattspyrnustjórinn	k_h n a h t s p I t n Y s t j ou r I n	standard_cas
 knattspyrnuvellinum	k_h n a h t s p I r t n Y v E t l I n Y m	standard_clear
 knattspyrnuvellinum	k_h n a h t s p I t n Y v E t l I n Y m	standard_cas
 knái	k_h n au: I	all
@@ -32834,6 +32902,7 @@ langtímum	l au N t_h i m Y m	all
 langtum	l au N_0 t Y m	standard_clear
 langtum	l au N t_h Y m	northeast_clear
 language	l a N k v E t s	all
+languages	l a N k v E t s E s	all
 langvarandi	l au N k v a r a n t I	all
 langveginn	l au N k v ei j I n	all
 langveikra	l au N k v ei k_h r a	north_clear
@@ -32973,6 +33042,7 @@ launatekjur	l 9i: n a t_h E c Y r	standard_clear
 launatengd	l 9i: n a t_h ei N t	all
 launavísitölu	l 9i: n a v i s I t_h 9 l Y	all
 launaþróun	l 9i: n a T r ou Y n	all
+launcher	l O n t s E r	all
 launin	l 9i: n I n	all
 launkofa	l 9i N k_h O v a	all
 launuð	l 9i: n Y D	all
@@ -34187,6 +34257,7 @@ linka	l i N_0 k a	standard_clear
 linka	l i N_0 k a	standard_clear
 linka	l i N k_h a	northeast_clear
 linka	l i N k_h a	northeast_clear
+linkedin	l i N_0 k t I n	all
 linkind	l i n c_h I n t	all
 link	l i N_0 k	standard_clear
 link	l i N k_h	northeast_clear
@@ -35196,8 +35267,8 @@ lógíkina	l ou: c i c_h I n a	north_clear
 lógíkina	l ou: c i c I n a	standard_clear
 lógíkin	l ou: c i c_h I n	north_clear
 lógíkin	l ou: c i c I n	standard_clear
-lógík	l ou: c i k	standard_clear
 lógík	l ou: c i k_h	north_clear
+lógík	l ou: c i k	standard_clear
 lógíska	l ou: c i s k a	all
 lógískan	l ou: c i s k a n	all
 lógískara	l ou: c i s k a r a	all
@@ -36866,7 +36937,8 @@ measure	m E s j Y r	all
 measures	m E s j Y r_0 s	all
 meat	m i: t	all
 media	m i: t i a	all
-medical	m E t I k a l	all
+medical	m E: t I k a l	all
+meditation	m E: t I t_h ei s j O n	all
 medium	m i: t i j Y m	all
 med	m E: t	all
 medvedev	m E: t v E t E v	all
@@ -36947,6 +37019,7 @@ meðvitundar	m E D v I t Y n t a r	standard_clear
 meðvitund	m E D v I t_h Y n t	north_clear
 meðvitund	m E D v I t Y n t	standard_clear
 meeting	m i: t i N	all
+meetings	m i: t i N s	all
 meet	m i: t	all
 mefistó	m E: f I s t ou	all
 megabæta	m E: k a p ai t a	standard_clear
@@ -36955,8 +37028,8 @@ megabætið	m E: k a p ai t_h I D	north_clear
 megabætið	m E: k a p ai t I D	standard_clear
 megabæti	m E: k a p ai t_h I	north_clear
 megabæti	m E: k a p ai t I	standard_clear
-megabæt	m E: k a p ai t	standard_clear
 megabæt	m E: k a p ai t_h	north_clear
+megabæt	m E: k a p ai t	standard_clear
 megabætum	m E: k a p ai t_h Y m	north_clear
 megabætum	m E: k a p ai t Y m	standard_clear
 mega	m ei: G a	all
@@ -37179,6 +37252,7 @@ meltinguna	m E l_0 t i N k Y n a	all
 melur	m E: l Y r	all
 member	m E m p E r	all
 membership	m E m p E r_0 s j I p	all
+members	m E m p E r_0 s	all
 meme	m i: m	all
 me	m E:	all
 memm	m E m	all
@@ -37378,6 +37452,7 @@ merkustu	m E r_0 k Y s t Y	all
 mesópótamía	m E: s ou p_h ou t a m i j a	standard_clear
 mesópótamía	m E: s ou p_h ou t_h a m i j a	north_clear
 message	m E s E t s	all
+messages	m E s E t s E s	all
 messa	m E s a	all
 messa	m E s a	all
 messenger	m E s E n t s j E r	all
@@ -37571,8 +37646,8 @@ miðnætti	m I D n ai h t I	all
 miðnættis	m I D n ai h t I s	all
 miðpunkturinn	m I D p_h u n_0 t Y r I n	standard_clear
 miðpunkturinn	m I D p_h u n t_h Y r I n	northeast_clear
-miðpunktur	m I D p_h u n t_h Y r	northeast_clear
 miðpunktur	m I D p_h u n_0 t Y r	standard_clear
+miðpunktur	m I D p_h u n t_h Y r	northeast_clear
 miðri	m I D r I	all
 miðsitju	m I D s I t_h j Y	north_clear
 miðsitju	m I D s I t j Y	standard_clear
@@ -38622,6 +38697,7 @@ moment	m ou: m E n_0 t	all
 moms	m O m s	all
 monaco	m ou n a k ou	all
 monde	m O n t	all
+money	m O n i	all
 monitoring	m O n I t O r i N	all
 monkey	m O N_0 k i	all
 monkeys	m O N_0 k i s	all
@@ -38747,6 +38823,7 @@ movement	m u: v m E n_0 t	all
 movements	m u: v m E n_0 t s	all
 move	m u: v	all
 movie	m u: v i	all
+movies	m u: v i s	all
 moving	m u: v i N	all
 moyes	m Oi s	all
 mozart	m ou: s a r_0 t	all
@@ -39004,6 +39081,7 @@ murphy	m 9 r_0 f I	all
 murray	m 9 r ei	all
 musharraf	m u s h a r a f	all
 musical	m j u: s I k a l	all
+music	m j u: s I k	all
 musk	m 9 s k	all
 musterisriddarinn	m Y s t E r I s r I t a r I n	all
 must	m 9 s t	all
@@ -39503,6 +39581,7 @@ naut	n 9i: t_h	north_clear
 naut	n 9i: t	standard_clear
 naut	n 9i: t	standard_clear
 navas	n a: v a s	all
+navigation	n a v I c ei s j O n	all
 nábrók	n au: p r ou k_h	north_clear
 nábrók	n au: p r ou k	standard_clear
 náði	n au: D I	all
@@ -40209,6 +40288,7 @@ none	n O n	all
 nonna	n O n a	all
 nonni	n O n I	all
 non	n O n	all
+noona	n u: n a	all
 noon	n u: n	all
 nordal	n O r t a l	all
 nordea	n O r t E a	all
@@ -40894,7 +40974,9 @@ offered	O f E r t	all
 offering	O f E r i N	all
 offer	O f E r	all
 offers	O f E r_0 s	all
+office	O f I s	all
 officer	O f I s E r	all
+official	O f I s j a l	all
 offita	O f I t a	standard_clear
 offita	O f I t_h a	north_clear
 offitu	O f I t_h Y	north_clear
@@ -41054,9 +41136,12 @@ olsson	O l s O n	all
 olympiakos	ou: l I m_0 p i j a k O s	all
 omar	ou: m a r	all
 omega	ou: m E k a	all
+omegle	ou m E k u l	all
 omx	O: E m E k s	all
 once	v O n s	all
 ondo	O n t ou	all
+onedrive	v O n t r ai v	all
+onenote	v O n ou t	all
 ones	v O n s	all
 one	v O n	all
 ongoing	O n k ou i N	all
@@ -41250,8 +41335,8 @@ orkufyrirtækin	O r_0 k Y f I r I r_0 t_h ai c_h I n	north_clear
 orkufyrirtækin	O r_0 k Y f I r I r_0 t_h ai c I n	standard_clear
 orkufyrirtæki	O r_0 k Y f I r I r_0 t_h ai c_h I	north_clear
 orkufyrirtæki	O r_0 k Y f I r I r_0 t_h ai c I	standard_clear
-orkufyrirtækja	O r_0 k Y f I r I r_0 t_h ai c_h a	north_clear
 orkufyrirtækja	O r_0 k Y f I r I r_0 t_h ai c a	standard_clear
+orkufyrirtækja	O r_0 k Y f I r I r_0 t_h ai c_h a	north_clear
 orkugeirans	O r_0 k Y c ei r a n s	all
 orkugjafa	O r_0 k Y c a v a	all
 orkugjafi	O r_0 k Y c a v I	all
@@ -41367,6 +41452,7 @@ ottósson	O h t ou s O n	all
 our	au r	all
 out	au t	all
 outfitters	au t f I h t E r_0 s	all
+outlook	au t l u k	all
 outside	au t s ai t	all
 overall	ou: v E r O l	all
 over	ou: v E r	all
@@ -42139,6 +42225,7 @@ pallíettur	p_h a l i E h t Y r	all
 pall	p_h a t l_0	all
 palmas	p_h a l m a s	all
 palmer	p_h a l m E r	all
+palm	p_h a l m	all
 pamela	p_h a: m E l a	all
 panama	p_h a n a m a	all
 panathinaikos	p_h a: n a T I n ai k_h O s	all
@@ -42304,6 +42391,7 @@ paulo	p_h au: l ou	all
 paul	p_h O: l	all
 pavel	p_h a: v E l	all
 payment	p_h ei: m E n_0 t	all
+paypal	p_h ei: p_h a l	all
 pay	p_h ei:	all
 páfagauk	p_h au: a k 9i k	standard_cas
 páfagauk	p_h au: v a k 9i k_h	north_clear
@@ -42424,6 +42512,7 @@ pensli	p_h E n s t l I	all
 penslum	p_h E n s t l Y m	all
 penslum	p_h E n s t l Y m	all
 pens	p_h E n s	all
+penup	p_h E n 9 p	all
 people	p_h i: p u l	all
 pepe	p_h E p E	all
 pepperoni	p_h E h p E r ou n i	all
@@ -42566,6 +42655,7 @@ péturssonar	p_h j E: t_h Y r_0 s O n a r	north_clear
 péturssonar	p_h j E: t Y r_0 s O n a r	standard_clear
 péturssyni	p_h j E: t_h Y r_0 s I n I	north_clear
 péturssyni	p_h j E: t Y r_0 s I n I	standard_clear
+pfizer	f ai: s E r	all
 pga	p_h j E: k j E a	all
 phantom	f a n_0 t O m	all
 pharma	f a r m a	all
@@ -42587,6 +42677,7 @@ physical	f I s I k a l	all
 pick	p_h I h k	all
 picture	p_h I k s j Y r	all
 pictures	p_h I k s j Y r_0 s	all
+picturethis	p_h I k s Y r D I s	all
 piece	p_h i: s	all
 pieces	p_h i: s E s	all
 pierre	p_h i: j E r	all
@@ -42620,8 +42711,8 @@ pilluátið	p_h I l Y au t_h I D	north_clear
 pilluátið	p_h I l Y au t I D	standard_clear
 pilluáti	p_h I l Y au t_h I	north_clear
 pilluáti	p_h I l Y au t I	standard_clear
-pilluát	p_h I l Y au t	standard_clear
 pilluát	p_h I l Y au t_h	north_clear
+pilluát	p_h I l Y au t	standard_clear
 pilluboxi	p_h I l Y p O k s I	all
 pillubox	p_h I l Y p O k s	all
 pilluboxum	p_h I l Y p O k s Y m	all
@@ -42675,6 +42766,7 @@ pink	p_h i N k_h	northeast_clear
 pinni	p_h I n I	all
 pinni	p_h I n I	all
 pinot	p_h i: n ou	all
+pinterest	p_h I n_0 t E r E s t	all
 piparmey	p_h I: p a r m ei	standard_clear
 piparmey	p_h I: p_h a r m ei	north_clear
 piparnum	p_h I: p a r t n Y m	standard_clear
@@ -42948,6 +43040,7 @@ plötusöfnun	p_h l 9: t_h Y s 9 p n Y n	north_clear
 plötusöfnun	p_h l 9: t Y s 9 p n Y n	standard_clear
 pm	p_h j E E m	all
 podcast	p_h O t k_h a s t	all
+podcasts	p_h O t k_h a s t s	all
 pod	p_h O t	all
 poetry	p_h ou E t_h r i	all
 pogba	p_h O k p a	all
@@ -43066,6 +43159,7 @@ popular	p_h O p u l a r	all
 pork	p_h O r_0 k	all
 por	p_h O r	all
 porsche	p_h O r_0 s	all
+portfolio	p_h O r_0 t f ou l i j ou	all
 portland	p_h O r_0 t l a n t	all
 porto	p_h O r_0 t ou	all
 port	p_h O r_0 t	all
@@ -43334,6 +43428,7 @@ produce	p_h r O t u s	all
 production	p_h r O t 9 x s j O n	all
 product	p_h r O t 9 x t	all
 products	p_h r O t u x t s	all
+profile	p_h r ou: f ai l	all
 programme	p_h r ou k r a m	all
 program	p_h r ou k r a m	all
 progress	p_h r O k r E s	all
@@ -43345,6 +43440,7 @@ proposed	p_h r O p ou: s t	all
 proppé	p_h r O h p j E	all
 prop	p_h r O p	all
 prost	p_h r ou s t	all
+protect	p_h r O t_h E x t	all
 protein	p_h r O t_h i n	all
 protest	p_h r O t E s t	all
 protocol	p_h r ou t O k_h O l	all
@@ -44217,6 +44313,7 @@ ráspól	r au: s p_h ou l	all
 rás	r au: s	all
 reached	r i t s t	all
 reach	r i t s	all
+reader	r i: t E r	all
 reading	r i: t i N	all
 read	r i: t	all
 reads	r i: t s	all
@@ -44237,6 +44334,7 @@ records	r E k O r t s	all
 redda	r E t a	all
 redda	r E t a	all
 reddast	r E t a s t	all
+reddit	r E t I t	all
 redknapp	r E t n a h p	all
 red	r E t	all
 reður	r E: D Y r	all
@@ -44592,6 +44690,7 @@ retta	r E h t a	all
 reuters	r u t E r_0 s	all
 revenue	r E v E n j u	all
 revolution	r E v O l u s j O n	all
+reward	r i v O r t	all
 reyðarfirði	r ei: D a r_0 f I r D I	all
 reyðarfjarðar	r ei: D a r_0 f j a r D a r	all
 reyðarfjörð	r ei: D a r_0 f j 9 r D	all
@@ -44990,6 +45089,7 @@ ringluð	r i N l Y D	all
 ringluð	r i N l Y D	all
 ring	r i N	all
 rings	r i N s	all
+ringtones	r i N t_h ou n s	all
 ringulreið	r i N k Y l r ei D	all
 rio	r i: ou	all
 risa	r I: s a	all
@@ -47182,6 +47282,7 @@ sáum	s au: Y m	all
 sáum	s au: Y m	all
 sáu	s au: Y	all
 sáust	s au: Y s t	all
+scanner	s k a n E r	all
 scene	s i: n	all
 scheduled	s c E t j u l t	all
 scheving	s c E: v i N k	all
@@ -47191,6 +47292,8 @@ schumacher	s j u: m a x E r	all
 science	s ai j E n s	all
 sciences	s ai j E n s E s	all
 scientists	s ai j E n t_h I s t s	all
+scooter	s k u: t E r	all
+scooters	s k u: t E r_0 s	all
 scored	s k O: r t	all
 scores	s k O: r s	all
 scotland	s k O h t l a n t	all
@@ -47585,6 +47688,7 @@ serótónín	s E: r ou t_h ou n i n	all
 serum	s E r u m	all
 served	s 9: r v t	all
 serve	s 9: r v	all
+service	s 9 r v I s	all
 services	s 9 r v I s E s	all
 sesselja	s E s E l j a	all
 sesselju	s E s E l j Y	all
@@ -47784,17 +47888,22 @@ shape	s j ei: p	all
 shared	s j E: r t	all
 share	s j E: r	all
 shares	s j E: r s	all
+sharing	s j E: r i N	all
 sharon	s h a: r O n	all
 sharons	s j a: r O n s	all
 shaun	s j O: n	all
 shaw	s j O:	all
+shazam	s j a s a: m	all
 shearer	s j i r E r	all
 sheen	s j i: n	all
 sheep	s j i: p	all
 sheeran	s j i: r a n	all
+sheets	s j i t s	all
 sheffield	s j E f i l t	all
 sheff	s j E f	all
 sheikh	s j ei k	all
+shein-fashion	s j i: j I n f a s j O n	all
+shein	s j i: j I n	all
 shell	s j E l	all
 she	s j i:	all
 she's	s j i s	all
@@ -47807,6 +47916,7 @@ ship	s j I p	all
 ships	s j I p s	all
 shit	s j I t	all
 shock	s j O h k	all
+shoes	s j u: s	all
 shooting	s j u: t i N	all
 shoot	s j u: t	all
 shopping	s j O h p i N	all
@@ -47819,6 +47929,7 @@ shouse	s j au: s	all
 showed	s j ou: t	all
 showing	s j ou: i N	all
 shown	s j ou: n	all
+show	s j ou:	all
 shows	s j ou: s	all
 shy	s j ai:	all
 sibba	s I p a	all
@@ -48383,8 +48494,8 @@ sjálfboðaliðar	s j au l p O D a l I D a r	standard_cas
 sjálfboðaliðar	s j au l v p O D a l I D a r	standard_clear
 sjálfboðaliða	s j au l p O D a l I D a	standard_cas
 sjálfboðaliða	s j au l v p O D a l I D a	standard_clear
-sjálfboðaliði	s j au l v p O D a l I D I	standard_clear
 sjálfboðaliði	s j au l p O D a l I D I	standard_cas
+sjálfboðaliði	s j au l v p O D a l I D I	standard_clear
 sjálfboðaliðum	s j au l p O D a l I D Y m	standard_cas
 sjálfboðaliðum	s j au l v p O D a l I D Y m	standard_clear
 sjálfboðavinnu	s j au l p O D a v I n Y	standard_cas
@@ -50579,6 +50690,7 @@ skyldur	s c I l t Y r	all
 skyldu	s c I l t Y	all
 skyldutrygging	s c I l t Y t_h r I c i N k	all
 skyldutryggingu	s c I l t Y t_h r I c i N k Y	all
+skyline	s k ai: l ai n	all
 skylt	s c I l_0 t	all
 skyndihjálp	s c I n t I C au l_0 p	standard_clear
 skyndihjálp	s c I n t I C au l p_h	northeast_clear
@@ -51065,6 +51177,7 @@ smalling	s m O l i N	all
 smalli	s m a l I	all
 small	s m O l	all
 smart	s m a r_0 t	all
+smartwallet	s m a r_0 t v O l E t	all
 smáar	s m au: a r	all
 smáa	s m au: a	all
 smáatriði	s m au: a t_h r I D I	north_clear
@@ -51143,6 +51256,7 @@ smiti	s m I: t_h I	north_clear
 smiti	s m I: t I	standard_clear
 smit	s m I: t_h	north_clear
 smit	s m I: t	standard_clear
+smitten	s m I h t E n	all
 smíðaðir	s m i: D a D I r	all
 smíðaði	s m i: D a D I	all
 smíðað	s m i: D a D	all
@@ -51487,6 +51601,7 @@ sonur	s O: n Y r	all
 sony	s ou: n i	all
 soon	s u: n	all
 sophie	s ou: f i	all
+sophos	s ou: f O s	all
 sophusson	s ou: f Y s O n	all
 sorgina	s O r c I n a	all
 sorginni	s O r c I n I	all
@@ -51508,6 +51623,7 @@ sortna	s O r_0 t n a	all
 sortna	s O r_0 t n a	all
 sort	s O r_0 t	all
 soul	s ou: l	all
+soundboard	s au: n t p O r t	all
 sound	s au: n t	all
 sounds	s au: n t s	all
 souness	s u: n E s	all
@@ -51935,6 +52051,7 @@ spornað	s p O t n a D	standard_cas
 sporna	s p O r t n a	standard_clear
 sporna	s p O t n a	standard_cas
 spor	s p O: r	all
+sportabler	s p O r_0 t a p l E r	all
 sporting	s p O r_0 t i N	all
 sport	s p O r_0 t	all
 sports	s p O r_0 s	standard_cas
@@ -53230,9 +53347,9 @@ stjórnmálunum	s t j ou t n m au l O n Y m	standard_cas
 stjórnskipan	s t j ou r t n_0 s c I p a n	standard_clear
 stjórnskipan	s t j ou r t n_0 s c I p_h a n	north_clear
 stjórnskipan	s t j ou t n_0 s c I p a n	standard_cas
-stjórnskipun	s t j ou t n_0 s c I p Y n	standard_cas
 stjórnskipun	s t j ou r t n_0 s c I p_h Y n	north_clear
 stjórnskipun	s t j ou r t n_0 s c I p Y n	standard_clear
+stjórnskipun	s t j ou t n_0 s c I p Y n	standard_cas
 stjórnstaður	s t j ou r t n_0 s t a D Y r	standard_clear
 stjórnstaður	s t j ou t n_0 s t a D Y r	standard_cas
 stjórn	s t j ou r t n_0	standard_clear
@@ -53248,8 +53365,8 @@ stjórnsýsluleg	s t j ou r t n_0 s i s t l Y l E G	standard_clear
 stjórnsýsluleg	s t j ou t n_0 s i s t l Y l E G	standard_cas
 stjórnsýslulögum	s t j ou r t n_0 s i s t l Y l 9 G Y m	standard_clear
 stjórnsýslulögum	s t j ou t n_0 s i s t l Y l 9 G Y m	standard_cas
-stjórnsýsluna	s t j ou t n_0 s i s t l Y n a	standard_cas
 stjórnsýsluna	s t j ou r t n_0 s i s t l Y n a	standard_clear
+stjórnsýsluna	s t j ou t n_0 s i s t l Y n a	standard_cas
 stjórnsýslunnar	s t j ou r t n_0 s i s t l Y n a r	standard_clear
 stjórnsýslunnar	s t j ou t n_0 s i s t l Y n a r	standard_cas
 stjórnsýslunni	s t j ou r t n_0 s i s t l Y n I	standard_clear
@@ -53258,8 +53375,8 @@ stjórnsýsluréttar	s t j ou r t n_0 s i s t l Y r j E h t a r	standard_clear
 stjórnsýsluréttar	s t j ou t n_0 s i s t l Y r j E h t a r	standard_cas
 stjórnsýslu	s t j ou r t n_0 s i s t l Y	standard_clear
 stjórnsýslu	s t j ou t n_0 s i s t l Y	standard_cas
-stjórntæki	s t j ou r t n_0 t_h ai c I	standard_clear
 stjórntæki	s t j ou r t n_0 t_h ai c_h I	north_clear
+stjórntæki	s t j ou r t n_0 t_h ai c I	standard_clear
 stjórntæki	s t j ou t n_0 t_h ai c I	standard_cas
 stjórnuðu	s t j ou r t n Y D Y	standard_clear
 stjórnuðu	s t j ou t n Y D Y	standard_cas
@@ -53427,12 +53544,14 @@ stopp	s t O h p	all
 stoppuðum	s t O h p Y D Y m	all
 stoppuðum	s t O h p Y D Y m	all
 stop	s t O p	all
+storage	s t O: r E t s	all
 store	s t O: r	all
 stories	s t O: r i s	all
 stormi	s t O r m I	all
 storm	s t O r m	all
 stormur	s t O r m Y r	all
 story	s t O: r i	all
+storytel	s t O: r i t_h E l	all
 stóðhestar	s t ou T h E s t a r	all
 stóð	s t ou: D	all
 stóð	s t ou: D	all
@@ -55629,6 +55748,7 @@ tautaði	t_h 9i: t a D I	standard_clear
 tautaði	t_h 9i: t_h a D I	north_clear
 tauta	t_h 9i: t a	standard_clear
 tauta	t_h 9i: t_h a	north_clear
+taxihreyfill	t_h a k s i r_0 ei v I t l_0	all
 taxi	t_h a k s i	all
 taxta	t_h a k s t a	all
 tax	t_h a k s	all
@@ -55804,6 +55924,7 @@ teldust	t_h E l t Y s t	all
 teldu	t_h E l t Y	all
 telefaxi	t_h E: l E f a k s I	all
 telefax	t_h E: l E f a k s	all
+telegram	t_h E: l E k r a m	all
 telegraph	t_h E: l E k r a f	all
 television	t_h E l E v I s j O n	all
 teljandi	t_h E l j a n t I	all
@@ -55812,6 +55933,7 @@ telja	t_h E l j a	all
 teljist	t_h E l j I s t	all
 telji	t_h E l j I	all
 teljum	t_h E l j Y m	all
+teller	t_h E l E r	all
 tells	t_h E l s	all
 tell	t_h E l	all
 telma	t_h E l m a	all
@@ -55989,11 +56111,13 @@ that	D a t_h	north_clear
 that	D a t	standard_clear
 that's	D E t s	all
 theater	T i: E t_h E r	all
+the	D E	all
 theft	T E f t	all
 their	D E r	all
 thelma	t_h E l m a	all
 thelmu	t_h E l m Y	all
 them	D E m	all
+themes	T i: m s	all
 then	D E n	all
 theodóra	t_h E: O t ou r a	all
 theodór	t_h E: O t ou r	all
@@ -56011,6 +56135,7 @@ they	D ei:	all
 they're	D E: r	all
 thief	T i: f	all
 thierry	t_h i j E r I	all
+things	T i N s	all
 thing	T i N	all
 thinking	T i N k_h i N	all
 think	T i N_0 k	all
@@ -56053,6 +56178,7 @@ tif	t_h I: f	all
 tiger	t_h ai: k E r	all
 tignarleg	t_h I k n a r l E G	all
 tign	t_h I k n_0	all
+tiktok	t_h I h k t_h O h k	all
 tilbaka	t_h I l p a k a	standard_clear
 tilbaka	t_h I l p a k_h a	north_clear
 tilbeiðsla	t_h I l p ei D s t l a	all
@@ -56181,8 +56307,8 @@ tillann	t_h I l a n	all
 tillanum	t_h I l a n Y m	all
 tillarnir	t_h I l a r t n I r	standard_clear
 tillarnir	t_h I l a t n I r	standard_cas
-tilla	t_h I t l a	all
 tilla	t_h I l a	all
+tilla	t_h I t l a	all
 tillen	t_h I l E n	all
 tilli	t_h I l I	all
 tilli	t_h I t l I	all
@@ -56427,8 +56553,8 @@ tímabundinn	t_h i: m a p Y n t I n	all
 tímabundin	t_h i: m a p Y n t I n	all
 tímabundnar	t_h i: m a p Y n a r	standard_cas
 tímabundnar	t_h i: m a p Y n t n a r	standard_clear
-tímabundna	t_h i: m a p Y n t n a	standard_clear
 tímabundna	t_h i: m a p Y n a	standard_cas
+tímabundna	t_h i: m a p Y n t n a	standard_clear
 tímabundnum	t_h i: m a p Y n t n Y m	standard_clear
 tímabundnum	t_h i: m a p Y n Y m	standard_cas
 tímabundnu	t_h i: m a p Y n t n Y	standard_clear
@@ -56723,6 +56849,7 @@ tortryggni	t_h O r_0 t_h r I k n I	all
 torvelda	t_h O r v E l t a	all
 totally	t_h ou: t_h a l i	all
 total	t_h ou: t a l	all
+to	t_h u:	all
 tottenham	t_h O h t E n h a m	all
 tot	t_h O t	all
 totti	t_h O h t i	all
@@ -56871,6 +56998,7 @@ tóta	t_h ou: t a	standard_clear
 tóta	t_h ou: t_h a	north_clear
 tóti	t_h ou: t_h I	north_clear
 tóti	t_h ou: t I	standard_clear
+tracker	t_h r a h k E r	all
 track	t_h r a h k	all
 trade	t_h r ei: t	all
 trading	t_h r ei: t i N	all
@@ -56898,6 +57026,7 @@ tranmere	t_h r a n m i r	all
 transfer	t_h r a n s f E r	all
 transit	t_h r a n s I t	all
 translate	t_h r a n s l ei t	all
+translator	t_h r a n s l ei t O r	all
 transport	t_h r a n s p O r_0 t	all
 trans	t_h r a n s	all
 trauma	t_h r au: m a	all
@@ -61024,7 +61153,8 @@ vélunum	v j E: l O n Y m	all
 vél	v j E: l	all
 vér	v j E: r	all
 vésteinn	v j E s t ei t n_0	all
-via	v i: a	all
+viaplay	v i: j a p_h l ei	all
+via	v i: j a	all
 viã	v i: j a	all
 viborg	v I: p O r k	all
 victims	v I x t I m s	all
@@ -61709,6 +61839,7 @@ virta	v I r_0 t a	all
 virtir	v I r_0 t I r	all
 virtist	v I r_0 t I s t	all
 virti	v I r_0 t I	all
+virtual	v 9 r_0 t j u a l	all
 virtum	v I r_0 t Y m	all
 virtur	v I r_0 t Y r	all
 virtustu	v I r_0 t Y s t Y	all
@@ -62104,6 +62235,7 @@ vogue	v ou: k	all
 vogum	v O: G Y m	all
 vogum	v O: G Y m	all
 vog	v O: G	all
+voice	v Oi s	all
 volga	v O l k a	all
 volga	v O l k a	all
 volgt	v O l_0 t	all
@@ -62406,6 +62538,7 @@ wales	v ei: l s	all
 walker	v O l_0 k E r	all
 walking	v O: k i N	all
 walk	v O: k	all
+wallet	v O l E t	all
 wall	v O l	all
 walter	v O l_0 t E r	all
 wanderers	v O n t E r E r_0 s	all
@@ -62438,12 +62571,14 @@ wave	v ei: v	all
 wayne	v ei: n	all
 ways	v ei: s	all
 wealth	v E l T	all
+wearable	v E: r a p u l	all
 wearing	v E: r i N	all
 wear	v E: r	all
 weather	v E: D E r	all
 webber	v E p E r	all
 web	v E p	all
 wedding	v E t i N	all
+weed	v i t	all
 weekend	v i k E n t	all
 weeks	v i k s	all
 weight	v ei: t	all
@@ -62468,7 +62603,9 @@ we've	v i: v	all
 whales	v ei l s	all
 whale	v ei: l	all
 whaling	v ei: l i N	all
-what's	v a h t s	all
+whatsapp	v O t s a h p	all
+whatsflirt	v O t s f l 9 r_0 t	all
+what's	v O t s	all
 while	v ai: l	all
 whitney	v I h t n i	all
 whom	h u: m	all
@@ -62476,8 +62613,11 @@ whose	h u: s	all
 why	v ai:	all
 wicked	v I h k E t	all
 wide	v ai: t	all
+widgets	v I t s j E t s	all
 wieder	v i: t E r	all
 wife	v ai: f	all
+wi-fi	v ai: f ai	all
+wifi	v ai: f ai	all
 wildlife	v ai: l t l ai: f	all
 wild	v ai: l t	all
 williams	v I l j a m s	all
@@ -62514,7 +62654,6 @@ won't	v ou n_0 t	all
 won	v O n	all
 woods	v u: t s	all
 wood	v u: t	all
-WORD	SAMPA	PRON_VARIANT
 words	v 9 r t s	all
 word	v 9 r t	all
 worked	v 9 r_0 k t	all
@@ -62801,7 +62940,9 @@ zeit	t s ai: t	all
 zeppelin	s E h p E l I n	all
 zero	s i: r ou	all
 zoëga	s ou: E k a	all
+zolo	s ou: l ou	all
 zone	s ou: n	all
+zoom	s u m	all
 zoo	s u:	all
 zuckerberg	s 9 h k E r p E r k	all
 þaðan	T a: D a n	all
