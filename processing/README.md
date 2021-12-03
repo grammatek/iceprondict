@@ -1,7 +1,9 @@
 The Python script check_agreement.py is meant to be run from the command line to check for errors, discrepancies and suspicious-looking entries in the Icelandic pronunciation dictionary. Any suspected errors are written to an output file.
 
 The name of the file to be checked for errors and the output file that we want to write to can be specified by the user like so:
-$ python check_agreement.py --PEDI_file=my_PEDI_file.csv --output_file=my_output_file.txt
+```bash
+python check_agreement.py --PEDI_file=my_PEDI_file.csv --output_file=my_output_file.txt
+```
 
 If no arguments are given, the script looks for a file called 'ice_pron_dict_complete_2106.csv' in the same directory as the script and writes to a file called 'check_agreement_output.txt' (overwritten every time the script is run).
 
