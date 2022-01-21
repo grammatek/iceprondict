@@ -17,7 +17,8 @@ clusters = ['áf','ág','óf','óg','úf','úg','fld','gns','gts','fns','kts','f
           'rms','rmt','rnd','rnsk','rps','rpst','rpts','rsk','rsks','rskt','rsl','rsn','rst','rrst',
           'rsts','rts','rrts','sks','sps','stk','sts']
 tf = ['true', 'false']
-languages = ['IS', 'GB', 'DE', 'FR', 'IT', 'DK', 'NL', 'NO', 'SE', 'ES']
+languages = ['IS', 'GB', 'DE', 'FR', 'IT', 'DK', 'NL', 'NO', 'SE', 'ES', 'AR', 'RU', 'TR', 'NE', 'TH', 'HU', 'PL', 'SR',
+             'HY', 'HE', 'EL', 'BU','SQ', 'ZH', 'KO', 'JA', 'FO', 'PO', 'FA']
 variants = ['standard_clear', 'standard_cas', 'north_clear', 'north_cas', 'northeast_clear',
        'northeast_cas', 'south_clear','south_cas', 'all']
 POS = ['n', 'lo', 'so', 'fn', 'ao', 'ns', 'to', 'fs', 'st', 'none']
