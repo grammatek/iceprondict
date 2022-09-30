@@ -1,3 +1,4 @@
+aalesund	O: l E s Y n t
 aaron	a: r O n
 ab	a: p j E
 abbadísin	a p a t i s I n
@@ -50,6 +51,7 @@ adolfs	a: t O l f s
 adolfsson	a: t O l f s O n
 adrian	a t r i a n
 advania	a t v a n i j a
+að	a: D
 aðal	a: D a l
 aðalatriði	a: D a l a t_h r I D I
 aðalatriðið	a: D a l a t_h r I D I D
@@ -215,6 +217,7 @@ aðgerðirnar	a D c E r D I r t n a r
 aðgerðum	a D c E r D Y m
 aðgerðunum	a D c E r D O n Y m
 aðgreina	a D k r ei n a
+aðgreining	a D k r ei n i N k
 aðgreiningar	a D k r ei n i N k a r
 aðgæslu	a D c ai s t l Y
 aðgætni	a D c ai h t n I
@@ -293,6 +296,7 @@ aðspurður	a D s p Y r D Y r
 aðspurt	a D s p Y r_0 t
 aðstaða	a D s t a D a
 aðstaðan	a D s t a D a n
+aðstandandi	a D s t a n t a n t I
 aðstandenda	a D s t a n t E n t a
 aðstandendum	a D s t a n t E n t Y m
 aðstandendur	a D s t a n t E n t Y r
@@ -429,6 +433,7 @@ aflabrögð	a p l a p r 9 G D
 aflað	a p l a D
 aflaði	a p l a D I
 aflaheimilda	a p l a h ei m I l t a
+aflaheimild	a p l a h ei m I l t
 aflaheimildir	a p l a h ei m I l t I r
 aflaheimildum	a p l a h ei m I l t Y m
 aflahlutdeild	a p l a l_0 Y t ei l t
@@ -473,6 +478,7 @@ aflýst	a v l i s t
 afmarka	a v m a r_0 k a
 afmarkaða	a v m a r_0 k a D a
 afmarkað	a v m a r_0 k a D
+afmarkaður	a v m a r_0 k a D Y r
 afmarkast	a v m a r_0 k a s t
 afmá	a v m au
 afmæli	a v m ai l I
@@ -481,6 +487,7 @@ afmælinu	a v m ai l I n Y
 afmælis	a v m ai l I s
 afmælisbarns	a v m ai l I s p a r_0 s
 afmælisdaginn	a v m ai l I s t ai j I n
+afmælisdagur	a v m ai l I s t a G Y r
 afmælisdegi	a v m ai l I s t ei j I
 afmælisgjöf	a v m ai l I s c 9 f
 afmælisins	a v m ai l I s I n s
@@ -686,7 +693,6 @@ agressívum	a: k r E s i v Y m
 agressívur	a: k r E s i v Y r
 ags	a c j E: E s
 agüero	a k u E r ou
-aguero	a k v E r ou
 agúrka	a: k u r_0 k a
 agúrkan	a: k u r_0 k a n
 agúrkna	a: k u r_0 k n a
@@ -804,6 +810,7 @@ aldnir	a l t n I r
 aldraða	a l t r a D a
 aldraðir	a l t r a D I r
 aldraðra	a l t r a D r a
+aldraður	a l t r a D Y r
 aldrei	a l t r ei
 aldri	a l t r I
 aldrinum	a l t r I n Y m
@@ -816,6 +823,7 @@ aldursflokkum	a l t Y r_0 s f l O h k Y m
 aldurshópa	a l t Y r_0 s h ou p_h a
 aldurshópnum	a l t Y r_0 s h ou h p n Y m
 aldurshópum	a l t Y r_0 s h ou p_h Y m
+aldurshópur	a l t Y r_0 s h ou p_h Y r
 aldursmunur	a l t Y r_0 s m Y n Y r
 aldurstakmark	a l t Y r_0 s t_h a k m a r_0 k
 aldurstakmarkið	a l t Y r_0 s t_h a k m a r_0 c I D
@@ -918,6 +926,7 @@ alllangt	a t l au N_0 t
 alllengi	a t l ei J c I
 allmargar	a t l m a r k a r
 allmargir	a t l m a r c I r
+allmargur	a t l m a r k Y r
 allmikið	a t l m I c_h I D
 allmiklu	a t l m I h k l Y
 allmörg	a t l m 9 r k
@@ -1125,6 +1134,7 @@ alþjóðlegt	a l T j ou D l E x t
 alþjóðlegu	a l T j ou D l E G Y
 alþjóðlegum	a l T j ou D l E G Y m
 alþjóðlegur	a l T j ou D l E G Y r
+alþýða	a l T i D a
 alþýðu	a l T i D Y
 alþýðubandalagið	a l T i D Y p a n t a l ai j I D
 alþýðubandalaginu	a l T i D Y p a n t a l ai j I n Y
@@ -1212,6 +1222,7 @@ andlegri	a n t l E G r I
 andlegt	a n t l E x t
 andlegu	a n t l E G Y
 andlegum	a n t l E G Y m
+andlegur	a n t l E G Y r
 andlit	a n t l I t_h
 andliti	a n t l I t_h I
 andlitið	a n t l I t_h I D
@@ -1422,6 +1433,7 @@ appið	a h p I D
 apple	a h p u l
 apps	a h p s
 april	ei: p_h r I l
+apríl	a: p_h r i l
 aprílkönnun	a: p_h r i l_0 k_h 9 n Y n
 aprílmánuði	a: p_h r i l m au n Y D I
 ara	a: r a
@@ -1638,6 +1650,7 @@ athyglisverð	a: t h I k l I s v E r D
 athyglisverðri	a: t h I k l I s v E r D r I
 athyglisverðu	a: t h I k l I s v E r D Y
 athyglisverðum	a: t h I k l I s v E r D Y m
+athyglisverður	a: t h I k l I s v E r D Y r
 athyglisverðustu	a: t h I k l I s v E r D Y s t Y
 athyglisvert	a: t h I k l I s v E r_0 t
 athæfi	a: t h ai v I
@@ -1895,6 +1908,7 @@ augnablikinu	9i k n a p l I c_h I n Y
 augnablikum	9i k n a p l I k_h Y m
 augnakrókunum	9i k n a k_h r ou k_h O n Y m
 augnamiði	9i k n a m I D I
+augnaráð	9i k n a r au D
 augnatillit	9i k n a t_h I l I t_h
 augnbotna	9i k n_0 p O h t n a
 augndeild	9i k n_0 t ei l t
@@ -2032,6 +2046,7 @@ axli	a k s t l I
 axlirnar	a k s t l I r t n a r
 aþena	a: T E n a
 aþenu	a: T E n Y
+á	au:
 ábata	au: p a t_h a
 ábendinga	au: p E n t i N k a
 ábendingar	au: p E n t i N k a r
@@ -2188,6 +2203,7 @@ aþenu	a: T E n Y
 áherslum	au: h E r_0 s t l Y m
 áherslur	au: h E r_0 s t l Y r
 áherslurnar	au: h E r_0 s t l Y r t n a r
+áheyrandi	au: h ei r a n t I
 áheyrenda	au: h ei r E n t a
 áheyrendur	au: h ei r E n t Y r
 áheyrnarfulltrúar	au: h ei r t n a r f Y t l_0 t_h r u a r
@@ -2207,6 +2223,7 @@ aþenu	a: T E n Y
 áhrifamesti	au: r_0 I v a m E s t I
 áhrifamestu	au: r_0 I v a m E s t Y
 áhrifamikil	au: r_0 I v a m I c_h I l
+áhrifamikill	au: r_0 I v a m I c_h I t l_0
 áhrifarík	au: r_0 I v a r i k_h
 áhrifaríkt	au: r_0 I v a r i x t
 áhrifasvæði	au: r_0 I v a s v ai D I
@@ -2248,6 +2265,7 @@ aþenu	a: T E n Y
 áhugi	au: h Yi j I
 áhuginn	au: h Yi j I n
 áhvílandi	au: k_h v i l a n t I
+áhyggja	au: h I c a
 áhyggjuefni	au: h I c Y E p n I
 áhyggjufull	au: h I c Y f Y t l_0
 áhyggjufullir	au: h I c Y f Y t l I r
@@ -2444,6 +2462,7 @@ aþenu	a: T E n Y
 ámæli	au: m ai l I
 ámælisvert	au: m ai l I s v E r_0 t
 ána	au: n a
+án	au: n
 ánetjast	au: n E t_h j a s t
 ánna	au n a
 ánni	au n I
@@ -2462,6 +2481,7 @@ aþenu	a: T E n Y
 ánægjulegra	au: n ai j Y l E G r a
 ánægjulegt	au: n ai j Y l E x t
 ánægjulegu	au: n ai j Y l E G Y
+ánægjulegur	au: n ai j Y l E G Y r
 ánægjunnar	au: n ai j Y n a r
 ánægjunni	au: n ai j Y n I
 ánægt	au: n ai x t
@@ -2487,6 +2507,7 @@ aþenu	a: T E n Y
 árangursrík	au: r au N k Y r_0 s r i k_h
 árangursríkt	au: r au N k Y r_0 s r i x t
 árangursríkum	au: r au N k Y r_0 s r i k_h Y m
+árangursríkur	au: r au N k Y r_0 s r i k_h Y r
 árangursskýrslu	au: r au N k Y r_0 s c i r_0 s t l Y
 árangursstjórnun	au: r au N k Y r_0 s t j ou r t n Y n
 áranna	au: r a n a
@@ -2504,6 +2525,7 @@ aþenu	a: T E n Y
 áratugum	au: r a t_h Y G Y m
 áratugur	au: r a t_h Y G Y r
 áratugurinn	au: r a t_h Y G Y r I n
+ár	au: r
 árása	au: r au s a
 árásanna	au: r au s a n a
 árásar	au: r au s a r
@@ -2597,6 +2619,7 @@ aþenu	a: T E n Y
 árnadóttur	au r t n a t ou h t Y r
 árnagarði	au r t n a k a r D I
 árnar	au r t n a r
+árnasonar	au r t n a s O n a r
 árnason	au r t n a s O n
 árnastofnun	au r t n a s t O p n Y n
 árnasyni	au r t n a s I n I
@@ -2615,6 +2638,7 @@ aþenu	a: T E n Y
 ársfjórðung	au r_0 s f j ou r D u N k
 ársfjórðungi	au r_0 s f j ou r D u J c I
 ársfjórðungs	au r_0 s f j ou r D u N s
+ársfjórðungur	au r_0 s f j ou r D u N k Y r
 ársfundar	au r_0 s f Y n t a r
 ársfundi	au r_0 s f Y n t I
 ársgrundvelli	au r_0 s k r Y n t v E t l I
@@ -2811,11 +2835,13 @@ aþenu	a: T E n Y
 ástvini	au s t v I n I
 ástvinir	au s t v I n I r
 ástvinum	au s t v I n Y m
+ástvinur	au s t v I n Y r
 ástþór	au s t T ou r
 ástæða	au: s t ai D a
 ástæðan	au: s t ai D a n
 ástæðna	au: s t ai D n a
 ástæðu	au: s t ai D Y
+ástæðulaus	au: s t ai D Y l 9i s
 ástæðulaust	au: s t ai D Y l 9i s t
 ástæðulausu	au: s t ai D Y l 9i s Y
 ástæðum	au: s t ai D Y m
@@ -2898,6 +2924,7 @@ aþenu	a: T E n Y
 áverkum	au: v E r_0 k Y m
 ávexti	au: v E k s t I
 ávextir	au: v E k s t I r
+ávinning	au: v I n i N k
 ávinningi	au: v I n i J c I
 ávinnings	au: v I n i N s
 ávinningur	au: v I n i N k Y r
@@ -2911,6 +2938,7 @@ aþenu	a: T E n Y
 ávöxtunarkrafa	au: v 9 k s t Y n a r_0 k_h r a v a
 ávöxtunarkröfu	au: v 9 k s t Y n a r_0 k_h r 9 v Y
 ávöxtun	au: v 9 k s t Y n
+ávöxtur	au: v 9 k s t Y r
 áþekk	au: T E h k
 áþekkt	au: T E x t
 áþreifanlega	au: T r ei v a n l E G a
@@ -3218,6 +3246,7 @@ bangsinn	p au N s I n
 bangsi	p au N s I
 bangsímon	p au N s i m O n
 banhungruð	p a: n h u N k r Y D
+bani	p a: n I
 bankaði	p au N_0 k a D I
 bankahrunið	p au N_0 k a r_0 Y n I D
 bankahruninu	p au N_0 k a r_0 Y n I n Y
@@ -3269,6 +3298,7 @@ bannað	p a n a D
 bannaður	p a n a D Y r
 banna	p a n a
 bannar	p a n a r
+bannfæring	p a n f ai r i N k
 bannið	p a n I D
 banninu	p a n I n Y
 banni	p a n I
@@ -3312,6 +3342,7 @@ barmafullt	p a r m a f Y l_0 t
 barmhvelfdar	p a r m k_h v E l t a r
 barmi	p a r m I
 barm	p a r m
+barmur	p a r m Y r
 barnaballið	p a r t n a p a l I D
 barnaballinu	p a r t n a p a l I n Y
 barnaballi	p a r t n a p a l I
@@ -3340,6 +3371,7 @@ barnakennarinn	p a r t n a c_h E n a r I n
 barnaklám	p a r t n a k_h l au m
 barnakór	p a r t n a k_h ou r
 barnalaga	p a r t n a l a G a
+barnalag	p a r t n a l a G
 barnalands	p a r t n a l a n t s
 barnalegt	p a r t n a l E x t
 barnalegur	p a r t n a l E G Y r
@@ -3458,8 +3490,8 @@ baul	p 9i: l
 baunabelgnum	p 9i: n a p E l n Y m
 baunir	p 9i: n I r
 baun	p 9i: n
-bayern	p ai: j E r n
-bayer	p ai: E r
+bayern	p ai j E r n
+bayer	p ai E r
 bay	p ei:
 báða	p au: D a
 báðar	p au: D a r
@@ -3468,6 +3500,7 @@ báðum	p au: D Y m
 báðu	p au: D Y
 bága	p au: G a
 bágt	p au x t
+bágur	p au: G Y r
 bál	p au: l
 bára	p au: r a
 bárðarbungu	p au r D a r p u N k Y
@@ -3783,18 +3816,18 @@ beverly	p E v E r l i
 beygð	p ei G D
 beygðum	p ei G D Y m
 beygðu	p ei G D Y
-beygingarvillan	p ei: j i N k a r v I t l a n
-beygingarvilla	p ei: j i N k a r v I t l a
+beygingarvillan	p ei j i N k a r v I t l a n
+beygingarvilla	p ei j i N k a r v I t l a
 beygingarvillnanna	p ei j i N k a r v I t l n a n a
-beygingarvillna	p ei: j i N k a r v I t l n a
-beygingarvillum	p ei: j i N k a r v I t l Y m
-beygingarvilluna	p ei: j i N k a r v I t l Y n a
-beygingarvillunnar	p ei: j i N k a r v I t l Y n a r
-beygingarvillunni	p ei: j i N k a r v I t l Y n I
-beygingarvillunum	p ei: j i N k a r v I t l O n Y m
-beygingarvillu	p ei: j i N k a r v I t l Y
-beygingarvillurnar	p ei: j i N k a r v I t l Y r t n a r
-beygingarvillur	p ei: j i N k a r v I t l Y r
+beygingarvillna	p ei j i N k a r v I t l n a
+beygingarvillum	p ei j i N k a r v I t l Y m
+beygingarvilluna	p ei j i N k a r v I t l Y n a
+beygingarvillunnar	p ei j i N k a r v I t l Y n a r
+beygingarvillunni	p ei j i N k a r v I t l Y n I
+beygingarvillunum	p ei j i N k a r v I t l O n Y m
+beygingarvillu	p ei j i N k a r v I t l Y
+beygingarvillurnar	p ei j i N k a r v I t l Y r t n a r
+beygingarvillur	p ei j i N k a r v I t l Y r
 beyging	p ei j i N k
 beygja	p ei j a
 beygjuakrein	p ei j Y a k_h r ei n
@@ -4305,6 +4338,7 @@ blaði	p l a: D I
 blað	p l a: D
 blaðra	p l a D r a
 blaðsins	p l a D s I n s
+blaðsíða	p l a D s i D a
 blaðsíðna	p l a D s i D n a
 blaðsíðu	p l a D s i D Y
 blaðsíður	p l a D s i D Y r
@@ -4320,11 +4354,13 @@ blanc	p l a N k
 blandaða	p l a n t a D a
 blandaði	p l a n t a D I
 blandað	p l a n t a D
+blandaður	p l a n t a D Y r
 blandan	p l a n t a n
 blanda	p l a n t a
 blandar	p l a n t a r
 blandast	p l a n t a s t
 blandið	p l a n t I D
+blandinn	p l a n t I n
 bland	p l a n t
 blank	p l au N_0 k
 blankskóm	p l au N_0 k s k ou m
@@ -4370,7 +4406,7 @@ bleikt	p l ei x t
 bleikum	p l ei: k_h Y m
 bleiku	p l ei: k_h Y
 bleikur	p l ei: k_h Y r
-bleiuvigt	p l ei: j Y v I x t
+bleiuvigt	p l ei j Y v I x t
 blekkingar	p l E h c i N k a r
 blekking	p l E h c i N k
 blekkingum	p l E h c i N k Y m
@@ -4719,6 +4755,7 @@ borga	p O r k a
 borgarahreyfingarinnar	p O r k a r a r_0 ei v i N k a r I n a r
 borgaralega	p O r k a r a l E G a
 borgaraleg	p O r k a r a l E G
+borgaralegur	p O r k a r a l E G Y r
 borgarana	p O r k a r a n a
 borgaranna	p O r k a r a n a
 borgara	p O r k a r a
@@ -4793,6 +4830,7 @@ borgunum	p O r k O n Y m
 borgurum	p O r k Y r Y m
 borgurunum	p O r k O r O n Y m
 borgþórsson	p O r k T ou r_0 s O n
+borhola	p O r_0 h O l a
 borið	p O: r I D
 boring	p O: r i N
 borinn	p O: r I n
@@ -4847,6 +4885,7 @@ bófi	p ou: v I
 bóga	p ou: G a
 bóginn	p ou j I n
 bóg	p ou: G
+bógur	p ou: G Y r
 bókabúð	p ou: k_h a p u D
 bókað	p ou: k_h a D
 bókanir	p ou: k_h a n I r
@@ -4879,6 +4918,7 @@ bókmennta	p ou k m E n_0 t a
 bókmenntaverðlaun	p ou k m E n_0 t a v E r D l 9i n
 bókmenntaverk	p ou k m E n_0 t a v E r_0 k
 bókmenntir	p ou k m E n_0 t I r
+bókmennt	p ou k m E n_0 t
 bókmenntum	p ou k m E n_0 t Y m
 bók	p ou: k_h
 bókstaflega	p ou k s t a v l E G a
@@ -5152,6 +5192,7 @@ breytilegra	p r ei: t_h I l E G r a
 breytilegt	p r ei: t_h I l E x t
 breytilegum	p r ei: t_h I l E G Y m
 breytilegur	p r ei: t_h I l E G Y r
+breytileiki	p r ei: t_h I l ei c_h I
 breytingagjald	p r ei: t_h i N k a c a l t
 breytinganna	p r ei: t_h i N k a n a
 breytinga	p r ei: t_h i N k a
@@ -5379,6 +5420,7 @@ brunna	p r Y n a
 brunnið	p r Y n I D
 brunni	p r Y n I
 brunnu	p r Y n Y
+brunnur	p r Y n Y r
 bruno	p r u: n ou
 brussel	p r Y s E l
 brutu	p r Y: t_h Y
@@ -5453,6 +5495,7 @@ brýnast	p r i: n a s t
 brýnir	p r i: n I r
 brýnna	p r i t n a
 brýnni	p r i t n I
+brýnn	p r i t n_0
 brýn	p r i: n
 brýnt	p r i n_0 t
 brýnu	p r i: n Y
@@ -5535,6 +5578,7 @@ burðaráss	p Y r D a r au s
 burðarhlutverk	p Y r D a r_0 l_0 Y t_h v E r_0 k
 burðarliðnum	p Y r D a r l I D n Y m
 burði	p Y r D I
+burður	p Y r D Y r
 bureau	p j u: r ou
 burger	p 9 r k E r
 burknana	p Y r_0 k n a n a
@@ -5571,7 +5615,7 @@ buxum	p Y k s Y m
 buxunum	p Y k s O n Y m
 buxurnar	p Y k s Y r t n a r
 buxur	p Y k s Y r
-buyers	p ai: j E r_0 s
+buyers	p ai j E r_0 s
 buy	p ai:
 búa	p u: a
 búast	p u: a s t
@@ -5646,6 +5690,7 @@ búningsherbergi	p u: n i N s h E r p E r c I
 búningsklefanum	p u: n i N s k_h l E v a n Y m
 búningsklefa	p u: n i N s k_h l E v a
 búningum	p u: n i N k Y m
+búningur	p u: n i N k Y r
 búnir	p u: n I r
 búnu	p u: n Y
 bú	p u:
@@ -5664,12 +5709,13 @@ búskapnum	p u: s k a h p n Y m
 búskap	p u: s k a p_h
 búskapur	p u: s k a p_h Y r
 bús	p u: s
-bústaðakirkja	p u s t a D a c_h I r_0 c a
-bústaðakirkju	p u s t a D a c_h I r_0 c Y
-bústaðavegi	p u s t a D a v ei j I
-bústaðinn	p u s t a D I n
+bústaðakirkja	p u: s t a D a c_h I r_0 c a
+bústaðakirkju	p u: s t a D a c_h I r_0 c Y
+bústaðavegi	p u: s t a D a v ei j I
+bústaðinn	p u: s t a D I n
 bústaðnum	p u: s t a D n Y m
 bústað	p u: s t a D
+bústaður	p u: s t a D Y r
 bústna	p u s t n a
 bútur	p u: t_h Y r
 búum	p u: Y m
@@ -5688,6 +5734,7 @@ byggðarlaga	p I G D a r l a G a
 byggðarlagið	p I G D a r l ai j I D
 byggðarlaginu	p I G D a r l ai j I n Y
 byggðarlagi	p I G D a r l ai j I
+byggðarlag	p I G D a r l a G
 byggðarlög	p I G D a r l 9 G
 byggðarlögum	p I G D a r l 9 G Y m
 byggðar	p I G D a r
@@ -5837,6 +5884,7 @@ bæja	p ai j a
 bæjarbraginn	p ai j a r p r ai j I n
 bæjarbúa	p ai j a r_0 p u a
 bæjarbúar	p ai j a r_0 p u a r
+bæjarbúi	p ai j a r p u I
 bæjarbúum	p ai j a r_0 p u Y m
 bæjardyrum	p ai j a r t I r Y m
 bæjarfélagið	p ai j a r_0 f j E l ai j I D
@@ -5847,7 +5895,7 @@ bæjarfélagsins	p ai j a r_0 f j E l a x s I n s
 bæjarfélög	p ai j a r_0 f j E l 9 G
 bæjarfélögum	p ai j a r_0 f j E l 9 G Y m
 bæjarflöt	p ai j a r_0 f l 9 t_h
-bæjarfógetaembættinu	p ai: j a r_0 f ou c E t_h a E m p ai h t I n Y
+bæjarfógetaembættinu	p ai j a r_0 f ou c E t_h a E m p ai h t I n Y
 bæjarfógetaembætti	p ai j a r_0 f ou c E t_h a E m p ai h t I
 bæjarfógetafulltrúi	p ai j a r_0 f ou c E t_h a f Y t l_0 t_h r u I
 bæjarfógetans	p ai j a r_0 f ou c E t_h a n s
@@ -5859,7 +5907,7 @@ bæjarfógeti	p ai j a r_0 f ou c E t_h I
 bæjarfulltrúa	p ai j a r_0 f Y t l_0 t_h r u a
 bæjarfulltrúar	p ai j a r_0 f Y t l_0 t_h r u a r
 bæjarfulltrúi	p ai j a r_0 f Y t l_0 t_h r u I
-bæjarfulltrúum	p ai: j a r_0 f Y t l_0 t_h r u Y m
+bæjarfulltrúum	p ai j a r_0 f Y t l_0 t_h r u Y m
 bæjargöngin	p ai j a r_0 k 9i J c I n
 bæjarins	p ai j a r I n s
 bæjar	p ai j a r
@@ -5879,8 +5927,8 @@ bæjarútgerðinni	p ai j a r u t c E r D I n I
 bæjaryfirvalda	p ai j a r I v I r v a l t a
 bæjaryfirvöld	p ai j a r I v I r v 9 l t
 bæjaryfirvöldum	p ai j a r I v I r v 9 l t Y m
-bæjum	p ai: j Y m
-bæjunum	p ai: j O n Y m
+bæjum	p ai j Y m
+bæjunum	p ai j O n Y m
 bækistöðvar	p ai: c_h I s t 9 D v a r
 bæklingi	p ai h k l i J c I
 bæklingnum	p ai h k l i N n Y m
@@ -6039,7 +6087,7 @@ caught	k_h O: t
 caused	k_h O: s t
 cause	k_h O: s
 cave	c_h ei: v
-cayenne	k_h ai: j E n
+cayenne	k_h ai j E n
 cbs	s j E: p j E E s
 cc	s j E: s j E
 cech	t s j E h k
@@ -6324,6 +6372,7 @@ daglegum	t a G l E G Y m
 daglegur	t a G l E G Y r
 daglegu	t a G l E G Y
 dagmar	t a G m a r
+dagmóðir	t a G m ou D I r
 dagmömmunnar	t a G m 9 m Y n a r
 dagnýju	t a G n i j Y
 dagný	t a G n i
@@ -6334,6 +6383,7 @@ dagsbrún	t a x s p r u n
 dagsdóttir	t a x s t ou h t I r
 dagsektir	t a x s E x t I r
 dagsektum	t a x s E x t Y m
+dagsetja	t a x s E t_h j a
 dagsetningar	t a x s E h t n i N k a r
 dagsetningin	t a x s E h t n i J c I n
 dagsetning	t a x s E h t n i N k
@@ -6385,6 +6435,7 @@ dalnum	t a l n Y m
 dalslóðann	t a l s t l ou D a n
 dalsmynni	t a l s m I n I
 dal	t a: l
+dalur	t a: l Y r
 dalverpi	t a l v E r_0 p I
 dalvík	t a l v i k_h
 dalvíkurbyggðar	t a l v i k_h Y r p I G D a r
@@ -6501,6 +6552,7 @@ dauðsföllum	t 9i D s f 9 t l Y m
 dauð	t 9i: D
 dauðum	t 9i: D Y m
 dauður	t 9i: D Y r
+daufur	t 9i: v Y r
 daughter	t O: t E r
 dautt	t 9i h t
 dave	t ei: v
@@ -6532,11 +6584,13 @@ dálitlum	t au: l I h t l Y m
 dálitlu	t au: l I h t l Y
 dálítið	t au: l i t_h I D
 dálítilli	t au: l i t_h I t l I
+dálítill	t au: l i t_h I t l_0
 dálítil	t au: l i t_h I l
 dálkasentimetra	t au l_0 k a s E n_0 t I m E t r a
 dálkinn	t au l_0 c I n
 dálki	t au l_0 c I
 dálknum	t au l_0 k n Y m
+dálkur	t au l_0 k Y r
 dálæti	t au: l ai t_h I
 dánarbúi	t au: n a r p u I
 dánarbúsins	t au: n a r p u s I n s
@@ -6571,7 +6625,7 @@ defence	t i: f E n s
 defense	t i: f E n s
 defoe	t E: f ou
 deginum	t ei j I n Y m
-degi	t ei: j I
+degi	t ei j I
 deigbollu	t ei G p O l Y
 deigið	t ei j I D
 deiginu	t ei j I n Y
@@ -6694,14 +6748,14 @@ devil	t E v I l
 dew	t j u:
 deyfa	t ei: v a
 deyi	t ei j I
-deyja	t ei: j a
+deyja	t ei j a
 deyr	t ei: r
 dey	t ei:
 dhabi	t a: p I
 diamond	t ai: m O n t
 diam	t i: a m
-diaries	t ai: j a r i s
-diary	t ai: j a r i
+diaries	t ai j a r i s
+diary	t ai j a r i
 diaz	t i: j a s
 didda	t I t a
 diddi	t I t I
@@ -6711,11 +6765,11 @@ didier	t I t i r
 didn't	t I t n t
 did	t I: t
 died	t ai: t
-diego	t i E: k O
+diego	t i j E: k ou
 dieses	t i: s E s
 dies	t ai: s
 die	t ai:
-diet	t ai: j E t
+diet	t ai j E t
 difference	t I f E r E n s
 difficult	t I f I k_h u l_0 t
 digga	t I k a
@@ -6785,6 +6839,7 @@ dimmri	t I m r I
 dimm	t I m
 dimmt	t I m_0 t
 dimmuna	t I m Y n a
+dimmur	t I m Y r
 dimmu	t I m Y
 dinamo	t ai: n a m ou
 dineout	t ai: n au t
@@ -7032,6 +7087,7 @@ dómsmálaráðherra	t ou m s m au l a r au T h E r a
 dómsmálaráðuneytið	t ou m s m au l a r au D Y n ei t_h I D
 dómsmálaráðuneytinu	t ou m s m au l a r au D Y n ei t_h I n Y
 dómsmálaráðuneytisins	t ou m s m au l a r au D Y n ei t_h I s I n s
+dómsmálaráðuneyti	t ou m s m au l a r au D Y n ei t_h I
 dómsmála	t ou m s m au l a
 dómsmáli	t ou m s m au l I
 dómsmál	t ou m s m au l
@@ -7148,7 +7204,7 @@ dráttur	t r au h t Y r
 dreams	t r i: m s
 dream	t r i: m
 dregið	t r ei j I D
-dreginn	t r ei: j I n
+dreginn	t r ei j I n
 dregin	t r ei j I n
 dregist	t r ei j I s t
 dreglinum	t r E k l I n Y m
@@ -7165,6 +7221,7 @@ dreifða	t r ei v D a
 dreifðist	t r ei v D I s t
 dreifði	t r ei v D I
 dreifð	t r ei v D
+dreifður	t r ei v D Y r
 dreifðu	t r ei v D Y
 dreifikerfi	t r ei: v I c_h E r v I
 dreifingarstöð	t r ei: v i N k a r_0 s t 9 D
@@ -7361,7 +7418,7 @@ drykk	t r I h k
 drykkurinn	t r I h k Y r I n
 drykkur	t r I h k Y r
 dry	t r ai:
-drýgja	t r i: j a
+drýgja	t r i j a
 drægi	t r ai j I
 dræm	t r ai: m
 drætti	t r ai h t I
@@ -7398,6 +7455,7 @@ dugnaður	t Y k n a D Y r
 dug	t Y: G
 dularfulla	t Y: l a r_0 f Y t l a
 dularfullt	t Y: l a r f Y l_0 t
+dularfullur	t Y: l a r_0 f Y t l Y r
 dularfyllsta	t Y: l a r_0 f I l s t a
 dulfræðilega	t Y l f r ai D I l E G a
 dulist	t Y: l I s t
@@ -7431,6 +7489,7 @@ dúfuunga	t u: v Y u N k a
 dúkkar	t u h k a r
 dúkkurnar	t u h k Y r t n a r
 dúk	t u: k_h
+dúkur	t u: k_h Y r
 dúllaðir	t u l a D I r
 dúllaðist	t u l a D I s t
 dúllaði	t u l a D I
@@ -7501,7 +7560,7 @@ dyggð	t I G D
 dyggilega	t I c I l E G a
 dyggri	t I k r I
 dyggur	t I k Y r
-dying	t ai: j i N
+dying	t ai j i N
 dyke	t ai: k
 dylan	t I l a n
 dylgja	t I l c a
@@ -7597,6 +7656,7 @@ dýrmæta	t i r m ai t_h a
 dýrmæt	t i r m ai t_h
 dýrmætt	t i r m ai h t
 dýrmætum	t i r m ai t_h Y m
+dýrmætur	t i r m ai t_h Y r
 dýrmætu	t i r m ai t_h Y
 dýrra	t i r a
 dýrsins	t i r_0 s I n s
@@ -7739,6 +7799,7 @@ eðvarðsson	E D v a r D s O n
 efaðist	E: v a D I s t
 efa	E: v a
 efahyggjumanninum	E: v a h I c Y m a n I n Y m
+efasemd	E: v a s E m t
 efasemdir	E: v a s E m t I r
 efasemdum	E: v a s E m t Y m
 efast	E: v a s t
@@ -7805,6 +7866,7 @@ efnahagsreikningi	E p n a h a x s r ei h k n i J c I
 efnahagsstefnu	E p n a h a x s t E p n Y
 efnahagssvæðið	E p n a h a x s v ai D I D
 efnahagssvæði	E p n a h a x s v ai D I
+efnahagssvæðinu	E p n a h a x s v ai D I n Y
 efnahagssvæðisins	E p n a h a x s v ai D I s I n s
 efnahagur	E p n a h a G Y r
 efnainnihaldi	E p n a I n I h a l t I
@@ -7844,6 +7906,7 @@ efnislegar	E p n I s t l E G a r
 efnisleg	E p n I s t l E G
 efnislegrar	E p n I s t l E G r a r
 efnislegum	E p n I s t l E G Y m
+efnislegur	E p n I s t l E G Y r
 efnismeðferðar	E p n I s m E D f E r D a r
 efnisskrá	E p n I s k r au
 efnisskránni	E p n I s k r au n I
@@ -7937,6 +8000,7 @@ eftirrétturinn	E f t I r j E h t Y r I n
 eftirsjá	E f t I r_0 s j au
 eftirsjáin	E f t I r_0 s j au I n
 eftirsjár	E f t I r_0 s j au r
+eftirsóknarverður	E f t I r_0 s ou h k n a r v E r D Y r
 eftirsóknarvert	E f t I r_0 s ou h k n a r v E r_0 t
 eftirsókn	E f t I r_0 s ou h k n_0
 eftirsótta	E f t I r_0 s ou h t a
@@ -7955,6 +8019,7 @@ eftirstöðvum	E f t I r_0 s t 9 D v Y m
 eftirtaldar	E f t I r_0 t_h a l t a r
 eftirtaldir	E f t I r_0 t_h a l t I r
 eftirtalin	E f t I r_0 t_h a l I n
+eftirtalinn	E f t I r_0 t_h a l I n
 eftirtektarvert	E f t I r_0 t_h E x t a r v E r_0 t
 eftirtekt	E f t I r_0 t_h E x t
 eftirtöldum	E f t I r_0 t_h 9 l t Y m
@@ -8052,6 +8117,7 @@ eiðs	ei D s
 eiðsson	ei D s O n
 eiðum	ei: D Y m
 eiður	ei: D Y r
+ei	ei:
 eiga	ei: G a
 eiganda	ei: G a n t a
 eigandans	ei: G a n t a n s
@@ -8091,6 +8157,7 @@ eiginleg	ei j I n l E G
 eiginlegri	ei j I n l E G r I
 eiginlegt	ei j I n l E x t
 eiginlegu	ei j I n l E G Y
+eiginlegur	ei j I n l E G Y r
 eiginleika	ei j I n l ei k_h a
 eiginleikar	ei j I n l ei k_h a r
 eiginleiki	ei j I n l ei c_h I
@@ -8181,6 +8248,7 @@ eina	ei: n a
 einan	ei: n a n
 einangrað	ei: n au N k r a D
 einangraðir	ei: n au N k r a D I r
+einangraður	ei: n au N k r a D Y r
 einangra	ei: n au N k r a
 einangrast	ei: n au N k r a s t
 einangruð	ei: n au N k r Y D
@@ -8279,6 +8347,7 @@ einingum	ei: n i N k Y m
 einir	ei: n I r
 einkaaðila	ei N_0 k a a D I l a
 einkaaðilar	ei N_0 k a a D I l a r
+einkaaðili	ei N_0 k a a D I l I
 einkaaðilum	ei N_0 k a a D I l Y m
 einkaeignarrétti	ei N_0 k a ei k n a r j E h t I
 einkaeign	ei N_0 k a ei k n_0
@@ -8340,6 +8409,7 @@ einkennilega	ei J c_h E n I l E G a
 einkennilegar	ei J c_h E n I l E G a r
 einkennileg	ei J c_h E n I l E G
 einkennilegt	ei J c_h E n I l E x t
+einkennilegur	ei J c_h E n I l E G Y r
 einkennin	ei J c_h E n I n
 einkennir	ei J c_h E n I r
 einkennisbúninga	ei J c_h E n I s p u n i N k a
@@ -8359,6 +8429,7 @@ einkennum	ei J c_h E n Y m
 einkum	ei N_0 k Y m
 einkunnagjöf	ei N_0 k Y n a c 9 v
 einkunnarorð	ei N_0 k Y n a r O r D
+einkunn	ei N_0 k Y n
 einkunnina	ei N_0 k Y n I n a
 einkunnir	ei N_0 k Y n I r
 einkunnum	ei N_0 k Y n Y m
@@ -8423,6 +8494,7 @@ einstæð	ei n s t ai D
 einstæðingsskap	ei n s t ai D i N s k a p_h
 einstæðir	ei n s t ai D I r
 einstæðra	ei n s t ai D r a
+einstæður	ei n s t ai D Y r
 einstök	ei n s t 9 k_h
 einstöku	ei n s t 9 k_h Y
 einstökum	ei n s t 9 k_h Y m
@@ -8763,6 +8835,7 @@ enduðu	E n t Y D Y
 enduðum	E n t Y D Y m
 endum	E n t Y m
 endurbóta	E n t Y r p ou t_h a
+endurbót	E n t Y r p ou t_h
 endurbótum	E n t Y r p ou t_h Y m
 endurbyggð	E n t Y r p I G D
 endurbygging	E n t Y r p I c i N k
@@ -8871,9 +8944,11 @@ endurútgefin	E n t Y r u t c E v I n
 endurútreikning	E n t Y r u t_h r ei h k n i N k
 endurvekja	E n t Y r v E c_h a
 endurvinna	E n t Y r v I n a
+endurvinnsla	E n t Y r v I n s t l a
 endurvinnslu	E n t Y r v I n s t l Y
 endurvinnslustöðvar	E n t Y r v I n s t l Y s t 9 D v a r
 enemy	E n E m i
+en	E n
 energy	E n E r t s j i
 enga	ei N k a
 engan	ei N k a n
@@ -9042,6 +9117,7 @@ erindið	E: r I n t I D
 erindi	E: r I n t I
 erindinu	E: r I n t I n Y
 erindum	E r I n t Y m
+erkibiskup	E r_0 c I p I s k Y p_h
 erkiengill	E r_0 c I ei J c I t l_0
 erla	E r t l a
 erlenda	E r l E n t a
@@ -9162,6 +9238,7 @@ evrópskri	E v r ou p s k r I
 evrópskt	E v r ou p s t
 evrópsku	E v r ou p s k Y
 evrópskum	E v r ou p s k Y m
+evrópskur	E v r ou p s k Y r
 evrópubandalagið	E v r ou p_h Y p a n t a l ai j I D
 evrópubandalaginu	E v r ou p_h Y p a n t a l ai j I n Y
 evrópubandalagsins	E v r ou p_h Y p a n t a l a x s I n s
@@ -9255,6 +9332,7 @@ eyðir	ei: D I r
 eyðni	ei D n I
 eyðsla	ei D s t l a
 eyðslu	ei D s t l Y
+eyðublað	ei: D Y p l a D
 eye	ai:
 eyed	ai: t
 ey	ei:
@@ -9264,45 +9342,45 @@ eyf	E: I E f
 eyfirðinga	ei: f I r D i N k a
 eyfjörð	ei: f j 9 r D
 eygði	ei G D I
-eygja	ei: j a
+eygja	ei j a
 eyglóar	ei k l ou a r
 eygló	ei: k l ou
-eyjaálfa	ei: j a au l v a
-eyjabakka	ei: j a p a h k a
-eyja	ei: j a
-eyjafirði	ei: j a f I r D I
-eyjafjallajökli	ei: j a f j a t l a j 9 h k l I
-eyjafjallajökull	ei: j a f j a t l a j 9 k_h Y t l_0
-eyjafjarðar	ei: j a f j a r D a r
-eyjafjarðarsveit	ei: j a f j a r D a r_0 s v ei t_h
-eyjafjöllum	ei: j a f j 9 t l Y m
-eyjafjörð	ei: j a f j 9 r D
-eyjaklasinn	ei: j a k_h l a s I n
+eyjaálfa	ei j a au l v a
+eyjabakka	ei j a p a h k a
+eyja	ei j a
+eyjafirði	ei j a f I r D I
+eyjafjallajökli	ei j a f j a t l a j 9 h k l I
+eyjafjallajökull	ei j a f j a t l a j 9 k_h Y t l_0
+eyjafjarðar	ei j a f j a r D a r
+eyjafjarðarsveit	ei j a f j a r D a r_0 s v ei t_h
+eyjafjöllum	ei j a f j 9 t l Y m
+eyjafjörð	ei j a f j 9 r D
+eyjaklasinn	ei j a k_h l a s I n
 eyjamanna	ei j a m a n a
-eyjamenn	ei: j a m E n
-eyjamönnum	ei: j a m 9 n Y m
-eyjan	ei: j a n
-eyjanna	ei: j a n a
-eyjar	ei: j a r
-eyjarinnar	ei: j a r I n a r
-eyjarnar	ei: j a r t n a r
-eyjarskeggjar	ei: j a r_0 s c E c a r
-eyjastelpu	ei: j a s t E l_0 p Y
-eyjastúlkur	ei: j a s t u l_0 k Y r
-eyjólfi	ei: j ou l v I
-eyjólfsdóttir	ei: j ou l f s t ou h t I r
-eyjólfs	ei: j ou l f s
-eyjólfssonar	ei: j ou l f s O n a r
-eyjólfsson	ei: j ou l f s O n
-eyjólfsstaðir	ei: j ou l f s t a D I r
-eyjólfssyni	ei: j ou l f s I n I
-eyjólfur	ei: j ou l v Y r
-eyju	ei: j Y
-eyjum	ei: j Y m
-eyjuna	ei: j Y n a
-eyjunnar	ei: j Y n a r
-eyjunni	ei: j Y n I
-eyjunum	ei: j O n Y m
+eyjamenn	ei j a m E n
+eyjamönnum	ei j a m 9 n Y m
+eyjan	ei j a n
+eyjanna	ei j a n a
+eyjar	ei j a r
+eyjarinnar	ei j a r I n a r
+eyjarnar	ei j a r t n a r
+eyjarskeggjar	ei j a r_0 s c E c a r
+eyjastelpu	ei j a s t E l_0 p Y
+eyjastúlkur	ei j a s t u l_0 k Y r
+eyjólfi	ei j ou l v I
+eyjólfsdóttir	ei j ou l f s t ou h t I r
+eyjólfs	ei j ou l f s
+eyjólfssonar	ei j ou l f s O n a r
+eyjólfsson	ei j ou l f s O n
+eyjólfsstaðir	ei j ou l f s t a D I r
+eyjólfssyni	ei j ou l f s I n I
+eyjólfur	ei j ou l v Y r
+eyju	ei j Y
+eyjum	ei j Y m
+eyjuna	ei j Y n a
+eyjunnar	ei j Y n a r
+eyjunni	ei j Y n I
+eyjunum	ei j O n Y m
 eykst	ei k s t
 eykt	ei x t
 eykur	ei: k_h Y r
@@ -9320,6 +9398,7 @@ eyrarbakka	ei: r a r_0 p a h k a
 eyrarskjóli	ei: r a r_0 s c ou l I
 eyri	ei: r I
 eyrinni	ei: r I n I
+eyrir	ei: r I r
 eyrnalokka	ei r t n a l O h k a
 eyrnamergur	ei r t n a m E r k Y r
 eyrnamerkt	ei r t n a m E r_0 t
@@ -9374,6 +9453,7 @@ faðmlag	f a D m l a G
 faðmlagið	f a D m l ai j I D
 faðmlagi	f a D m l ai j I
 faðmlögin	f a D m l 9i j I n
+faðmur	f a D m Y r
 fagaðila	f a: G a D I l a
 fag	f a: G
 fagfjárfesta	f a: x f j au r_0 f E s t a
@@ -9396,6 +9476,7 @@ faglegri	f a G l E G r I
 faglegt	f a G l E x t
 faglegu	f a G l E G Y
 faglegum	f a G l E G Y m
+faglegur	f a G l E G Y r
 fagmaður	f a G m a D Y r
 fagmannlega	f a G m a n l E G a
 fagmannlegum	f a G m a n l E G Y m
@@ -9444,6 +9525,7 @@ failure	f ei: l j u r
 fair	f E: r
 faith	f ei: T
 fake	f ei: k
+fala	f a: l a
 falast	f a: l a s t
 falda	f a l t a
 faldi	f a l t I
@@ -9606,6 +9688,7 @@ farsi	f a r_0 s I
 farsíma	f a r_0 s i m a
 farsímanet	f a r_0 s i m a n E t_h
 farsímanum	f a r_0 s i m a n Y m
+farsími	f a r_0 s i m I
 farsímum	f a r_0 s i m Y m
 farsóttarheimilinu	f a r_0 s ou h t a r_0 h ei m I l I n Y
 farsæla	f a r_0 s ai l a
@@ -9703,6 +9786,7 @@ fatlað	f a h t l a D
 fatlaðir	f a h t l a D I r
 fatlaðra	f a h t l a D r a
 fatlaðs	f a h t l a D s
+fatlaður	f a h t l a D Y r
 fatlana	f a h t l a n a
 fatnað	f a h t n a D
 fatnaði	f a h t n a D I
@@ -9952,14 +10036,17 @@ ferðalöngum	f E r D a l 9i N k Y m
 ferðamaður	f E r D a m a D Y r
 ferðamanna	f E r D a m a n a
 ferðamannastaða	f E r D a m a n a s t a D a
+ferðamannastaður	f E r D a m a n a s t a D Y r
 ferðamannastöðum	f E r D a m a n a s t 9 D Y m
 ferðamála	f E r D a m au l a
 ferðamálafulltrúi	f E r D a m au l a f Y t l_0 t_h r u I
 ferðamálaráð	f E r D a m au l a r au D
 ferðamálaráðs	f E r D a m au l a r au D s
 ferðamálastofu	f E r D a m au l a s t O v Y
+ferðamál	f E r D a m au l
 ferðamenn	f E r D a m E n
 ferðamennirnir	f E r D a m E n I r t n I r
+ferðamennska	f E r D a m E n s k a
 ferðamennsku	f E r D a m E n s k Y
 ferðamönnum	f E r D a m 9 n Y m
 ferðar	f E r D a r
@@ -10020,9 +10107,11 @@ ferli	f E r t l I
 ferlinu	f E r t l I n Y
 ferlinum	f E r t l I n Y m
 ferlum	f E r t l Y m
+ferma	f E r m a
 fermdur	f E r m t Y r
 fermetra	f E r m E t r a
 fermetrar	f E r m E t_h r a r
+fermetri	f E r m E t_h r I
 fermetrum	f E r m E t_h r Y m
 ferm	f E r m
 fermingarbörn	f E r m i N k a r p 9 r t n_0
@@ -10078,7 +10167,7 @@ feti	f E: t_h I
 fetta	f E h t a
 fetum	f E: t_h Y m
 fever	f i: v E r
-feyenoord	f ei: j E n O r t
+feyenoord	f ai j E n O r t
 feykisterkt	f ei: c_h I s t E r_0 t
 feykja	f ei: c_h a
 feykt	f ei x t
@@ -10121,6 +10210,7 @@ félagslegri	f j E: l a x s t l E G r I
 félagslegt	f j E: l a x s t l E x t
 félagslegu	f j E: l a x s t l E G Y
 félagslegum	f j E: l a x s t l E G Y m
+félagslegur	f j E: l a x s t l E G Y r
 félagsliða	f j E: l a x s t l I D a
 félagslið	f j E: l a x s t l I D
 félagsliði	f j E: l a x s t l I D I
@@ -10133,6 +10223,7 @@ félagsmanna	f j E: l a x s m a n a
 félagsmála	f j E: l a x s m au l a
 félagsmálaráðherra	f j E: l a x s m au l a r au T h E r a
 félagsmálaráðuneytið	f j E: l a x s m au l a r au D Y n ei t_h I D
+félagsmálaráðuneyti	f j E: l a x s m au l a r au D Y n ei t_h I
 félagsmálaráðuneytinu	f j E: l a x s m au l a r au D Y n ei t_h I n Y
 félagsmálaráðuneytisins	f j E: l a x s m au l a r au D Y n ei t_h I s I n s
 félagsmálastofnun	f j E: l a x s m au l a s t O p n Y n
@@ -10289,6 +10380,7 @@ finns	f I n s
 finnska	f I n s k a
 finnski	f I n s c I
 finnsku	f I n s k Y
+finnskur	f I n s k Y r
 finnsson	f I n s O n
 finnst	f I n s t
 finnum	f I n Y m
@@ -10297,7 +10389,8 @@ finsen	f I n s E n
 fiorentina	f j O r E n t_h i n a
 firði	f I r D I
 firðinum	f I r D I n Y m
-fire	f ai: j E r
+fire	f ai j E r
+firefox	f ai j E r_0 f O k s
 firm	f 9 r m
 firra	f I r a
 firringu	f I r i N k Y
@@ -10350,6 +10443,7 @@ fiskiskipum	f I s c I s c I p_h Y m
 fiskistofa	f I s c I s t O v a
 fiskistofna	f I s c I s t O p n a
 fiskistofnanna	f I s c I s t O p n a n a
+fiskistofn	f I s c I s t O p n_0
 fiskistofu	f I s c I s t O v Y
 fiskitroll	f I s c I t_h r O l
 fiskitrolli	f I s c I t_h r O l I
@@ -10374,6 +10468,7 @@ fiskveiðiárið	f I s k v ei D I au r I D
 fiskveiðiári	f I s k v ei D I au r I
 fiskveiðiárinu	f I s k v ei D I au r I n Y
 fiskveiðiárs	f I s k v ei D I au r_0 s
+fiskveiði	f I s k v ei D I
 fiskveiðilandhelgi	f I s k v ei D I l a n t h E l c I
 fiskveiðilögsögu	f I s k v ei D I l 9 x s 9 G Y
 fiskveiðistefna	f I s k v ei D I s t E p n a
@@ -10620,6 +10715,7 @@ fjárhagslegri	f j au r_0 h a x s t l E G r I
 fjárhagslegt	f j au r_0 h a x s t l E x t
 fjárhagslegu	f j au r_0 h a x s t l E G Y
 fjárhagslegum	f j au r_0 h a x s t l E G Y m
+fjárhagslegur	f j au r_0 h a x s t l E G Y r
 fjárhagsráð	f j au r_0 h a x s r au D
 fjárhagsstaða	f j au r_0 h a x s t a D a
 fjárhagsstöðu	f j au r_0 h a x s t 9 D Y
@@ -10676,6 +10772,7 @@ fjármagnsmarkaði	f j au r m a k n_0 s m a r_0 k a D I
 fjármagnstekjur	f j au r m a k n_0 s t_h E c Y r
 fjármagnstekjuskatt	f j au r m a k n_0 s t_h E c_h Y s k a h t
 fjármagnstekjuskattur	f j au r m a k n_0 s t_h E c_h Y s k a h t Y r
+fjármálaáætlun	f j au r m au l a au ai h t l Y n
 fjármálaeftirlit	f j au r m au l a E f t I r l I t_h
 fjármálaeftirlitið	f j au r m au l a E f t I r l I t_h I D
 fjármálaeftirlitsins	f j au r m au l a E f t I r l I t s I n s
@@ -10707,6 +10804,7 @@ fjármálaráðuneytisins	f j au r m au l a r au D Y n ei t_h I s I n s
 fjármálastarfsemi	f j au r m au l a s t a r f s E m I
 fjármálastefnu	f j au r m au l a s t E p n Y
 fjármálastjóra	f j au r m au l a s t j ou r a
+fjármálastjóri	f j au r m au l a s t j ou r I
 fjármálastjórn	f j au r m au l a s t j ou r t n_0
 fjármálastofnana	f j au r m au l a s t O p n a n a
 fjármálastofnanir	f j au r m au l a s t O p n a n I r
@@ -10854,6 +10952,7 @@ fjölmargar	f j 9 l m a r k a r
 fjölmargir	f j 9 l m a r c I r
 fjölmargra	f j 9 l m a r k r a
 fjölmargt	f j 9 l m a r_0 t
+fjölmargur	f j 9 l m a r k Y r
 fjölmenna	f j 9 l m E n a
 fjölmennari	f j 9 l m E n a r I
 fjölmennasta	f j 9 l m E n a s t a
@@ -10925,6 +11024,7 @@ fjölyrða	f j 9: l I r D a
 fjölþætt	f j 9 l T ai h t
 fjörðinn	f j 9 r D I n
 fjörðum	f j 9 r D Y m
+fjörður	f j 9 r D Y r
 fjörðurinn	f j 9 r D Y r I n
 fjör	f j 9: r
 fjörið	f j 9: r I D
@@ -10967,6 +11067,7 @@ flassi	f l a s I
 flassmyndir	f l a s m I n t I r
 flatan	f l a: t_h a n
 flatargjalds	f l a: t_h a r c a l t s
+flatarmál	f l a: t_h a r m au l
 flatarmáli	f l a: t_h a r m au l I
 flatey	f l a: t_h ei
 flateyjardal	f l a: t_h ei j a r t a l
@@ -10976,6 +11077,7 @@ flat	f l a t
 flatir	f l a: t_h I r
 flatskjá	f l a: t s c au
 flatt	f l a h t
+flatur	f l a: t_h Y r
 flauganna	f l 9i: G a n a
 flaug	f l 9i: G
 flaumi	f l 9i: m I
@@ -10986,7 +11088,7 @@ flautu	f l 9i: t_h Y
 flautuleikari	f l 9i: t_h Y l ei k_h a r I
 fleet	f l i: t
 fleetwood	f l i t v u t
-fleginn	f l ei: j I n
+fleginn	f l ei j I n
 flegnum	f l ei k n Y m
 fleira	f l ei: r a
 fleiri	f l ei: r I
@@ -11027,9 +11129,9 @@ flettivalmyndinni	f l E h t I v a l m I n t I n I
 flex	f l E k s
 fleygar	f l ei: G a r
 fleygðu	f l ei G D Y
-fleygiferð	f l ei: j I f E r D
-fleygi	f l ei: j I
-fleygja	f l ei: j a
+fleygiferð	f l ei j I f E r D
+fleygi	f l ei j I
+fleygja	f l ei j a
 fleygt	f l ei x t
 fleygur	f l ei: G Y r
 fleyta	f l ei: t_h a
@@ -11275,6 +11377,7 @@ fluginu	f l Yi j I n Y
 flugkappar	f l Y G k_h a h p a r
 flugkappi	f l Y G k_h a h p I
 flugleiða	f l Y G l ei D a
+flugleið	f l Y G l ei D
 flugleiðir	f l Y G l ei D I r
 flugleiðum	f l Y G l ei D Y m
 flugmaður	f l Y G m a D Y r
@@ -11394,7 +11497,7 @@ flúorskol	f l u: O r_0 s k O l
 flúrlömpum	f l u r l 9 m_0 p Y m
 fly	f l ai:
 flygill	f l i: j I t l_0
-flying	f l ai: j i N
+flying	f l ai j i N
 flykki	f l I h c I
 flykkjast	f l I h c a s t
 flykktist	f l I x t I s t
@@ -11518,6 +11621,7 @@ foreldris	f O: r E l t r I s
 foreldrum	f O: r E l t r Y m
 foreldrunum	f O: r E l t r Y n Y m
 forest	f O: r E s t
+forfaðir	f O r_0 f a D I r
 forfeður	f O r_0 f E D Y r
 for	f O: r
 forföll	f O r_0 f 9 t l_0
@@ -11532,6 +11636,7 @@ forgangsraða	f O r k au N s r a D a
 forgangsröð	f O r k au N s r 9 D
 forgangsröðun	f O r k au N s r 9 D Y n
 forgangsverkefni	f O r k au N s v E r_0 k E p n I
+forgangur	f O r k au N k Y r
 forgjafar	f O r c a v a r
 forgjöf	f O r c 9 v
 forgrunni	f O r k r Y n I
@@ -11565,8 +11670,10 @@ formanni	f O r m a n I
 formanns	f O r m a n s
 formannsins	f O r m a n s I n s
 formála	f O r m au l a
+formáli	f O r m au l I
 formed	f O r m t
 formenn	f O r m E n
+formennska	f O r m E n s k a
 formennsku	f O r m E n s k Y
 former	f O r m E r
 formerki	f O r m E r_0 c I
@@ -11587,6 +11694,7 @@ formlegur	f O r m l E G Y r
 formsatriði	f O r m s a t_h r I D I
 formula	f O r m u l a
 formum	f O r m Y m
+formúla	f O r m u l a
 formúlu	f O r m u l Y
 formælingum	f O r m ai l i N k Y m
 formælti	f O r m ai l_0 t I
@@ -11618,6 +11726,7 @@ fornminjar	f O r t n m I n j a r
 fornsögum	f O r t n_0 s 9 G Y m
 fornu	f O r t n Y
 fornum	f O r t n Y m
+forráðamaður	f O r au D a m a D Y r
 forráðamanna	f O r au D a m a n a
 forráðamenn	f O r au D a m E n
 forráðamönnum	f O r au D a m 9 n Y m
@@ -11769,9 +11878,11 @@ forvitnast	f O r v I h t n a s t
 forvitni	f O r v I h t n I
 forvitnilega	f O r v I h t n I l E G a
 forvitnilegt	f O r v I h t n I l E x t
+forvitnilegur	f O r v I h t n I l E G Y r
 forvitnir	f O r v I h t n I r
 forvitnum	f O r v I h t n Y m
 forvöð	f O r v 9 D
+forvörn	f O r v 9 r t n_0
 forvörnum	f O r v 9 r t n Y m
 forvörslu	f O r v 9 r_0 s t l Y
 forward	f O r v a r t
@@ -11927,6 +12038,7 @@ framangreindri	f r a: m a n k r ei n t r I
 framangreinds	f r a: m a n k r ei n t s
 framangreindu	f r a: m a n k r ei n t Y
 framangreindum	f r a: m a n k r ei n t Y m
+framangreindur	f r a: m a n k r ei n t Y r
 framangreint	f r a: m a n k r ei n_0 t
 framansögðu	f r a: m a n s 9 G D Y
 framara	f r a m a r a
@@ -11962,6 +12074,7 @@ framburð	f r a m p Y r D
 framburði	f r a m p Y r D I
 framburður	f r a m p Y r D Y r
 frambúðar	f r a m p u D a r
+frambúð	f r a m p u D
 framdi	f r a m t I
 framdráttar	f r a m t r au h t a r
 framfara	f r a m f a r a
@@ -11974,6 +12087,7 @@ framfylgja	f r a m f I l c a
 framfylgni	f r a m f I l n I
 framfylgt	f r a m f I l_0 t
 framfæri	f r a m f ai r I
+framfærsla	f r a m f ai r_0 s t l a
 framfærslu	f r a m f ai r_0 s t l Y
 framfærslukostnaður	f r a m f ai r_0 s t l Y k_h O s t n a D Y r
 framför	f r a m f 9 r
@@ -11981,6 +12095,7 @@ framförum	f r a m f 9 r Y m
 framganga	f r a m k au N k a
 framgang	f r a m k au N k
 framgangi	f r a m k au J c I
+framgangur	f r a m k au N k Y r
 framgengt	f r a m c ei N_0 t
 framgöngu	f r a m k 9i N k Y
 framhald	f r a m h a l t
@@ -12006,6 +12121,7 @@ framhaldsskólanemendur	f r a m h a l t s k ou l a n E m E n t Y r
 framhaldsskólans	f r a m h a l t s k ou l a n s
 framhaldsskólar	f r a m h a l t s k ou l a r
 framhaldsskólastigi	f r a m h a l t s k ou l a s t i j I
+framhaldsskóli	f r a m h a l t s k ou l I
 framhaldsskólum	f r a m h a l t s k ou l Y m
 framhaldsskólunum	f r a m h a l t s k ou l O n Y m
 framhaldsstyrk	f r a m h a l t s t I r_0 k
@@ -12249,6 +12365,7 @@ frasi	f r a: s I
 fraud	f r O: t
 frábrugðið	f r au: p r Y G D I D
 frábrugðin	f r au p r Y G D I n
+frábrugðinn	f r au: p r Y G D I n
 frábrugðnir	f r au p r Y G D n I r
 frábæra	f r au: p ai r a
 frábæran	f r au: p ai r a n
@@ -12281,6 +12398,7 @@ fráköst	f r au: k_h 9 s t
 fráköstum	f r au: k_h 9 s t Y m
 fráleit	f r au: l ei t_h
 fráleitt	f r au: l ei h t
+fráleitur	f r au: l ei t_h Y r
 frárennsliskerfum	f r au: r E n s t l I s c_h E r v Y m
 frásagnar	f r au: s a k n a r
 frásagnargáfu	f r au: s a k n a r k au v Y
@@ -12322,6 +12440,7 @@ frekju	f r E: c_h Y
 frekjulega	f r E: c_h Y l E G a
 freknóttur	f r E h k n ou h t Y r
 frekt	f r E x t
+frekur	f r E: k_h Y r
 frelsa	f r E l s a
 frelsarans	f r E l s a r a n s
 frelsari	f r E l s a r I
@@ -12356,8 +12475,8 @@ fresturinn	f r E s t Y r I n
 freydís	f r ei: t i s
 freyðivín	f r ei: D I v i n
 frey	f r ei:
-freyja	f r ei: j a
-freyju	f r ei: j Y
+freyja	f r ei j a
+freyju	f r ei j Y
 freyr	f r ei: r
 freys	f r ei: s
 freysteinn	f r ei: s t ei t n_0
@@ -12514,6 +12633,7 @@ frjálslyndi	f r j au l s t l I n t I
 frjálslyndir	f r j au l s t l I n t I r
 frjálslyndra	f r j au l s t l I n t r a
 frjálslyndu	f r j au l s t l I n t Y
+frjálslyndur	f r j au l s t l I n t Y r
 frjálsra	f r j au l s r a
 frjálsrar	f r j au l s r a r
 frjálsri	f r j au l s r I
@@ -12543,6 +12663,7 @@ fróðárheiði	f r ou: D au r_0 h ei D I
 fróði	f r ou: D I
 fróðleg	f r ou D l E G
 fróðlegt	f r ou D l E x t
+fróðlegur	f r ou D l E G Y r
 fróðleik	f r ou D l ei k_h
 fróðleiks	f r ou D l ei k s
 fróðleikur	f r ou D l ei k_h Y r
@@ -12622,6 +12743,7 @@ fræðigrein	f r ai: D I k r ei n
 fræðiheiti	f r ai: D I h ei t_h I
 fræðilega	f r ai: D I l E G a
 fræðilegum	f r ai: D I l E G Y m
+fræðilegur	f r ai: D I l E G Y r
 fræðimaður	f r ai: D I m a D Y r
 fræðimanna	f r ai: D I m a n a
 fræðimenn	f r ai: D I m E n
@@ -12641,13 +12763,13 @@ frægasta	f r ai: G a s t a
 frægasti	f r ai: G a s t I
 frægð	f r ai G D
 fræg	f r ai: G
-frægir	f r ai: j I r
+frægir	f r ai j I r
 frægt	f r ai x t
 frægu	f r ai: G Y
 frægum	f r ai: G Y m
 frægur	f r ai: G Y r
 frægustu	f r ai: G Y s t Y
-fræjum	f r ai: j Y m
+fræjum	f r ai j Y m
 frækinn	f r ai: c_h I n
 frænda	f r ai n t a
 frændfólki	f r ai n t f ou l_0 c I
@@ -12830,6 +12952,7 @@ furðu	f Y r D Y
 furðulega	f Y r D Y l E G a
 furðuleg	f Y r D Y l E G
 furðulegt	f Y r D Y l E x t
+furðulegur	f Y r D Y l E G Y r
 furðuverk	f Y r D Y v E r_0 k
 fur	f 9: r
 furious	f j u: r i j Y s
@@ -12966,6 +13089,7 @@ fyrirhugaðra	f I: r I r_0 h Y G a D r a
 fyrirhugaðrar	f I: r I r_0 h Y G a D r a r
 fyrirhugaðs	f I: r I r_0 h Y G a D s
 fyrirhugaður	f I: r I r_0 h Y G a D Y r
+fyrirhuga	f I: r I r_0 h Y G a
 fyrirhuguð	f I: r I r_0 h Y G Y D
 fyrirhuguðu	f I: r I r_0 h Y G Y D Y
 fyrirhuguðum	f I: r I r_0 h Y G Y D Y m
@@ -13017,6 +13141,7 @@ fyrirséð	f I: r I r_0 s j E D
 fyrirsjáanlega	f I: r I r_0 s j au a n l E G a
 fyrirsjáanleg	f I: r I r_0 s j au a n l E G
 fyrirsjáanlegt	f I: r I r_0 s j au a n l E x t
+fyrirsjáanlegur	f I: r I r_0 s j au a n l E G Y r
 fyrirskipað	f I: r I r_0 s c I p_h a D
 fyrirskipaði	f I: r I r_0 s c I p_h a D I
 fyrirskipanir	f I: r I r_0 s c I p_h a n I r
@@ -13079,6 +13204,7 @@ fyrning	f I r t n i N k
 fyrningu	f I r t n i N k Y
 fyrnist	f I r t n I s t
 fyrradag	f I r a t a G
+fyrradagur	f I r a t a G Y r
 fyrra	f I r a
 fyrrahaust	f I r a h 9i s t
 fyrrakvöld	f I r a k_h v 9 l t
@@ -13092,6 +13218,7 @@ fyrrgreind	f I r k r ei n t
 fyrrgreindra	f I r k r ei n t r a
 fyrrgreindri	f I r k r ei n t r I
 fyrrgreindu	f I r k r ei n t Y
+fyrrgreindur	f I r k r ei n t Y r
 fyrrgreint	f I r k r ei n_0 t
 fyrri	f I r I
 fyrrihluta	f I r I l_0 Y t_h a
@@ -13162,6 +13289,7 @@ færa	f ai: r a
 færandi	f ai: r a n t I
 færar	f ai: r a r
 færast	f ai: r a s t
+færðar	f ai r D a r
 færð	f ai r D
 færði	f ai r D I
 færðir	f ai r D I r
@@ -13177,6 +13305,7 @@ færeyjar	f ai: r ei j a r
 færeyjum	f ai: r ei j Y m
 færeyska	f ai: r ei s k a
 færeysku	f ai: r ei s k Y
+færeyskur	f ai: r ei s k Y r
 fær	f ai: r
 færið	f ai: r I D
 færi	f ai: r I
@@ -13317,24 +13446,27 @@ gagnaver	k a k n a v E r
 gagnaöflun	k a k n a 9 p l Y n
 gagnáfrýjanda	k a k n au f r i j a n t a
 gagnáfrýjandi	k a k n au f r i j a n t I
-gagnfræðaskóla	k a k n_0 f r ai D a s k ou l a
-gagnfræðaskólanum	k a k n_0 f r ai D a s k ou l a n Y m
-gagngerar	k a k n_0 c E r a r
-gagngert	k a k n_0 c E r_0 t
+gagnfræðaskóla	k a k f r ai D a s k ou l a
+gagnfræðaskólanum	k a k f r ai D a s k ou l a n Y m
+gagngerar	k a c E r a r
+gagngert	k a k c E r_0 t
 gagnið	k a k n I D
 gagni	k a k n I
 gagnist	k a k n I s t
 gagn	k a k n_0
 gagnkvæma	k a k_h v ai m a
-gagnkvæmar	k a k n_0 k_h v ai m a r
-gagnkvæm	k a k n_0 k_h v ai m
-gagnkvæmri	k a k n_0 k_h v ai m r I
-gagnkvæmt	k a k n_0 k_h v ai m_0 t
-gagnkvæmum	k a k n_0 k_h v ai m Y m
-gagnkynhneigðra	k a k n_0 c_h I n n_0 ei G D r a
+gagnkvæmar	k a k_h v ai m a r
+gagnkvæm	k a k_h v ai m
+gagnkvæmri	k a k_h v ai m r I
+gagnkvæmt	k a k_h v ai m_0 t
+gagnkvæmum	k a k_h v ai m Y m
+gagnkvæmur	k a k_h v ai m Y r
+gagnkynhneigðra	k a c_h I n_0 ei G D r a
+gagnkynhneigður	k a c_h I n_0 ei G D Y r
 gagnlegar	k a k n l E G a r
-gagnleg	k a k l E G
+gagnleg	k a k n l E G
 gagnlegt	k a k n l E x t
+gagnlegur	k a k n l E G Y r
 gagnrýna	k a k r i n a
 gagnrýnandi	k a k r i n a n t I
 gagnrýndi	k a k r i n t I
@@ -13360,7 +13492,7 @@ gagnslaust	k a k n_0 s t l 9i s t
 gagnstefnanda	k a k n_0 s t E p n a n t a
 gagnstefnandi	k a k n_0 s t E p n a n t I
 gagnstefnda	k a k n_0 s t E m t a
-gagnstefndi	k a k s t E m t I
+gagnstefndi	k a k n_0 s t E m t I
 gagnstefnenda	k a k n_0 s t E p n E n t a
 gagnstefnendur	k a k n_0 s t E p n E n t Y r
 gagnstæða	k a k n_0 s t ai D a
@@ -13369,7 +13501,8 @@ gagnstætt	k a k n_0 s t ai h t
 gagnsæ	k a k n_0 s ai
 gagnsök	k a k n_0 s 9 k_h
 gagntaka	k a k n_0 t_h a k_h a
-gagnvirkt	k a k n v I r_0 t
+gagnvart	k a k v a r_0 t
+gagnvirkt	k a k v I r_0 t
 gais	k ai s
 gakk	k a h k
 gakktu	k a x t Y
@@ -13690,6 +13823,7 @@ gefðu	c E v D Y
 gefi	c E: v I
 gefið	c E: v I D
 gefin	c E: v I n
+gefinn	c E: v I n
 gefist	c E: v I s t
 gefnar	c E p n a r
 gefnir	c E p n I r
@@ -13732,6 +13866,7 @@ geiminu	c ei: m I n Y
 geimnum	c ei m n Y m
 geimsins	c ei m s I n s
 geimum	c ei: m Y m
+geimur	c ei: m Y r
 geimverur	c ei m v E r Y r
 geimverurnar	c ei m v E r Y r t n a r
 geira	c ei: r a
@@ -14131,14 +14266,16 @@ gistinátta	c I s t I n au h t a
 gistinefndin	c I s t I n E m t I n
 gisting	c I s t i N k
 gistingu	c I s t i N k Y
+gistinótt	c I s t I n ou h t
 gistinóttum	c I s t I n ou h t Y m
 gistinætur	c I s t I n ai t_h Y r
 gistir	c I s t I r
 gistirými	c I s t I r i m I
 gististað	c I s t I s t a D
+gististaður	c I s t I s t a D Y r
 gistu	c I s t Y
 gistum	c I s t Y m
-giuseppe	t j u s E h p
+giuseppe	t j u s E h p E
 give	c I v
 given	c I v E n
 gives	c I v s
@@ -14348,6 +14485,7 @@ gleði	k l E: D I
 gleðileg	k l E: D I l E G
 gleðilegra	k l E: D I l E G r a
 gleðilegt	k l E: D I l E x t
+gleðilegur	k l E: D I l E G Y r
 gleðina	k l E: D I n a
 gleðin	k l E: D I n
 gleðinnar	k l E: D I n a r
@@ -14485,6 +14623,8 @@ glögga	k l 9 k a
 glögg	k l 9 k
 glögglega	k l 9 k l E G a
 glöggskyggn	k l 9 k s c I k n_0
+glöggt	k l 9 x t
+glöggur	k l 9 k Y r
 glöggva	k l 9 k v a
 glöggvunar	k l 9 k v Y n a r
 glömpuðu	k l 9 m_0 p Y D Y
@@ -14778,6 +14918,7 @@ greiðsluaðlögunar	k r ei D s t l Y a D l 9 G Y n a r
 greiðsluaðlögun	k r ei D s t l Y a D l 9 G Y n
 greiðslubyrði	k r ei D s t l Y p I r D I
 greiðsludags	k r ei D s t l Y t a x s
+greiðsludagur	k r ei D s t l Y t a G Y r
 greiðsluerfiðleikum	k r ei D s t l Y E r v I D l ei k_h Y m
 greiðslukort	k r ei D s t l Y k_h O r_0 t
 greiðslu	k r ei D s t l Y
@@ -14800,6 +14941,7 @@ greiðslustöðvun	k r ei D s t l Y s t 9 D v Y n
 greiðsluvanda	k r ei D s t l Y v a n t a
 greiðsluþátttöku	k r ei D s t l Y T au h t_h 9 k_h Y
 greiðum	k r ei: D Y m
+greiður	k r ei: D Y r
 greiðvikinn	k r ei D v I c_h I n
 greifans	k r ei: v a n s
 greifingi	k r ei: v i J c I
@@ -14836,6 +14978,7 @@ greinilega	k r ei: n I l E G a
 greinilegar	k r ei: n I l E G a r
 greinileg	k r ei: n I l E G
 greinilegt	k r ei: n I l E x t
+greinilegur	k r ei: n I l E G Y r
 greinina	k r ei: n I n a
 greiningardeildar	k r ei: n i N k a r_0 t ei l t a r
 greiningardeildin	k r ei: n i N k a r t ei l t I n
@@ -14855,6 +14998,7 @@ greinum	k r ei: n Y m
 greipar	k r ei: p_h a r
 greip	k r ei: p_h
 greipum	k r ei: p_h Y m
+greitt	k r ei h t
 gremju	k r E m j Y
 greni	k r E: n I
 grenivík	k r E: n I v i k_h
@@ -15049,10 +15193,11 @@ gríska	k r i s k a
 grísk	k r i s k
 grísku	k r i s k Y
 grískum	k r i s k Y m
+grískur	k r i s k Y r
 grjóthnullungum	k r j ou t n_0 Y t l u N k Y m
 grjóti	k r j ou: t_h I
 grjót	k r j ou: t_h
-groningen	r_0 O: n i J c E n
+groningen	r_0 ou: n i J c E n
 ground	k r au: n t
 group	k r u h p
 groups	k r u p s
@@ -15064,6 +15209,7 @@ gróða	k r ou: D a
 gróði	k r ou: D I
 gróðri	k r ou D r I
 gróðurhúsalofttegunda	k r ou: D Y r_0 h u s a l O f t_h E G Y n t a
+gróðurhúsalofttegund	k r ou: D Y r_0 h u s a l O f t E G Y n t
 gróðurhús	k r ou: D Y r_0 h u s
 gróðurinn	k r ou: D Y r I n
 gróður	k r ou: D Y r
@@ -15150,6 +15296,7 @@ grunsamlegt	k r Y n s a m l E x t
 grunsemdir	k r Y n s E m t I r
 gruns	k r Y n s
 grunuð	k r Y: n Y D
+grunur	k r Y: n Y r
 grúppukeppninni	k r u h p Y c_h E h p n I n I
 grúppum	k r u h p Y m
 grúppuna	k r u h p Y n a
@@ -15163,8 +15310,8 @@ græddu	k r ai t Y
 græða	k r ai: D a
 græðgi	k r ai D c I
 græðir	k r ai: D I r
-græja	k r ai: j a
-græjur	k r ai: j Y r
+græja	k r ai j a
+græjur	k r ai j Y r
 græna	k r ai: n a
 grænan	k r ai: n a n
 grænar	k r ai: n a r
@@ -15203,7 +15350,7 @@ grön	k r 9: n
 grönnum	k r 9 n Y m
 guarantee	k a: r a n_0 t i
 guardian	k a r t i a n
-guardiola	k a r t i O l a
+guardiola	k a r t i j ou l a
 guard	k a r t
 gubbaði	k Y p a D I
 gubbað	k Y p a D
@@ -15433,6 +15580,7 @@ gyðingar	c I: D i N k a r
 gyðingarnir	c I: D i N k a r t n I r
 gyðingasamtakanna	c I: D i N k a s a m t_h a k_h a n a
 gyðingum	c I: D i N k Y m
+gyðingur	c I: D i N k Y r
 gyðu	c I: D Y
 gylfa	c I l v a
 gylfadóttir	c I l v a t ou h t I r
@@ -15578,6 +15726,7 @@ hafðu	h a v D Y
 hafður	h a v D Y r
 haffa	h a f a
 haffærisskírteini	h a f ai r I s c i r_0 t ei n I
+haf	h a: v
 hafið	h a: v I D
 hafi	h a: v I
 hafin	h a: v I n
@@ -15710,6 +15859,7 @@ hagnýtingar	h a G n i t_h i N k a r
 hagnýtingu	h a G n i t_h i N k Y
 hagnýtri	h a G n i t_h r I
 hagnýtt	h a G n i h t
+hagnýtur	h a G n i t Y r
 hagræða	h a G r ai D a
 hagræði	h a G r ai D I
 hagræðingar	h a G r ai D i N k a r
@@ -15720,6 +15870,7 @@ hagrætt	h a G r ai h t
 hagsbóta	h a x s p ou t_h a
 hagsmunaaðila	h a x s m Y n a a D I l a
 hagsmunaaðilar	h a x s m Y n a D I l a r
+hagsmunaaðili	h a x s m Y n a D I l I
 hagsmunaárekstra	h a x s m Y n a au r E k s t r a
 hagsmunagæslu	h a x s m Y n a c ai s t l Y
 hagsmuna	h a x s m Y n a
@@ -15740,6 +15891,7 @@ hagstæðara	h a x s t ai D a r a
 hagstæðari	h a x s t ai D a r I
 hagstæðu	h a x s t ai D Y
 hagstæðum	h a x s t ai D Y m
+hagstæður	h a x s t ai D Y r
 hagstætt	h a x s t ai h t
 hagsæld	h a x s ai l t
 hagtölur	h a G t_h 9 l Y r
@@ -16113,6 +16265,7 @@ hatt	h a h t
 hatti	h a h t I
 hattinn	h a h t I n
 hattinum	h a h t I n Y m
+hattur	h a h t Y r
 hatur	h a: t_h Y r
 haughúss	h 9i G h u s
 haukadal	h 9i: k_h a t a l
@@ -16184,6 +16337,7 @@ háður	h au: D Y r
 hágrátandi	h au: k r au t_h a n t I
 hágæða	h au: c ai D a
 há	h au:
+háhitasvæði	h au: h I t_h a s v ai D I
 háholti	h au: h O l_0 t I
 háir	h au: I r
 hákarl	h au: k_h a r t l
@@ -16348,6 +16502,7 @@ hátíðlegur	h au: t_h i D l E G Y r
 hátíðum	h au: t_h i D Y m
 háttað	h au h t a D
 háttaður	h au h t a D Y r
+hátta	h au h t a
 háttalag	h au h t a l a G
 háttaratviksorð	h au h t a r a t_h v I k s O r D
 háttar	h au h t a r
@@ -16446,6 +16601,7 @@ heggur	h E k Y r
 hegningarauki	h E k n i N k a r 9i c_h I
 hegningarlagabrot	h E k n i N k a r l a G a p r O t
 hegningarlaga	h E k n i N k a r l a G a
+hegningarlög	h E k n i N k a r l 9 G
 hegningarlögum	h E k n i N k a r l 9 G Y m
 hegranesþing	h E G r a n E s T i N k
 heidfeld	h ei t f E l t
@@ -16541,6 +16697,7 @@ heilbrigðisnefndar	h ei l p r I G D I s t n E m t a r
 heilbrigðisnefnd	h ei l p r I G D I s t n E m t
 heilbrigðisráðherra	h ei l p r I G D I s r au T h E r a
 heilbrigðisráðuneytið	h ei l p r I G D I s r au D Y n ei t_h I D
+heilbrigðisráðuneyti	h ei l p r I G D I s r au D Y n ei t_h I
 heilbrigðisráðuneytinu	h ei l p r I G D I s r au D Y n ei t_h I n Y
 heilbrigðisráðuneytisins	h ei l p r I G D I s r au D Y n ei t_h I s I n s
 heilbrigðisstarfsfólk	h ei l p r I G D I s t a r f s f ou l_0 k
@@ -16599,6 +16756,7 @@ heildsala	h ei l t s a l a
 heildsalinn	h ei l t s a l I n
 heildstæða	h ei l t s t ai D a
 heildstæð	h ei l t s t ai D
+heildstæður	h ei l t s t ai D Y r
 heildstætt	h ei l t s t ai h t
 heildsölufyrirtækinu	h ei l t s 9 l Y f I r I r_0 t_h ai c_h I n Y
 heildsölu	h ei l t s 9 l Y
@@ -16624,6 +16782,7 @@ heilluðu	h ei t l Y D Y
 heilmargt	h ei l m a r_0 t
 heilmikið	h ei l m I c_h I D
 heilmikil	h ei l m I c_h I l
+heilmikill	h ei l m I c_h I t l_0
 heilnæmt	h ei l n ai m_0 t
 heilsaði	h ei l s a D I
 heilsa	h ei l s a
@@ -16640,6 +16799,7 @@ heilsufar	h ei l s Y f a r
 heilsufari	h ei l s Y f a r I
 heilsufarssögu	h ei l s Y f a r_0 s 9 G Y
 heilsufarsupplýsingum	h ei l s Y f a r_0 s Y h p l i s i N k Y m
+heilsugæsla	h ei l s Y c ai s t l a
 heilsugæslan	h ei l s Y c ai s t l a n
 heilsugæslu	h ei l s Y c ai s t l Y
 heilsugæsluhjúkrunarfræðingum	h ei l s Y c ai s t l Y C u k_h r Y n a r_0 f r ai D i N k Y m
@@ -16670,6 +16830,7 @@ heimafólk	h ei: m a f ou l_0 k
 heima	h ei: m a
 heimahjúkrunar	h ei: m a C u k_h r Y n a r
 heimahjúkrun	h ei: m a C u k_h r Y n
+heimahús	h ei: m a h u s
 heimahúsi	h ei: m a h u s I
 heimahúsum	h ei: m a h u s Y m
 heimahöfn	h ei: m a h 9 p n_0
@@ -16686,6 +16847,7 @@ heimaleiki	h ei: m a l ei c_h I
 heimaleikjum	h ei: m a l ei c_h Y m
 heimaleikur	h ei: m a l ei k_h Y r
 heimalyklar	h ei: m a l I h k l a r
+heimamaður	h ei: m a m a D Y r
 heimamanna	h ei: m a m a n a
 heimamenn	h ei: m a m E n
 heimamönnum	h ei: m a m 9 n Y m
@@ -16851,6 +17013,7 @@ heimsóttum	h ei m s ou h t Y m
 heimspekideild	h ei m s p E c_h I t ei l t
 heimspeki	h ei m s p E c_h I
 heimspekilegi	h ei m s p E c_h I l ei j I
+heimspekilegur	h ei m s p E c_h I l E G Y r
 heimspekinga	h ei m s p E c_h i N k a
 heimspekingar	h ei m s p E c_h i N k a r
 heimspekingsins	h ei m s p E c_h i N s I n s
@@ -16906,6 +17069,7 @@ hektarar	h E x t a r a r
 hektó	h E x t ou
 hekturum	h E x t Y r Y m
 held	h E l t
+heldri	h E l t r I
 heldurðu	h E l t Y r D Y
 heldur	h E l t Y r
 helena	h E: l E n a
@@ -17051,6 +17215,7 @@ henti	h E n_0 t I
 hentisemi	h E n_0 t I s E m I
 hentuðu	h E n_0 t Y D Y
 hentugt	h E n_0 t Y x t
+hentugur	h E n_0 t Y G Y r
 hentu	h E n_0 t Y
 hentust	h E n_0 t Y s t
 heppilega	h E h p I l E G a
@@ -17061,6 +17226,7 @@ heppilegri	h E h p I l E G r I
 heppilegt	h E h p I l E x t
 heppilegur	h E h p I l E G Y r
 heppin	h E h p I n
+heppinn	h E h p I n
 heppnaða	h E h p n a D a
 heppnaðar	h E h p n a D a r
 heppnað	h E h p n a D
@@ -17236,8 +17402,8 @@ hetti	h E h t I
 hettupeysa	h E h t Y p_h ei s a
 heygafflar	h ei: k a f l a r
 hey	h ei:
-heyi	h ei: j I
-heyja	h ei: j a
+heyi	h ei j I
+heyja	h ei j a
 heykvísl	h ei: k_h v i s t l_0
 heymaur	h ei: m 9i r
 heyra	h ei: r a
@@ -17402,6 +17568,7 @@ hinsegin	h I n s ei j I n
 hins	h I n s
 hinsta	h I n s t a
 hinstu	h I n s t Y
+hinstur	h I n s t Y r
 hinsvegar	h I n s v E G a r
 hinu	h I: n Y
 hinum	h I: n Y m
@@ -17686,6 +17853,7 @@ hjúkrun	C u: k_h r Y n
 hjúpa	C u: p_h a
 hjúpur	C u: p_h Y r
 hjúskap	C u: s k a p
+hjúskapur	C u: s k a p_h Y r
 hjöllum	C 9 t l Y m
 hjördísar	C 9 r t i s a r
 hjördís	C 9 r t i s
@@ -17766,7 +17934,7 @@ hláturs	l_0 au: t_h Y r_0 s
 hleðslugaffals	l_0 E D s t l Y k a f a l s
 hleðslu	l_0 E D s t l Y
 hleðslutengill	l_0 E D s t l Y t_h ei J c I t l_0
-hlegið	l_0 ei: j I D
+hlegið	l_0 ei j I D
 hlekkinn	l_0 E h c I n
 hlekkir	l_0 E h c I r
 hlekkjaður	l_0 E h c a D Y r
@@ -17902,6 +18070,7 @@ hljóðritun	l_0 j ou D r I t_h Y n
 hljóðs	l_0 j ou D s
 hljóðum	l_0 j ou: D Y m
 hljóðunum	l_0 j ou: D O n Y m
+hljóður	l_0 j ou: D Y r
 hljóðveri	l_0 j ou D v E r I
 hljóðverinu	l_0 j ou D v E r I n Y
 hljóðvilla	l_0 j ou D v I t l a
@@ -17995,6 +18164,7 @@ hlutabréfakaupa	l_0 Y: t_h a p r j E v a k_h 9i p_h a
 hlutabréfa	l_0 Y: t_h a p r j E v a
 hlutabréfamarkaði	l_0 Y: t_h a p r j E v a m a r_0 k a D I
 hlutabréfamarkað	l_0 Y: t_h a p r j E v a m a r_0 k a D
+hlutabréfamarkaður	l_0 Y: t_h a p r j E v a m a r_0 k a D Y r
 hlutabréfanna	l_0 Y: t_h a p r j E v a n a
 hlutabréfaverð	l_0 Y: t_h a p r j E v a v E r D
 hlutabréfavísitalan	l_0 Y: t_h a p r j E v a v i s I t_h a l a n
@@ -18037,6 +18207,7 @@ hlutfallslega	l_0 Y: t f a l s t l E G a
 hlutfallslegan	l_0 Y: t f a l s t l E G a n
 hlutfallsleg	l_0 Y: t f a l s t l E G
 hlutfallslegri	l_0 Y: t f a l s t l E G r I
+hlutfallslegur	l_0 Y t f a l s t l E G Y r
 hlutföll	l_0 Y: t f 9 t l_0
 hlutföllum	l_0 Y: t f 9 t l Y m
 hluthafafundar	l_0 Y: t h a v a f Y n t a r
@@ -18055,6 +18226,7 @@ hlutinn	l_0 Y: t_h I n
 hlutir	l_0 Y: t_h I r
 hlutirnir	l_0 Y: t_h I r t n I r
 hlut	l_0 Y: t_h
+hlutlaus	l_0 Y t l 9i s
 hlutlaust	l_0 Y: t l 9i s t
 hlutleysi	l_0 Y: t l ei s I
 hlutnum	l_0 Y h t n Y m
@@ -18116,10 +18288,10 @@ hlýst	l_0 i s t
 hlýt	l_0 i: t_h
 hlýtt	l_0 i h t
 hlýtur	l_0 i: t_h Y r
-hlægilegt	l_0 ai: j I l E x t
-hlægja	l_0 ai: j a
-hlæja	l_0 ai: j a
-hlæjandi	l_0 ai: j a n t I
+hlægilegt	l_0 ai j I l E x t
+hlægja	l_0 ai j a
+hlæja	l_0 ai j a
+hlæjandi	l_0 ai j a n t I
 hlær	l_0 ai: r
 hlöðuballi	l_0 9: D Y p a l I
 hlöðuball	l_0 9: D Y p a l
@@ -18263,6 +18435,7 @@ hnúta	n_0 u: t_h a
 hnútana	n_0 u: t_h a n a
 hnút	n_0 u: t_h
 hnútum	n_0 u: t_h Y m
+hnútur	n_0 u: t_h Y r
 hnykkir	n_0 I h c I r
 hnykkja	n_0 I h c a
 hnykkti	n_0 I x t I
@@ -18277,6 +18450,7 @@ hnökrar	n_0 9: k_h r a r
 hnöttinn	n_0 9 h t I n
 hnött	n_0 9 h t
 hnöttum	n_0 9 h t Y m
+hnöttur	n_0 9 h t Y r
 hobbitanum	h O p I t_h a n Y m
 hobbit	h O p I t
 hobbiti	h O p I t_h I
@@ -18925,6 +19099,7 @@ hræðilega	r_0 ai: D I l E G a
 hræðileg	r_0 ai: D I l E G
 hræðilegt	r_0 ai: D I l E x t
 hræðilegu	r_0 ai: D I l E G Y
+hræðilegur	r_0 ai: D I l E G Y r
 hræðist	r_0 ai: D I s t
 hræðsla	r_0 ai D s t l a
 hræðslu	r_0 ai D s t l Y
@@ -19176,6 +19351,7 @@ húðin	h u: D I n
 húðinni	h u: D I n I
 húfi	h u: v I
 húfu	h u: v Y
+húfur	h u: v Y r
 húkti	h u x t I
 húktu	h u x t Y
 húllumhæ	h u l Y m h ai
@@ -19226,6 +19402,7 @@ húseigendur	h u: s ei G E n t Y r
 húsfélagsins	h u: s f j E l a x s I n s
 húsfreyja	h u: s f r ei j a
 húsfreyju	h u: s f r ei j Y
+húsgagn	h u: s k a k n_0
 húsgögn	h u: s k 9 k n_0
 húsgögnum	h u: s k 9 k n Y m
 húshitunar	h u: s h I t_h Y n a r
@@ -19303,6 +19480,7 @@ hvalurinn	k_h v a: l Y r I n
 hvalur	k_h v a: l Y r
 hvalveiða	k_h v a l v ei D a
 hvalveiðar	k_h v a l v ei D a r
+hvalveiði	k_h v a l v ei D I
 hvalveiðum	k_h v a l v ei D Y m
 hvammi	k_h v a m I
 hvamminn	k_h v a m I n
@@ -19313,6 +19491,7 @@ hvarfi	k_h v a r v I
 hvarf	k_h v a r f
 hvarflaði	k_h v a r t l a D I
 hvarflað	k_h v a r t l a D
+hvarfla	k_h v a r t l a
 hvarflandi	k_h v a r t l a n t I
 hvarflar	k_h v a r t l a r
 hvarfslóð	k_h v a r f s t l ou D
@@ -19388,6 +19567,7 @@ hverjar	k_h v E r j a r
 hverjir	k_h v E r j I r
 hverju	k_h v E r j Y
 hverjum	k_h v E r j Y m
+hver	k_h v E r
 hvernig	k_h v E r t n I G
 hvern	k_h v E r t n_0
 hverra	k_h v E r a
@@ -19451,6 +19631,7 @@ hvískri	k_h v i s k r I
 hvískruðu	k_h v i s k r Y D Y
 hvískur	k_h v i s k Y r
 hvíslaði	k_h v i s t l a D I
+hvísla	k_h v i s t l a
 hvíslast	k_h v i s t l a s t
 hvíslið	k_h v i s t l I D
 hvísluðu	k_h v i s t l Y D Y
@@ -19568,9 +19749,11 @@ hæfa	h ai: v a
 hæfari	h ai: v a r I
 hæfasta	h ai: v a s t a
 hæf	h ai: v
+hæfi	h ai: v I
 hæfilega	h ai: v I l E G a
 hæfileg	h ai: v I l E G
 hæfilegt	h ai: v I l E x t
+hæfilegur	h ai: v I l E G Y r
 hæfileika	h ai: v I l ei k_h a
 hæfileikann	h ai: v I l ei k_h a n
 hæfileikar	h ai: v I l ei k_h a r
@@ -19579,6 +19762,7 @@ hæfileiki	h ai: v I l ei c_h I
 hæfileikum	h ai: v I l ei k_h Y m
 hæfir	h ai: v I r
 hæfist	h ai: v I s t
+hæfni	h ai p n I
 hæft	h ai f t
 hæfu	h ai: v Y
 hæfur	h ai: v Y r
@@ -19636,6 +19820,7 @@ hælis	h ai: l I s
 hælisleitenda	h ai: l I s t l ei t_h E n t a
 hælisleitendum	h ai: l I s t l ei t_h E n t Y m
 hælisleitendur	h ai: l I s t l ei t_h E n t Y r
+hæll	h ai t l_0
 hælum	h ai: l Y m
 hæna	h ai: n a
 hænsni	h ai n s t n I
@@ -19722,6 +19907,7 @@ höfuðáverka	h 9: v Y D au v E r_0 k a
 höfuðborgar	h 9: v Y D p O r k a r
 höfuðborgarinnar	h 9: v Y D p O r k a r I n a r
 höfuðborgarsvæðið	h 9: v Y D p O r k a r_0 s v ai D I D
+höfuðborgarsvæði	h 9: v Y D p O r k a r_0 s v ai D I
 höfuðborgarsvæðinu	h 9: v Y D p O r k a r_0 s v ai D I n Y
 höfuðborgarsvæðisins	h 9: v Y D p O r k a r_0 s v ai D I s I n s
 höfuðborg	h 9: v Y D p O r k
@@ -19801,6 +19987,7 @@ hönnuðurinn	h 9 n Y D Y r I n
 hönnu	h 9 n Y
 hönnunar	h 9 n Y n a r
 hönnunarmars	h 9 n Y n a r m a r_0 s
+hönnunarvilla	h 9 n Y n a r v I l a
 hönnun	h 9 n Y n
 hönnunina	h 9 n Y n I n a
 hönnunin	h 9 n Y n I n
@@ -19858,6 +20045,7 @@ iðkun	I T k Y n
 iðnaðarhúsnæði	I D n a D a r_0 h u s t n ai D I
 iðnaðar	I D n a D a r
 iðnaðarins	I D n a D a r I n s
+iðnaðarmaður	I D n a D a r m a D Y r
 iðnaðarmanna	I D n a D a r m a n a
 iðnaðarmenn	I D n a D a r m E n
 iðnaðarnefndar	I D n a D a r n E m t a r
@@ -19890,6 +20078,7 @@ ifs	I f s
 igla	I k l a
 igor	i k O r
 ihf	I: h au E f
+iinnsetningu	I n s E h t n I N k Y
 ikea	I: k_h E a
 iker	i: k_h E r
 iktsýki	I x t s i c_h I
@@ -19922,6 +20111,7 @@ illuga	I t l Y G a
 illugi	I t l Yi j I
 illu	I t l Y
 illum	I t l Y m
+illur	I t l Y r
 illviðráðanlegri	I t l_0 v I D r au D a n l E G r I
 illviðri	I t l v I D r I
 illvígan	I t l v i G a n
@@ -20082,6 +20272,7 @@ innfluttar	I n f l Y h t a r
 innflutt	I n f l Y h t
 innfluttu	I n f l Y h t Y
 innfluttum	I n f l Y h t Y m
+innfluttur	I n f l Y h t Y r
 innflytjanda	I n f l I t_h j a n t a
 innflytjandi	I n f l I t_h j a n t I
 innflytjenda	I n f l I t_h j E n t a
@@ -20127,6 +20318,7 @@ innilegar	I n I l E G a r
 innilegri	I n I l E G r I
 innilegt	I n I l E x t
 innilegu	I n I l E G Y
+innilegur	I n I l E G Y r
 innilegustu	I n I l E G Y s t Y
 innilokunarkennd	I n I l O k_h Y n a r_0 c_h E n t
 inn	I n
@@ -20193,7 +20385,6 @@ innritun	I n r I t_h Y n
 innrætið	I n r ai t_h I D
 innræting	I n r ai t_h i N k
 innrömmuð	I n r 9 m Y D
-innsetningu	I n s E h t n I N k Y
 innsiglaði	I n s I k l a D I
 innsláttarvilla	I n s t l au h t a r v I t l a
 innsláttarvillan	I n s t l au h t a r v I t l a n
@@ -20354,6 +20545,7 @@ i've	ai: v
 íhugi	i: h Yi j I
 íhugull	i: h Y G Y t l_0
 íhugun	i: h Y G Y n
+í	i:
 íklædd	i: k_h l ai t
 íklæddur	i k_h l ai t Y r
 íkveikju	i: k_h v ei c_h Y
@@ -20516,6 +20708,7 @@ i've	ai: v
 ísraelsmenn	i: s r a E l s m E n
 ísskáp	i s k au p_h
 ísskápnum	i s k au h p n Y m
+ísskápur	i s k au p_h Y r
 ístak	i: s t_h a k_h
 íst	i: s t
 ístölt	i: s t_h 9 l_0 t
@@ -20537,6 +20730,7 @@ i've	ai: v
 ítarlegt	i: t_h a r l E x t
 ítarlegu	i: t_h a r l E G Y
 ítarlegum	i: t_h a r l E G Y m
+ítarlegur	i: t_h a r l E G Y r
 ítrasta	i: t_h r a s t a
 ítrekaðar	i: t_h r E k_h a D a r
 ítrekaði	i: t_h r E k_h a D I
@@ -20615,10 +20809,12 @@ jaðar	j a: D a r
 jaðarsbakkalaug	j a: D a r_0 s p a h k a l 9i G
 jaðarstökin	j a: D a r_0 s t 9 c_h I n
 jaðri	j a D r I
+jafnaðarmaður	j a p n a D a r m a D Y r
 jafnaðarmanna	j a p n a D a r m a n a
 jafnaðarmenn	j a p n a D a r m E n
 jafnaði	j a p n a D I
 jafnað	j a p n a D
+jafnaður	j a p n a D Y r
 jafna	j a p n a
 jafnaldra	j a p n a l t r a
 jafnan	j a p n a n
@@ -20645,15 +20841,16 @@ jafnmiklum	j a p n_0 m I h k l Y m
 jafnmörg	j a p n_0 m 9 r k
 jafnmörgum	j a p n_0 m 9 r k Y m
 jafnóðum	j a p n ou D Y m
+jafnrétti	j a p n_0 r j E h t I
 jafnréttisgrundvelli	j a p n_0 r j E h t I s k r Y n t v E t l I
 jafnréttis	j a p n_0 r j E h t I s
 jafnréttismála	j a p n_0 r j E h t I s m au l a
 jafnréttismálaráðherra	j a p n_0 r j E h t I s m au l a r au T h E r a
 jafnréttismál	j a p n_0 r j E h t I s m au l
-jafnréttismálum	j a p r j E h t I s m au l Y m
-jafnréttisráðgjafi	j a p r j E h t I s r au D c a v I
-jafnréttisstofa	j a p r j E h t I s t O v a
-jafnréttisstofu	j a p r j E h t I s t O v Y
+jafnréttismálum	j a p n_0 r j E h t I s m au l Y m
+jafnréttisráðgjafi	j a p n_0 r j E h t I s r au D c a v I
+jafnréttisstofa	j a p n_0 r j E h t I s t O v a
+jafnréttisstofu	j a p n_0 r j E h t I s t O v Y
 jafnri	j a p n_0 r I
 jafnræði	j a p n_0 r ai D I
 jafnræðis	j a p n_0 r ai D I s
@@ -20666,6 +20863,7 @@ jafnstór	j a p n_0 s t ou r
 jafnteflið	j a p n_0 t_h E p l I D
 jafntefli	j a p n_0 t_h E p l I
 jafnteflinu	j a p n_0 t_h E p l I n Y
+jafnt	j a m_0 t
 jafnvel	j a p v E l
 jafnvirði	j a p n_0 v I r D I
 jafnvægið	j a p n_0 v ai j I D
@@ -20743,6 +20941,7 @@ jarðhiti	j a r T h I t_h I
 jarðhæð	j a r T h ai D
 jarðir	j a r D I r
 jarðirnar	j a r D I r t n a r
+jarðlag	j a r D l a G
 jarðlífið	j a r D l i v I D
 jarðlífi	j a r D l i v I
 jarðneska	j a r D n E s k a
@@ -20897,7 +21096,7 @@ joint	t j Oi n_0 t
 jolie	j ou: l i
 jol	j ou: l
 joly	j ou: l i
-jonas	j ou n a s
+jonas	j ou: n a s
 jonathan	t j O n a T a n
 jones	t j ou n s
 jong	j O N
@@ -21034,7 +21233,7 @@ jugendstíl	j u: c E n t s t i l
 juice	t j u: s
 juku	j Y: k Y
 jukust	j Y: k_h Y s t
-julia	j u: l i j a
+julia	h u: l i j a
 julian	j u: l i a n
 julie	t j u: l i
 julio	h u: l i j ou
@@ -21094,7 +21293,7 @@ júllurnar	j u l Y r t n a r
 júní	j u: n i
 júnímánuði	j u: n i m au n Y D I
 júpíter	j u: p_h i t_h E r
-jæja	j ai: j a
+jæja	j ai j a
 jöfn	j 9 p n_0
 jöfnuði	j 9 p n Y D I
 jöfnuð	j 9 p n Y D
@@ -21211,11 +21410,11 @@ kafnir	k_h a p n I r
 kafrjóð	k_h a v r j ou D
 kahn	k_h a: n
 kahoot	k_h a h u: t
-kaiserslautern	k_h ei: s E r_0 s l au t_h E r n
+kaiserslautern	k_h ai: s E r_0 s l au t_h E r n
 kaíró	k_h ai: r ou
-kajaka	k_h a: j a k_h a
-kajakinn	k_h ai: j a c_h I n
-kaj	k_h ai:
+kajaka	k_h ai j a k_h a
+kajakinn	k_h ai j a c_h I n
+kaj	k_h ai
 kaka	k_h a: k_h a
 kakan	k_h a: k_h a n
 kakkalakki	k_h a h k a l a h c I
@@ -21373,6 +21572,7 @@ kantmönnunum	k_h a n_0 t m 9 n O n Y m
 kanton	k_h a n_0 t O n
 kantonsku	k_h a n_0 t O n s k Y
 kantsteinarnir	k_h a n_0 t s t ei n a r t n I r
+kantur	k_h a n_0 t Y r
 kanye	k_h a: n j a
 kapalinn	k_h a: p_h a l I n
 kapelluhraun	k_h a: p_h E t l Y r_0 9i n
@@ -21517,6 +21717,7 @@ karpa	k_h a r_0 p a
 karpatafjöllum	k_h a r_0 p a t_h a f j 9 t l Y m
 karpov	k_h a r_0 p O f
 karríi	k_h a r i I
+kartafla	k_h a r_0 t a p l a
 kartöflubollur	k_h a r_0 t 9 p l Y p O l Y r
 kartöflumauki	k_h a r_0 t 9 p l Y m 9i c_h I
 kartöflum	k_h a r_0 t 9 p l Y m
@@ -21542,6 +21743,7 @@ kassa	k_h a s a
 kassana	k_h a s a n a
 kassann	k_h a s a n
 kassanum	k_h a s a n Y m
+kassi	k_h a s I
 kastaði	k_h a s t a D I
 kastaðist	k_h a s t a D I s t
 kastað	k_h a s t a D
@@ -21728,6 +21930,7 @@ keim	c_h ei: m
 keip	c_h ei: p_h
 keisara	c_h ei: s a r a
 keisarans	c_h ei: s a r a n s
+keisari	c_h ei: s a r I
 keita	c_h ei: t_h a
 keith	c_h i T
 keldnaholti	c_h E l t n a h O l_0 t I
@@ -22033,6 +22236,7 @@ kirkjugarðinum	c_h I r_0 c Y k a r D I n Y m
 kirkjugarðsfélaginu	c_h I r_0 c Y k a r D s f j E l ai j I n Y
 kirkjugarðsins	c_h I r_0 c Y k a r D s I n s
 kirkjugarðsvegginn	c_h I r_0 c Y k a r D s v E c I n
+kirkjugarður	c_h I r_0 c Y k a r D Y r
 kirkjugarðurinn	c_h I r_0 c Y k a r D Y r I n
 kirkjugata	c_h I r_0 c Y k a t_h a
 kirkjugestir	c_h I r_0 c Y c E s t I r
@@ -22073,6 +22277,7 @@ kirsuberjum	c_h I r_0 s Y p E r j Y m
 kirtla	c_h I r_0 t l a
 kisa	c_h I: s a
 kiss	c_h I s
+kista	c_h I s t a
 kistan	c_h I s t a n
 kistilinn	c_h I s t I l I n
 kistli	c_h I s t l I
@@ -22098,6 +22303,7 @@ kílói	c_h i: l ou I
 kílóið	c_h i: l ou I D
 kílómetra	c_h i: l ou m E t_h r a
 kílómetrar	c_h i: l ou m E t_h r a r
+kílómetri	c_h i: l ou m E t_h r I
 kílómetrum	c_h i: l ou m E t_h r Y m
 kílóum	c_h i: l ou Y m
 kílóverðið	c_h i: l ou v E r D I D
@@ -22118,6 +22324,7 @@ kínverskir	c_h i n v E r_0 s c I r
 kínverskra	c_h i n v E r_0 s k r a
 kínversku	c_h i n v E r_0 s k Y
 kínverskum	c_h i n v E r_0 s k Y m
+kínverskur	c_h i n v E r_0 s k Y r
 kíóið	c_h i: ou I D
 kjafta	c_h a f t a
 kjaftað	c_h a f t a D
@@ -22348,6 +22555,7 @@ klassískri	k_h l a s i s k r I
 klassískt	k_h l a s i s t
 klassísku	k_h l a s i s k Y
 klassískum	k_h l a s i s k Y m
+klassískur	k_h l a s i s k Y r
 klaufa	k_h l 9i: v a
 klaufalega	k_h l 9i: v a l E G a
 klaufavilla	k_h l 9i: v a v I t l a
@@ -22397,10 +22605,12 @@ klárum	k_h l au: r Y m
 klefa	k_h l E: v a
 klefann	k_h l E: v a n
 klefanum	k_h l E: v a n Y m
+klefi	k_h l E: v I
 klefinn	k_h l E: v I n
 kleifarvatn	k_h l ei: v a r v a h t n_0
 kleif	k_h l ei: f
 kleift	k_h l ei f t
+kleifur	k_h l ei: v Y r
 klein	k_h l ai: n
 kleinur	k_h l ei: n Y r
 klekkja	k_h l E h c a
@@ -22486,7 +22696,7 @@ klofningu	k_h l O p n i N k Y
 klofnum	k_h l O p n Y m
 klofnun	k_h l O p n Y n
 klopp	k_h l O h p
-klose	k_h l O: s E
+klose	k_h l ou: s E
 klossi	k_h l O s I
 klókindi	k_h l ou: c_h I n t I
 klók	k_h l ou: k
@@ -22657,7 +22867,7 @@ koddamanninum	k_h O t a m a n I n Y m
 koddann	k_h O t a n
 koddaver	k_h O t a v E r
 koddi	k_h O t I
-koeman	k_h 9: m a n
+koeman	k_h ou: m a n
 kofa	k_h O: v a
 kofanna	k_h O: v a n a
 kofann	k_h O: v a n
@@ -22723,6 +22933,7 @@ koll	k_h O t l_0
 kollugerðisengi	k_h O t l Y c E r D I s ei J c I
 kollu	k_h O t l Y
 kollunnar	k_h O t l Y n a r
+kollur	k_h O t l Y r
 kollvarpað	k_h O t l v a r_0 p a D
 kolmar	k_h O l m a r
 kolmunna	k_h O l m Y n a
@@ -23114,6 +23325,7 @@ krikketsins	k_h r I h c E t s I n s
 krikkets	k_h r I h c E t s
 krimma	k_h r I m a
 krimmi	k_h r I m I
+kring	k_h r i N k
 kringla	k_h r i N l a
 kringlan	k_h r i N l a n
 kringlótta	k_h r i N l ou h t a
@@ -23376,7 +23588,7 @@ kurteisi	k_h Y r_0 t ei s I
 kurteis	k_h Y r_0 t ei s
 kurt	k_h Y r_0 t
 kusu	k_h Y: s Y
-kuyt	k_h 9i t_h
+kuyt	k_h au t_h
 kúabænda	k_h u: a p ai n t a
 kúabændur	k_h u: a p ai n t Y r
 kúagerði	k_h u: a c E r D I
@@ -23585,6 +23797,7 @@ kvóti	k_h v ou: t_h I
 kvótinn	k_h v ou: t I n
 kvæðið	k_h v ai: D I D
 kvæði	k_h v ai: D I
+kvænast	k_h v ai: n a s t
 kvæntist	k_h v ai n_0 t I s t
 kvæntur	k_h v ai n_0 t Y r
 kvödd	k_h v 9 t
@@ -23648,6 +23861,7 @@ kynferðislegs	c_h I n f E r D I s t l E x s
 kynferðislegt	c_h I n f E r D I s t l E x t
 kynferðislegu	c_h I n f E r D I s t l E G Y
 kynferðislegum	c_h I n f E r D I s t l E G Y m
+kynferðislegur	c_h I n f E r D I s t l E G Y r
 kynferðismök	c_h I n f E r D I s m 9 k_h
 kynferðisofbeldi	c_h I n f E r D I s O v p E l t I
 kynferðisofbeldis	c_h I n f E r D I s O v p E l t I s
@@ -23699,6 +23913,7 @@ kynntu	c_h I n_0 t Y
 kynntumst	c_h I n_0 t Y m s t
 kynntur	c_h I n_0 t Y r
 kynntust	c_h I n_0 t Y s t
+kynnu	c_h I n Y
 kynnum	c_h I n Y m
 kyns	c_h I n s
 kynslóða	c_h I n s t l ou D a
@@ -23774,6 +23989,7 @@ kyrrum	c_h I r Y m
 kyrrþey	c_h I r_0 T ei
 kyrtli	c_h I r_0 t l I
 kysi	c_h I: s I
+kyssa	c_h I s a
 kysst	c_h I s t
 kyssti	c_h I s t I
 kysstumst	c_h I s t Y m s t
@@ -23819,6 +24035,7 @@ kærkomin	c_h ai r k_h O m I n
 kærlega	c_h ai r l E G a
 kærleika	c_h ai r l ei k_h a
 kærleik	c_h ai r l ei k_h
+kærleiki	c_h ai r l ei c_h I
 kærleikur	c_h ai r l ei k_h Y r
 kærleikurinn	c_h ai r l ei k_h Y r I n
 kært	c_h ai r_0 t
@@ -23920,6 +24137,7 @@ lagaákvæði	l a: G a au k_h v ai D I
 lagaákvæðum	l a: G a au k_h v ai D Y m
 lagabreytinga	l a: G a p r ei t_h i N k a
 lagabreytingar	l a: G a p r ei t_h i N k a r
+lagabreyting	l a: G a p r ei t_h i N k
 lagabreytingu	l a: G a p r ei t_h i N k Y
 lagabreytingum	l a: G a p r ei t_h i N k Y m
 lagadeildar	l a: G a t ei l t a r
@@ -23940,6 +24158,7 @@ lagalegar	l a: G a l E G a r
 lagaleg	l a: G a l E G
 lagalegu	l a: G a l E G Y
 lagalegum	l a: G a l E G Y m
+lagalegur	l a: G a l E G Y r
 laganema	l a: G a n E m a
 laganna	l a: G a n a
 lagaprófessor	l a: G a p_h r ou f E s O r
@@ -23991,6 +24210,7 @@ lakk	l a h k
 lakkmyndir	l a h k m I n t I r
 lakkrís	l a h k r i s
 lak	l a: k_h
+lakur	l a: k_h Y r
 lalla	l a t l a
 lalli	l a t l I
 lamaðist	l a: m a D I s t
@@ -24031,7 +24251,7 @@ landamærunum	l a n t a m ai r O n Y m
 landans	l a n t a n s
 landareign	l a n t a r ei k n_0
 landar	l a n t a r
-landbúnaðarafurða	l a n t p u n a D a r a f Y r D a
+landbúnaðarafurða	l a n t p u n a D a r a v Y r D a
 landbúnaðarafurðir	l a n t p u n a D a r a v Y r D I r
 landbúnaðarafurðum	l a n t p u n a D a r a v Y r D Y m
 landbúnaðarháskóla	l a n t p u n a D a r_0 h au s k ou l a
@@ -24134,6 +24354,7 @@ landsfund	l a n t s f Y n t
 landsfundur	l a n t s f Y n t Y r
 landshluta	l a n t s l_0 Y t_h a
 landshlutanum	l a n t s l_0 Y t_h a n Y m
+landshluti	l a n t s l_0 Y t_h I
 landshlutum	l a n t s l_0 Y t_h Y m
 landshöfðingjans	l a n t s h 9 v D i J c a n s
 landsins	l a n t s I n s
@@ -24182,6 +24403,7 @@ landsliðsþjálfarinn	l a n t s t l I D s T j au l v a r I n
 landsliðum	l a n t s t l I D Y m
 landslög	l a n t s t l 9 G
 landslögum	l a n t s t l 9 G Y m
+landsmaður	l a n t s m a D Y r
 landsmanna	l a n t s m a n a
 landsmenn	l a n t s m E n
 landsmóti	l a n t s m ou t_h I
@@ -24218,6 +24440,7 @@ landsvaka	l a n t s v a k_h a
 landsvala	l a n t s v a l a
 landsvirkjunar	l a n t s v I r_0 c Y n a r
 landsvirkjun	l a n t s v I r_0 c Y n
+landsvísa	l a n t s v i s a
 landsvísu	l a n t s v i s Y
 landsvæða	l a n t s v ai D a
 landsvæðið	l a n t s v ai D I D
@@ -24293,9 +24516,11 @@ langtímaáhrif	l au N t_h i m a au r_0 I f
 langtímaáætlun	l au N k t_h i m a au ai h t l Y n
 langtíma	l au N k t_h i m a
 langtímum	l au N t_h i m Y m
+langt	l au N_0 t
 langtum	l au N_0 t Y m
 language	l a N k v E t s
 languages	l a N k v E t s E s
+langur	l au N k Y r
 langvarandi	l au N k v a r a n t I
 langveginn	l au N k v ei j I n
 langveikra	l au N k v ei k_h r a
@@ -24324,8 +24549,10 @@ late	l ei: t
 later	l ei: t E r
 latest	l ei: t E s t
 latin	l a t I n
+latína	l a: t_h i n a
 latínu	l a: t_h i n Y
 latneskt	l a h t n E s t
+latneskur	l a h t n E s k Y r
 latte	l a h t E
 laufási	l 9i: v au s I
 laufásvegi	l 9i: v au s v ei j I
@@ -24336,6 +24563,7 @@ laufeyju	l 9i: v ei j Y
 laufey	l 9i: v ei
 laufferjum	l 9i f E r j Y m
 laufi	l 9i: v I
+lauf	l 9i: v
 laufskálinn	l 9i f s k au l I n
 laufþekjuna	l 9i f T E c_h Y n a
 laugarásbíó	l 9i: G a r au s p i j ou
@@ -24353,6 +24581,7 @@ laugardagsmorgni	l 9i: G a r t a x s m O r t n I
 laugardagsmorgnum	l 9i: G a r t a x s m O r t n Y m
 laugardagsmorgun	l 9i: G a r t a x s m O r k Y n
 laugardagurinn	l 9i: G a r t a G Y r I n
+laugardagur	l 9i: G a r t a G Y r
 laugardal	l 9i: G a r t a l
 laugardalnum	l 9i: G a r t a l n Y m
 laugardalshöllinni	l 9i: G a r_0 t a l s h 9 t l I n I
@@ -24380,10 +24609,12 @@ laugavegur	l 9i: G a v E G Y r
 laugina	l 9i j I n a
 laugin	l 9i: j I n
 lauginni	l 9i j I n I
+laug	l 9i: G
 laugum	l 9i: G Y m
 lauk	l 9i: k_h
 laukrétt	l 9i: k_h r j E h t
 laukur	l 9i: k_h Y r
+lauma	l 9i: m a
 laumast	l 9i: m a s t
 launað	l 9i: n a D
 launafólki	l 9i: n a f ou l_0 c I
@@ -24419,6 +24650,7 @@ launaþróun	l 9i: n a T r ou Y n
 launcher	l O n t s E r
 launin	l 9i: n I n
 launkofa	l 9i N k_h O v a
+laun	l 9i: n
 launuð	l 9i: n Y D
 launuðu	l 9i: n Y D Y
 launum	l 9i: n Y m
@@ -24426,6 +24658,7 @@ launungarmál	l 9i: n u N k a r m au l
 laununum	l 9i: n O n Y m
 launþega	l 9i n T E G a
 launþegar	l 9i n T E G a r
+launþegi	l 9i n T ei j I
 launþegum	l 9i n T E G Y m
 laupana	l 9i: p_h a n a
 laura	l O: r a
@@ -24438,6 +24671,7 @@ lausa	l 9i: s a
 lausan	l 9i: s a n
 lausar	l 9i: s a r
 lausir	l 9i: s I r
+laus	l 9i: s
 lauslega	l 9i s t l E G a
 lauslegt	l 9i: s t l E x t
 lausna	l 9i s t n a
@@ -24632,6 +24866,7 @@ leeds	l i t s
 lee	l i:
 left	l E f t
 legacy	l E k a s i
+lega	l E: G a
 legal	l i: k a l
 legáta	l E: k au t_h a
 legði	l E G D I
@@ -24645,6 +24880,7 @@ leggi	l E c I
 leggina	l E c I n a
 legginn	l E c I n
 leggist	l E c I s t
+leggja	l E c a
 leggjast	l E c a s t
 leggjum	l E c Y m
 leggjunum	l E c O n Y m
@@ -24692,6 +24928,7 @@ leiðandi	l ei: D a n t I
 leiðangri	l ei: D au N k r I
 leiðangrinum	l ei: D au N k r I n Y m
 leiðangurinn	l ei: D au N k Y r I n
+leiðangur	l ei: D au N k Y r
 leiðara	l ei: D a r a
 leiðarenda	l ei: D a r E n t a
 leiðarinnar	l ei: D a r I n a r
@@ -24707,9 +24944,11 @@ leiðbeiningar	l ei D p ei n i N k a r
 leiðbeiningarnar	l ei D p ei n i N k a r t n a r
 leiðbeiningarreglum	l ei D p ei n i N k a r E k l Y m
 leiðbeiningarstöð	l ei D p ei n i N k a r_0 s t 9 D
+leiðbeining	l ei D p ei n i N k
 leiðbeiningum	l ei D p ei n i N k Y m
 leiðbeint	l ei D p ei n_0 t
 leiðigjarnt	l ei: D I c a n_0 t
+leiði	l ei: D I
 leiðina	l ei: D I n a
 leiðinlega	l ei: D I n l E G a
 leiðinlegir	l ei: D I n l ei j I r
@@ -24736,11 +24975,14 @@ leiðtoga	l ei D t_h O G a
 leiðtogar	l ei D t_h O G a r
 leiðtogarnir	l ei D t_h O G a r t n I r
 leiðtogaskóli	l ei D t_h O G a s k ou l I
+leiðtogi	l ei D t_h Oi j I
 leiðtoginn	l ei D t_h Oi j I n
 leiðtogum	l ei D t_h O G Y m
 leiðum	l ei: D Y m
+leiður	l ei: D Y r
 leifa	l ei: v a
 leifi	l ei: v I
+leif	l ei: v
 leifsdóttir	l ei f s t ou h t I r
 leifs	l ei f s
 leifssonar	l ei f s O n a r
@@ -24752,6 +24994,7 @@ leiftri	l ei f t r I
 leiftruðu	l ei f t r Y D Y
 leiftursókn	l ei f t Y r_0 s ou h k n_0
 leifur	l ei: v Y r
+leiga	l ei: G a
 leigan	l ei: G a n
 leigða	l ei G D a
 leigðar	l ei G D a r
@@ -24760,12 +25003,13 @@ leigð	l ei G D
 leigðu	l ei G D Y
 leigðum	l ei G D Y m
 leigh	l i:
-leigi	l ei: j I
-leigir	l ei: j I r
-leigjandi	l ei: j a n t I
+leigi	l ei j I
+leigir	l ei j I r
+leigja	l ei j a
+leigjandi	l ei j a n t I
 leigjenda	l ei j E n t a
 leigjendasamtökin	l ei j E n t a s a m t_h 9 c_h I n
-leigjendur	l ei: j E n t Y r
+leigjendur	l ei j E n t Y r
 leigt	l ei x t
 leigubifreiðarstjóra	l ei: G Y p I v r ei D a r_0 s t j ou r a
 leigubílinn	l ei: G Y p i l I n
@@ -24792,6 +25036,7 @@ leigutaka	l ei: G Y t_h a k_h a
 leigutaki	l ei: G Y t_h a c_h I
 leigutekjur	l ei: G Y t_h E c_h Y r
 leiguverð	l ei: G Y v E r D
+leika	l ei: k_h a
 leikana	l ei: k_h a n a
 leikanna	l ei: k_h a n a
 leikara	l ei: k_h a r a
@@ -24801,6 +25046,7 @@ leikaranum	l ei: k_h a r a n Y m
 leikarar	l ei: k_h a r a r
 leikararnir	l ei: k_h a r a r t n I r
 leikaraskap	l ei: k_h a r a s k a p_h
+leikari	l ei: k_h a r I
 leikarinn	l ei: k_h a r I n
 leikar	l ei: k_h a r
 leikarnir	l ei: k_h a r t n I r
@@ -24859,6 +25105,7 @@ leiklistarhæfileika	l ei: k l I s t a r_0 h ai v I l ei k_h a
 leiklistarskóla	l ei: k l I s t a r_0 s k ou l a
 leiklist	l ei: k l I s t
 leikmaðurinn	l ei: k m a D Y r I n
+leikmaður	l ei k m a D Y r
 leikmannahópi	l ei: k m a n a h ou p_h I
 leikmannahópinn	l ei: k m a n a h ou p_h I n
 leikmannahóp	l ei: k m a n a h ou p_h
@@ -24908,6 +25155,7 @@ leikskólann	l ei: k s k ou l a n
 leikskólanum	l ei: k s k ou l a n Y m
 leikskólar	l ei: k s k ou l a r
 leikskólastjóri	l ei: k s k ou l a s t j ou r I
+leikskóli	l ei k s k ou l I
 leikskólinn	l ei: k s k ou l I n
 leikskólum	l ei: k s k ou l Y m
 leiks	l ei: k s
@@ -24945,6 +25193,7 @@ leiktæki	l ei: k t_h ai c_h I
 leikum	l ei: k_h Y m
 leikunum	l ei: k_h O n Y m
 leikurinn	l ei: k_h Y r I n
+leikur	l ei: k_h Y r
 leikurum	l ei: k_h Y r Y m
 leikvangi	l ei: k_h v au J c I
 leikvanginn	l ei: k_h v au J c I n
@@ -24971,6 +25220,7 @@ leitina	l ei: t_h I n a
 leitin	l ei: t_h I n
 leitinni	l ei: t_h I n I
 leitirnar	l ei: t_h I r t n a r
+leit	l ei: t_h
 leitt	l ei h t
 leituðu	l ei: t_h Y D Y
 leituðum	l ei: t_h Y D Y m
@@ -24986,6 +25236,7 @@ lemgo	l E m k ou
 lemja	l E m j a
 lemon	l E m O n
 lena	l E: n a
+lenda	l E n t a
 lendi	l E n t I
 lendingar	l E n t i N k a r
 lending	l E n t i N k
@@ -25023,11 +25274,11 @@ lenti	l E n_0 t I
 lent	l E n_0 t
 lentu	l E n_0 t Y
 lentum	l E n_0 t Y m
-leo	l E: ou
+leo	l i: j ou
 leonard	l E O n a r t
 leonardo	l E O n a r t ou
 leone	l E: O n E
-leon	l E O n
+leon	l E: O n
 leó	l E: ou
 leósdóttir	l E: ou s t ou h t I r
 leósson	l E: ou s O n
@@ -25035,10 +25286,14 @@ lepja	l E: p_h j a
 leppana	l E h p a n a
 lerki	l E r_0 c I
 leroy	l i: r Oi
+lesa	l E: s a
 lesanda	l E: s a n t a
 lesandann	l E: s a n t a n
 lesandanum	l E: s a n t a n Y m
+lesandi	l E: s a n t I
 lesandinn	l E: s a n t I n
+lesbía	l E s p i j a
+lesblindur	l E: s p l I n t Y r
 lesbók	l E: s p ou k_h
 lesefni	l E: s E p n I
 lesenda	l E: s E n t a
@@ -25061,6 +25316,7 @@ lestina	l E s t I n a
 lestin	l E s t I n
 lestinni	l E s t I n I
 lestir	l E s t I r
+lest	l E s t
 lestri	l E s t r I
 lestu	l E s t Y
 lestum	l E s t Y m
@@ -25087,6 +25343,7 @@ lewis	l u: I s
 lexíu	l E k s i j Y
 lex	l E k s
 lexus	l E k s u s
+leyfa	l ei: v a
 leyfðar	l ei v D a r
 leyfði	l ei v D I
 leyfðir	l ei v D I r
@@ -25106,7 +25363,9 @@ leyfisleysi	l ei: v I s t l ei s I
 leyfisveitingar	l ei: v I s v ei t_h i N k a r
 leyft	l ei f t
 leyfum	l ei: v Y m
+leyna	l ei: n a
 leynast	l ei: n a s t
+leyndarmál	l ei n t a r m au l
 leyndarskráningu	l ei n t a r_0 s k r au n i N k Y
 leyndi	l ei n t I
 leyndu	l ei n t Y
@@ -25122,6 +25381,7 @@ leyniþjónustu	l ei: n I T j ou n Y s t Y
 leyniþjónustunnar	l ei: n I T j ou n Y s t Y n a r
 leynst	l ei n s t
 leynt	l ei n_0 t
+leysa	l ei: s a
 leysast	l ei: s a s t
 leysi	l ei: s I
 leysist	l ei: s I s t
@@ -25195,6 +25455,7 @@ liðinu	l I: D I n Y
 liðir	l I: D I r
 liðka	l I T k a
 liðlega	l I D l E G a
+lið	l I: D
 liðna	l I D n a
 liðnar	l I D n a r
 liðnir	l I D n I r
@@ -25222,12 +25483,15 @@ liðu	l I: D Y
 liðum	l I: D Y m
 liðunum	l I: D O n Y m
 liðurinn	l I: D Y r I n
+liður	l I: D Y r
 liechtensteinskir	l I C t E n s t ei n s k I r
 liechtensteinskra	l I C t E n s t ei n s k r a
 liechtensteinskum	l I C t E n s t ei n s k Y m
 lie	l ai:
 lies	l ai: s
 lifað	l I: v a D
+lifa	l I: v a
+lifandi	l I: v a n t I
 lifði	l I v D I
 lifðu	l I v D Y
 life	l ai: f
@@ -25303,13 +25567,13 @@ linkedin	l i N_0 k t I n
 linkind	l i n c_h I n t
 link	l i N_0 k
 linkur	l i N_0 k Y r
-linköping	l I n s j 9 p n i N
+linköping	l I n s j 9 p i N
 linni	l I n I
 linnulaust	l I n Y l 9i s t
 lint	l I n_0 t
 linur	l I: n Y r
 lionel	l ai O n E l
-lion	l ai: j O n
+lion	l ai j O n
 lip	l I p
 lippu	l I h p Y
 lipran	l I: p_h r a n
@@ -25429,12 +25693,14 @@ litlubrú	l I h t l Y p r u
 litlu	l I h t l Y
 litlum	l I h t l Y m
 litninga	l I h t n i N k a
+litningur	l I h t n i N k Y r
 litnum	l I h t n Y m
 litríka	l I: t_h r i k_h a
 litríkastir	l I: t_h r i k_h a s t I r
 litrík	l I: t_h r i k_h
 litríku	l I: t_h r i k_h Y
 litríkum	l I: t r i k_h Y m
+litríkur	l I: t_h r i k_h Y r
 litrófi	l I: t_h r ou v I
 litróf	l I: t_h r ou v
 litrófsgreiningu	l I: t_h r ou f s k r ei n i N k Y
@@ -25442,6 +25708,7 @@ litrófs	l I: t_h r ou f s
 little	l I h t 9 l
 litu	l I: t_h Y
 liturinn	l I: t_h Y r I n
+litur	l I: t_h Y r
 liu	l i j u
 lived	l I v t
 live	l ai: v
@@ -25455,6 +25722,7 @@ líbanons	l i: p a n O n s
 líberíu	l i: p E r i j Y
 líbíu	l i: p i j Y
 líbýu	l i: p i j Y
+líða	l i: D a
 líðandi	l i: D a n t I
 líðan	l i: D a n
 líðast	l i: D a s t
@@ -25564,10 +25832,12 @@ lífverur	l i v v E r Y r
 lígúrísku	l i: k u r i s k Y
 líkaði	l i: k_h a D I
 líkað	l i: k_h a D
+líka	l i: k_h a
 líkama	l i: k_h a m a
 líkamann	l i: k_h a m a n
 líkamans	l i: k_h a m a n s
 líkamanum	l i: k_h a m a n Y m
+líkami	l i: k_h a m I
 líkaminn	l i: k_h a m I n
 líkamlega	l i: k_h a m l E G a
 líkamleg	l i: k_h a m l E G
@@ -25575,6 +25845,7 @@ líkamlegri	l i: k_h a m l E G r I
 líkamlegt	l i: k_h a m l E x t
 líkamlegu	l i: k_h a m l E G Y
 líkamlegum	l i: k_h a m l E G Y m
+líkamlegur	l i: k_h a m l E G Y r
 líkamsárásar	l i: k_h a m s au r au s a r
 líkamsárásir	l i: k_h a m s au r au s I r
 líkamsárás	l i: k_h a m s au r au s
@@ -25585,6 +25856,7 @@ líkamsrækt	l i: k_h a m s r ai x t
 líkamstjóni	l i: k_h a m s t_h j ou n I
 líkamstjón	l i: k_h a m s t_h j ou n
 líkamstjóns	l i: k_h a m s t_h j ou n s
+líkan	l i: k_h a n
 líkara	l i: k_h a r a
 líkari	l i: k_h a r I
 líkar	l i: k_h a r
@@ -25623,6 +25895,7 @@ líktist	l i x t I s t
 líkt	l i x t
 líktust	l i x t Y s t
 líkum	l i: k_h Y m
+líkur	l i: k_h Y r
 líkurnar	l i: k_h Y r t n a r
 líma	l i: m a
 lína	l i: n a
@@ -25641,6 +25914,7 @@ línur	l i: n Y r
 línurnar	l i: n Y r t n a r
 líst	l i s t
 lísu	l i: s Y
+líta	l i: t_h a
 lítið	l i: t_h I D
 líti	l i: t_h I
 lítilla	l i: t_h I t l a
@@ -25649,6 +25923,7 @@ lítillátur	l i: t_h I l au t_h Y r
 lítillega	l i: t_h I l E G a
 lítilli	l i: t_h I t l I
 lítil	l i: t_h I l
+lítill	l i: t_h I t l_0
 lítilræði	l i: t_h I l r ai D I
 lítilsháttar	l i: t_h I l s h au h t a r
 lítils	l i: t_h I l s
@@ -25656,8 +25931,10 @@ lítinn	l i: t_h I n
 lít	l i: t_h
 lítra	l i: t_h r a
 lítrar	l i: t_h r a r
+lítri	l i: t_h r I
 lítrinn	l i: t_h r I n
 lítrum	l i: t_h r Y m
+lítt	l i h t
 lítum	l i: t_h Y m
 lítur	l i: t_h Y r
 líú	E t l i: u
@@ -25668,10 +25945,12 @@ ljóðið	l j ou: D I D
 ljóði	l j ou: D I
 ljóðin	l j ou: D I n
 ljóðinu	l j ou: D I n Y
+ljóð	l j ou: D
 ljóðum	l j ou: D Y m
 ljóma	l j ou: m a
 ljómandi	l j ou: m a n t I
 ljóminn	l j ou: m I n
+ljón	l j ou: n
 ljónshjarta	l j ou n s C a r_0 t a
 ljósafoss	l j ou: s a f O s
 ljósa	l j ou: s a
@@ -25689,6 +25968,8 @@ ljóslaust	l j ou: s t l 9i s t
 ljóslega	l j ou: s t l E G a
 ljósleiðara	l j ou s t l ei D a r a
 ljóslifandi	l j ou s t l I v a n t I
+ljós	l j ou: s
+ljósmóðir	l j ou s m ou D I r
 ljósmynda	l j ou s m I n t a
 ljósmyndara	l j ou s m I n t a r a
 ljósmyndarar	l j ou s m I n t a r a r
@@ -25721,6 +26002,7 @@ ljóta	l j ou: t_h a
 ljótari	l j ou: t_h a r I
 ljót	l j ou: t_h
 ljótt	l j ou h t
+ljótur	l j ou: t_h Y r
 ljungberg	l j Y N k p E r k
 ljúfa	l j u: v a
 ljúfar	l j u: v a r
@@ -25744,10 +26026,12 @@ ljúft	l j u f t
 ljúfu	l j u: v Y
 ljúfum	l j u: v Y m
 ljúfur	l j u: v Y r
+ljúga	l j u: G a
+ljúka	l j u: k_h a
 ljúki	l j u: c_h I
 ljúktu	l j u x t Y
 llorente	j O r E n_0 t E
-lloris	j O r I s
+lloris	l O r i s
 lloyd	l Oi t
 loan	l ou: n
 loans	l ou: n s
@@ -25763,6 +26047,7 @@ loðnuvinnslunnar	l O D n Y v I n s t l Y n a r
 loeb	l 9 p
 lofaði	l O: v a D I
 lofað	l O: v a D
+lofa	l O: v a
 lofar	l O: v a r
 lofgjörð	l O v c 9 r D
 lofi	l O: v I
@@ -25783,6 +26068,7 @@ loftflæðiuppsetningar	l O f t f l ai D I Y h p s E h t n i N k a r
 loftgæði	l O f t c ai D I
 lofthelgi	l O f t h E l c I
 lofthjúpnum	l O f t C u h p n Y m
+lofthjúpur	l O f t C u p_h Y r
 lofthræddur	l O f t r_0 ai t Y r
 loftið	l O f t I D
 lofti	l O f t I
@@ -25802,6 +26088,7 @@ loftslagi	l O f t s t l ai j I
 loftslag	l O f t s t l a G
 loftslagsbreytinga	l O f t s t l a x s p r ei t_h i N k a
 loftslagsbreytingar	l O f t s t l a x s p r ei t_h i N k a r
+loftslagsbreyting	l O f t s t l a x s p r ei t_h i N k
 loftslagsbreytingum	l O f t s t l a x s p r ei t_h i N k Y m
 loftslagsins	l O f t s t l a x s I n s
 loftslagsmál	l O f t s t l a x s m au l
@@ -25812,6 +26099,7 @@ lofuðu	l O: v Y D Y
 lofum	l O: v Y m
 logadóttir	l O: G a t ou h t I r
 logaði	l O: G a D I
+loga	l O: G a
 logandi	l O: G a n t I
 logann	l O: G a n
 logar	l O: G a r
@@ -25859,6 +26147,7 @@ lokakaflanum	l O: k_h a k_h a p l a n Y m
 lokakeppni	l O: k_h a c_h E h p n I
 lokakeppnina	l O: k_h a c_h E h p n I n a
 lokaleik	l O: k_h a l ei k_h
+loka	l O: k_h a
 lokametrunum	l O: k_h a m E t_h r O n Y m
 lokamínútu	l O: k_h a m i n u t_h Y
 lokamínútum	l O: k_h a m i n u t_h Y m
@@ -25883,10 +26172,12 @@ lokið	l O: c_h I D
 loki	l O: c_h I
 lokin	l O: c_h I n
 lokinni	l O: c_h I n I
+lokinn	l O: c_h I n
 lokka	l O h k a
 lokkana	l O h k a n a
 lokkandi	l O h k a n t I
 lokkur	l O h k Y r
+lok	l O: k_h
 loknu	l O h k n Y
 loknum	l O h k n Y m
 lokomotiv	l ou: k ou m ou t I v
@@ -25961,7 +26252,9 @@ lóðin	l ou: D I n
 lóðinni	l ou: D I n I
 lóðir	l ou: D I r
 lóðirnar	l ou: D I r t n a r
+lóð	l ou: D
 lóðrétt	l ou D r j E h t
+lóðréttur	l ou D r j E h t Y r
 lóðum	l ou: D Y m
 lóðunum	l ou: D O n Y m
 lófafylli	l ou: v a f I t l I
@@ -25971,6 +26264,7 @@ lófann	l ou: v a n
 lófanum	l ou: v a n Y m
 lófatak	l ou: v a t_h a k_h
 lófatölvur	l ou: v a t_h 9 l v Y r
+lófi	l ou: v I
 lófunum	l ou: v O n Y m
 lógíkina	l ou: c i c_h I n a
 lógíkin	l ou: c i c_h I n
@@ -25997,6 +26291,7 @@ lógóum	l ou: k ou Y m
 lónið	l ou: n I D
 lóni	l ou: n I
 lóninu	l ou: n I n Y
+lón	l ou: n
 lónsins	l ou n s I n s
 lóu	l ou: Y
 lóurnar	l ou: Y r t n a r
@@ -26165,6 +26460,7 @@ lýðræðislegri	l i D r ai D I s t l E G r I
 lýðræðislegt	l i D r ai D I s t l E x t
 lýðræðislegu	l i D r ai D I s t l E G Y
 lýðræðislegum	l i D r ai D I s t l E G Y m
+lýðræðislegur	l i D r ai D I s t l E G Y r
 lýðræðis	l i D r ai D I s
 lýðræðisríki	l i D r ai D I s r i c_h I
 lýðræðisríkjum	l i D r ai D I s r i c_h Y m
@@ -26253,6 +26549,7 @@ læknirinn	l ai h k n I r I n
 læknir	l ai h k n I r
 læknisfræði	l ai h k n I s f r ai D I
 læknisfræðileg	l ai h k n I s f r ai D I l E G
+læknisfræðilegur	l ai h k n I s f r ai D I l E G Y r
 læknisfræðinnar	l ai h k n I s f r ai D I n a r
 læknishendur	l ai h k n I s h E n t Y r
 læknisins	l ai h k n I s I n s
@@ -26316,6 +26613,7 @@ lögaldri	l 9: G a l t r I
 lögbannið	l 9 G p a n I D
 lögbann	l 9 G p a n
 lögbirtingablaðinu	l 9 G p I r_0 t i N k a p l a D I n Y
+lögbók	l 9 G p ou k_h
 lögbrot	l 9 G p r O t_h
 lögbundið	l 9 G p Y n t I D
 lögbundin	l 9 G p Y n t I n
@@ -26351,6 +26649,7 @@ löggjafar	l 9 G c a v a r
 löggjafarvaldið	l 9 G c a v a r v a l t I D
 löggjafarvald	l 9 G c a v a r v a l t
 löggjafarþingi	l 9 G c a v a r_0 T i J c I
+löggjafi	l 9 G c a v I
 löggjafinn	l 9 G c a v I n
 löggjöfina	l 9 G c 9 v I n a
 löggjöfin	l 9 G c 9 v I n
@@ -26372,6 +26671,7 @@ lögleiða	l 9 G l ei D a
 lögmaðurinn	l 9 G m a D Y r I n
 lögmaður	l 9 G m a D Y r
 lögmanna	l 9 G m a n a
+lögmanni	l 9 G m a n I
 lögmann	l 9 G m a n
 lögmannsins	l 9 G m a n s I n s
 lögmanns	l 9 G m a n s
@@ -26426,6 +26726,7 @@ lögregluyfirvöld	l 9 G r E k l Y I v I r v 9 l t
 lögregluþjónar	l 9 G r E k l Y T j ou n a r
 lögregluþjón	l 9 G r E k l Y T j ou n
 lögregluþjónn	l 9 G r E k l Y T j ou t n_0
+lögsaga	l 9 x s a G a
 lögsögu	l 9 x s 9 G Y
 lögum	l 9: G Y m
 lögun	l 9: G Y n
@@ -26452,6 +26753,7 @@ löngun	l 9i N k Y n
 lönguskerjum	l 9i N k Y s c E r j Y m
 löngusker	l 9i N k Y s c E r
 löngutöng	l 9i N k Y t_h 9i N k
+löpp	l 9 h p
 lötraði	l 9: t_h r a D I
 lötra	l 9: t_h r a
 lötruðum	l 9: t_h r Y D Y m
@@ -26531,9 +26833,9 @@ mainstream	m ei: n s t r i m
 mainz	m ai n s
 maí	m ai:
 maímánuði	m ai: m au n Y D I
-maís	m a: i s
-maísplöntunnar	m a: i s p_h l 9 n_0 t Y n a r
-maja	m ai: j a
+maís	m ai j i s
+maísplöntunnar	m ai j i s p_h l 9 n_0 t Y n a r
+maja	m ai j a
 major	m ei: t j O r
 maka	m a: k_h a
 makar	m a: k_h a r
@@ -26556,7 +26858,7 @@ makríl	m a: k_h r i l
 makríls	m a: k_h r i l s
 makrílveiðar	m a: k_h r i l v ei D a r
 makræði	m a: k_h r ai D I
-malaga	m a l a k a
+malaga	m a: l a k a
 mala	m a: l a
 malarslitlag	m a: l a r_0 s t l I t l a G
 malasíu	m a: l a s i j Y
@@ -26585,7 +26887,7 @@ malla	m a t l a
 mallann	m a l a n
 mallanum	m a l a n Y m
 mallar	m a t l a r
-malli	m a l I
+malli	m a t l I
 mallinn	m a t l I n
 malmö	m a l m 9
 malta	m a l_0 t a
@@ -26672,6 +26974,7 @@ mannleg	m a n l E G
 mannlegt	m a n l E x t
 mannlegu	m a n l E G Y
 mannlegum	m a n l E G Y m
+mannlegur	m a n l E G Y r
 mannlífið	m a n l i v I D
 mannlífi	m a n l i v I
 mannlíf	m a n l i v
@@ -27057,7 +27360,7 @@ max	m a k s
 maybe	m ei: p i
 mayen	m ai j E n
 may	m ei:
-mayor	m ei: j O r
+mayor	m ei j O r
 mayweather	m ei v E D E r
 mazda	m a s t a
 máfar	m au: v a r
@@ -27136,6 +27439,7 @@ málinu	m au: l I n Y
 mál	m au: l
 málmey	m au l m ei
 málmurinn	m au l m Y r I n
+málmur	m au l m Y r
 málningargallann	m au l n i N k a r k a l a n
 málningargallanum	m au l n i N k a r k a l a n Y m
 málningarrúlla	m au l n i N k a r u l a
@@ -27176,6 +27480,7 @@ málsmeðferð	m au l s m E D f E r D
 málsókn	m au l s ou h k n_0
 málssókn	m au l s ou h k n
 málstað	m au l s t a D
+málstaður	m au l s t a D Y r
 málstofu	m au l s t O v Y
 málsvara	m au l s v a r a
 málsvari	m au l s v a r I
@@ -27254,6 +27559,7 @@ máske	m au s c E
 más	m au: s
 másson	m au: s O n
 máta	m au: t_h a
+máti	m au: t_h I
 mát	m au: t_h
 máttarstólpum	m au h t a r_0 s t ou l_0 p Y m
 máttarvalda	m au h t a r v a l t a
@@ -27307,6 +27613,7 @@ meðaltal	m E: D a l t_h a l
 meðaltekjur	m E: D a l t_h E c_h Y r
 meðalupphæð	m E: D a l Y h p h ai D
 meðalverð	m E: D a l v E r D
+meðan	m E: D a n
 meðaumkunar	m E: D 9i m_0 k Y n a r
 meðaumkun	m E: D 9i m_0 k Y n
 meðákærða	m E: D au c_h ai r D a
@@ -27322,10 +27629,12 @@ meðferðin	m E D f E r D I n
 meðferðinni	m E D f E r D I n I
 meðferðir	m E D f E r D I r
 meðferðis	m E D f E r D I s
+meðferð	m E D f E r D
 meðfram	m E D f r a m
 meðfylgjandi	m E D f I l c a n t I
 meðfæddri	m E D f ai t r I
 meðförum	m E D f 9 r Y m
+meðganga	m E D k au N k a
 meðgöngunni	m E D k 9i N k Y n I
 meðhöndla	m E T h 9 n t l a
 meðhöndlunar	m E D h 9 n t l Y n a r
@@ -27335,16 +27644,19 @@ meðlima	m E D l I m a
 meðlimi	m E D l I m I
 meðlimir	m E D l I m I r
 meðlimum	m E D l I m Y m
+meðlimur	m E D l I m Y r
 með	m E: D
 meðmæli	m E D m ai l I
 meðstefnda	m E D s t E m t a
 meðtaka	m E D t_h a k_h a
 meðtalinni	m E D t_h a l I n I
+meðtalinn	m E D t_h a l I n
 meðtöldum	m E D t_h 9 l t Y m
 meðvirkni	m E D v I r_0 k n I
 meðvitaðir	m E D v I t_h a D I r
 meðvitað	m E D v I t_h a D
 meðvitaðri	m E D v I t_h a D r I
+meðvitaður	m E D v I t_h a D Y r
 meðvituð	m E D v I t_h Y D
 meðvitundarlaus	m E D v I t_h Y n t a r l 9i s
 meðvitundar	m E D v I t_h Y n t a r
@@ -27392,6 +27704,7 @@ meginhlutverk	m ei j I n l_0 Y t_h v E r_0 k
 meginkröfur	m ei j I n k_h r 9 v Y r
 meginlandi	m ei j I n l a n t I
 meginlandinu	m ei j I n l a n t I n Y
+meginland	m ei j I n l a n t
 meginlandsmisgengið	m ei j I n l a n t s m I s c ei J c I D
 meginmarkmið	m ei j I n m a r_0 k m I D
 meginmáli	m ei j I n m au l I
@@ -27550,12 +27863,14 @@ menningarlega	m E n i N k a r l E G a
 menningarleg	m E n i N k a r l E G
 menningarlegri	m E n i N k a r l E G r I
 menningarlegt	m E n i N k a r l E x t
+menningarlegur	m E n i N k a r l E G Y r
 menningarlífið	m E n i N k a r l i v I D
 menningarlífi	m E n i N k a r l i v I
 menningarlíf	m E n i N k a r l i v
 menningarmála	m E n i N k a r m au l a
 menningarmálanefnd	m E n i N k a r m au l a n E m t
 menningarmálaráðherra	m E n i N k a r m au l a r au T h E r a
+menningarmál	m E n i N k a r m au l
 menningarmálum	m E n i N k a r m au l Y m
 menningar	m E n i N k a r
 menningarnótt	m E n i N k a r n ou h t
@@ -27584,6 +27899,7 @@ menntamálanefndar	m E n_0 t a m au l a n E m t a r
 menntamálanefnd	m E n_0 t a m au l a n E m t
 menntamálaráðherra	m E n_0 t a m au l a r au T h E r a
 menntamálaráðuneytið	m E n_0 t a m au l a r au D Y n ei t_h I D
+menntamálaráðuneyti	m E n_0 t a m au l a r au D Y n ei t_h I
 menntamálaráðuneytinu	m E n_0 t a m au l a r au D Y n ei t_h I n Y
 menntamálaráðuneytisins	m E n_0 t a m au l a r au D Y n ei t_h I s I n s
 menntamál	m E n_0 t a m au l
@@ -27598,6 +27914,7 @@ menntaskólanema	m E n_0 t a s k ou l a n E m a
 menntaskólann	m E n_0 t a s k ou l a n
 menntaskólans	m E n_0 t a s k ou l a n s
 menntaskólanum	m E n_0 t a s k ou l a n Y m
+menntaskóli	m E n_0 t a s k ou l I
 menntaskólinn	m E n_0 t a s k ou l I n
 menntastofnanir	m E n_0 t a s t O p n a n I r
 mennt	m E n_0 t
@@ -27703,6 +28020,7 @@ metnir	m E h t n I r
 metraleitar	m E: t_h r a l ei t_h a r
 metrar	m E: t_h r a r
 metres	m i: t E r_0 s
+metri	m E: t_h r I
 metro	m E t r ou
 metrunum	m E: t_h r O n Y m
 metta	m E h t a
@@ -27712,7 +28030,7 @@ metum	m E: t_h Y m
 metur	m E: t_h Y r
 mexíkanar	m E k s i k_h a n a r
 mexíkóflóa	m E k s i k_h ou f l ou a
-meyer	m ai: j E r
+meyer	m ai j E r
 meynni	m ei n I
 mér	m j E: r
 mh	E m h au
@@ -27762,6 +28080,7 @@ miðbæinn	m I D p ai j I n
 miðbæjarins	m I D p ai j a r I n s
 miðbæ	m I D p ai
 miðbænum	m I D p ai n Y m
+miðbær	m I D p ai r
 miðdegistónar	m I D t ei j I s t_h ou n a r
 miðeyra	m I: D ei r a
 miðflokksins	m I D f l O h k s I n s
@@ -27846,11 +28165,13 @@ miguel	m I: c E l
 mika	m i: k_h a
 mikel	m I k E l
 mike	m ai k_h
+mikið	m I: c_h I D
 mikilfenglegu	m I: c_h I l f ei N k l E G Y
 mikilfenglegum	m I: c_h I l f ei N k l E G Y m
 mikilla	m I: c_h I t l a
 mikillar	m I: c_h I t l a r
 mikilli	m I: c_h I t l I
+mikill	m I: c_h I t l_0
 mikil	m I: c_h I l
 mikils	m I: c_h I l s
 mikilsvert	m I: c_h I l s v E r_0 t
@@ -27863,6 +28184,7 @@ mikilvægar	m I: c_h I l v ai G a r
 mikilvægasta	m I: c_h I l v ai G a s t a
 mikilvægasti	m I: c_h I l v ai G a s t I
 mikilvægast	m I: c_h I l v ai G a s t
+mikilvægi	m I: c_h I l v ai j I
 mikilvægir	m I: c_h I l v ai j I r
 mikilvæg	m I: c_h I l v ai G
 mikilvægra	m I: c_h I l v ai G r a
@@ -27896,6 +28218,7 @@ mildari	m I l t a r I
 mildast	m I l t a s t
 mildi	m I l t I
 mild	m I l t
+mildur	m I l t Y r
 mile	m ai: l
 miles	m ai: l s
 milestone	m ai l s t ou n
@@ -28300,6 +28623,7 @@ mink	m i N_0 k
 minknum	m i N_0 k n Y m
 minkur	m i N_0 k Y r
 min	m i n
+minna	m I n a
 minnar	m I n a r
 minnast	m I n a s t
 minneapolis	m I n i a h p O l I s
@@ -28315,6 +28639,7 @@ minnihluti	m I n I l_0 Y t_h I
 minnihlutinn	m I n I l_0 Y t_h I n
 minnimáttarkennd	m I n I m au h t a r_0 c_h E n t
 minnimáttar	m I n I m au h t a r
+minni	m I n I
 minninga	m I n i N k a
 minninganna	m I n i N k a n a
 minningarathöfn	m I n i N k a r a t_h 9 p n_0
@@ -28343,6 +28668,7 @@ minnispunkta	m I n I s p_h u n_0 t a
 minnissjúkra	m I n I s j u k_h r a
 minnisstæðar	m I n I s t ai D a r
 minnisstæð	m I n I s t ai D
+minnisstæður	m I n I s t ai D Y r
 minnisstætt	m I n I s t ai h t
 minnist	m I n I s t
 minnisvarða	m I n I s v a r D a
@@ -28583,7 +28909,7 @@ mollhljómur	m O l l_0 j ou m Y r
 molli	m O l I
 mollinn	m O l I n
 moll	m O l
-mollum	m O l Y m
+mollum	m O t l Y m
 mollunum	m O l O n Y m
 molum	m O: l Y m
 moment	m ou: m E n_0 t
@@ -28861,6 +29187,7 @@ munninum	m Y n I n Y m
 munnlega	m Y n l E G a
 munnlegan	m Y n l E G a n
 munnlegum	m Y n l E G Y m
+munnlegur	m Y n l E G Y r
 munn	m Y n
 munnmök	m Y n m 9 k_h
 munns	m Y n s
@@ -29142,8 +29469,8 @@ mökkur	m 9 h k Y r
 mökum	m 9: k_h Y m
 möller	m 9 l E r
 möllu	m 9 l Y
-möllum	m 9 t l Y m
-möllunum	m 9 l O n Y m
+möllum	m 9 l Y m
+möllunum	m 9 t l O n Y m
 möl	m 9: l
 möltu	m 9 l_0 t Y
 mömmu	m 9 m Y
@@ -29283,6 +29610,7 @@ náðum	n au: D Y m
 náðu	n au: D Y
 náðust	n au: D Y s t
 náfölt	n au: f 9 l_0 t
+nágrannaland	n au: k r a n a l a n t
 nágrannalöndum	n au: k r a n a l 9 n t Y m
 nágrannalöndunum	n au: k r a n a l 9 n t O n Y m
 nágranna	n au: k r a n a
@@ -29325,6 +29653,7 @@ nálægðar	n au: l ai G D a r
 nálægð	n au: l ai G D
 nálægt	n au: l ai x t
 nálægum	n au: l ai G Y m
+nálægur	n au: l ai G Y r
 námið	n au: m I D
 námi	n au: m I
 náminu	n au: m I n Y
@@ -29379,6 +29708,7 @@ náttúran	n au h t u r a n
 náttúrlega	n au h t u r l E G a
 náttúruauðlinda	n au h t u r Y 9i D l I n t a
 náttúruauðlindir	n au h t u r Y 9i D l I n t I r
+náttúruauðlind	n au h t u r Y 9i D l I n t
 náttúruauðlindum	n au h t u r Y 9i D l I n t Y m
 náttúrubarn	n au h t u r Y p a r t n_0
 náttúrufegurð	n au h t u r Y f E G Y r D
@@ -29827,6 +30157,7 @@ norðanmenn	n O r D a n m E n
 norðan	n O r D a n
 norðanverðum	n O r D a n v E r D Y m
 norðanverðu	n O r D a n v E r D Y
+norðanverður	n O r D a n v E r D Y r
 norðanvert	n O r D a n v E r_0 t
 norðar	n O r D a r
 norðaustanátt	n O r D 9i s t a n au h t
@@ -29863,6 +30194,7 @@ norðurbandalagið	n O r D Y r_0 p a n t a l ai j I D
 norðurbrún	n O r D Y r p r u n
 norðurdyrnar	n O r D Y r_0 t I r t n a r
 norðurhluta	n O r D Y r_0 l_0 Y t_h a
+norðurhvel	n O r D Y r_0 k_h v E l
 norðurlandamótinu	n O r D Y r l a n t a m ou t_h I n Y
 norðurlandanna	n O r D Y r l a n t a n a
 norðurlanda	n O r D Y r l a n t a
@@ -29911,6 +30243,7 @@ norrænar	n O r ai n a r
 norrænir	n O r ai n I r
 norrænna	n O r ai t n a
 norrænni	n O r ai t n I
+norrænn	n O r ai t n_0
 norræn	n O r ai n
 norræns	n O r ai n s
 norrænt	n O r ai n_0 t
@@ -29944,6 +30277,7 @@ notagildi	n O: t_h a c I l t I
 notalega	n O: t_h a l E G a
 notaleg	n O: t_h a l E G
 notalegt	n O: t_h a l E x t
+notalegur	n O: t_h a l E G Y r
 notanda	n O: t_h a n t a
 notandinn	n O: t_h a n t I n
 notandi	n O: t_h a n t I
@@ -29986,6 +30320,7 @@ nóg	n ou: G
 nógu	n ou: G Y
 nógur	n ou: G Y r
 nói	n ou: I
+nóta	n ou: t_h a
 nóttina	n ou h t I n a
 nóttinni	n ou h t I n I
 nóttin	n ou h t I n
@@ -30072,6 +30407,7 @@ nútímanum	n u: t_h i m a n Y m
 nútíma	n u: t_h i m a
 nútímasamfélagi	n u: t_h i m a s a m f j E l ai j I
 nútíminn	n u: t_h i m I n
+nútími	n u: t_h i m I
 núverandi	n u: v E r a n t I
 núvirði	n u: v I r D I
 nyheter	n i: h E t E r
@@ -30123,6 +30459,7 @@ nýlegri	n i: l E G r I
 nýlegt	n i: l E x t
 nýlegum	n i: l E G Y m
 nýlegu	n i: l E G Y
+nýlegur	n i: l E G Y r
 nýliða	n i: l I D a
 nýliðar	n i: l I D a r
 nýliðarnir	n i: l I D a r t n I r
@@ -30186,14 +30523,15 @@ nægan	n ai: G a n
 nægar	n ai: G a r
 nægði	n ai G D I
 nægilega	n ai j I l E G a
-nægilegar	n ai: j I l E G a r
+nægilegar	n ai j I l E G a r
 nægileg	n ai j I l E G
-nægilegt	n ai: j I l E x t
-nægi	n ai: j I
+nægilegt	n ai j I l E x t
+nægilegur	n ai j I l E G Y r
+nægi	n ai j I
 nægir	n ai j I r
-nægja	n ai: j a
-nægjanlega	n ai: j a n l E G a
-nægjanleg	n ai: j a n l E G
+nægja	n ai j a
+nægjanlega	n ai j a n l E G a
+nægjanleg	n ai j a n l E G
 nægjanlegt	n ai j a n l E x t
 næg	n ai: G
 nægt	n ai x t
@@ -30204,11 +30542,13 @@ nældi	n ai l t I
 næmi	n ai: m I
 næmt	n ai m_0 t
 næmu	n ai: m Y
+næmur	n ai: m Y r
 næra	n ai: r a
 nærast	n ai: r a s t
 nærfellt	n ai r f E l_0 t
 nærgætni	n ai r c ai h t n I
 næringarfræðingur	n ai: r i N k a r_0 f r ai D i N k Y r
+næring	n ai: r i N k
 næringu	n ai: r i N k Y
 nærliggjandi	n ai r l I c a n t I
 nærmynd	n ai r m I n t
@@ -30287,6 +30627,7 @@ ofangreindri	O: v a n k r ei n t r I
 ofangreinds	O: v a n k r ei n t s
 ofangreindum	O: v a n k r ei n t Y m
 ofangreindu	O: v a n k r ei n t Y
+ofangreindur	O: v a n k r ei n t Y r
 ofangreint	O: v a n k r ei n_0 t
 ofan	O: v a n
 ofansleglatakttruflana	O: v a n s t l E k l a t_h a x t_h r Y p l a n a
@@ -30403,6 +30744,7 @@ olíudreifingu	O: l i j Y t r ei v i N k Y
 olíufélaganna	O: l i j Y f j E l a G a n a
 olíufélagið	O: l i j Y f j E l ai j I D
 olíufélaginu	O: l i j Y f j E l ai j I n Y
+olíufélag	O: l i j Y f j E l a G
 olíufélagsins	O: l i j Y f j E l a x s I n s
 olíufélögin	O: l i j Y f j E l 9i j I n
 olíufélögunum	O: l i j Y f j E l 9 G O n Y m
@@ -30527,6 +30869,7 @@ orðanna	O r D a n a
 orða	O r D a
 orðar	O r D a r
 orðasafnsskrárnar	O r D a s a p n_0 s k r au r t n a r
+orðasamband	O r D a s a m p a n t
 orðaskiptin	O r D a s c I f t I n
 orðaskipti	O r D a s c I f t I
 orðaskránni	O r D a s k r au n I
@@ -30568,7 +30911,7 @@ organista	O r k a n I s t a
 organisti	O r k a n I s t I
 organ	O r k a n
 orgelið	O r k E l I D
-orgel	O r c E l
+orgel	O r k E l
 orient	O: r i j E n_0 t
 originalinn	O r I c I n a l I n
 originall	O r I c I n a t l_0
@@ -30737,6 +31080,7 @@ oxford	O k s f O r t
 óeðlileg	ou: E D l I l E G
 óeðlilegt	ou: E D l I l E x t
 óeðlilegum	ou: E D l I l E G Y m
+óeðlilegur	ou: E D l I l E G Y r
 óefni	ou: E p n I
 óeigingjarnt	ou: ei j I J c a n_0 t
 óeinkennisklæddir	ou: ei J c_h E n I s k_h l ai t I r
@@ -30749,6 +31093,7 @@ oxford	O k s f O r t
 ófeigur	ou: f ei G Y r
 óformlega	ou: f O r m l E G a
 óformlegum	ou: f O r m l E G Y m
+óformlegur	ou: f O r m l E G Y r
 ófremdarástand	ou: f r E m t a r au s t a n t
 ófrísk	ou: f r i s k
 ófrjálsri	ou: f r j au l s r I
@@ -30773,6 +31118,7 @@ oxford	O k s f O r t
 ógleymanlegar	ou: k l ei m a n l E G a r
 ógleymanleg	ou: k l ei m a n l E G
 ógleymanlegt	ou: k l ei m a n l E x t
+ógleymanlegur	ou: k l ei m a n l E G Y r
 ógleymdum	ou: k l ei m t Y m
 ógnaði	ou k n a D I
 ógnað	ou k n a D
@@ -30807,6 +31153,7 @@ oxford	O k s f O r t
 óháðum	ou: h au D Y m
 óháður	ou: h au D Y r
 óhefðbundnar	ou: h E v p Y n t n a r
+óheimill	ou: h ei m I t l_0
 óheimil	ou: h ei m I l
 óheimilt	ou: h ei m I l_0 t
 óhemju	ou: h E m j Y
@@ -30822,6 +31169,7 @@ oxford	O k s f O r t
 óhjákvæmilega	ou: C au k_h v ai m I l E G a
 óhjákvæmileg	ou: C au k_h v ai m I l E G
 óhjákvæmilegt	ou: C au k_h v ai m I l E x t
+óhjákvæmilegur	ou: C au k_h v ai m I l E G Y r
 óhlutdrægni	ou: l_0 Y t r ai k n I
 óhlýðni	ou: l_0 i D n I
 óhollt	ou: h O l_0 t
@@ -30841,8 +31189,10 @@ oxford	O k s f O r t
 ójafnvægi	ou: j a p n_0 v ai j I
 ójöfnuð	ou: j 9 p n Y D
 ójöfnuður	ou: j 9 p n Y D Y r
+ókei	ou: c_h ei
 ókeypis	ou: c_h ei p_h I s
 ókleift	ou: k_h l ei f t
+ókominn	ou: k_h O m I n
 ókomin	ou: k_h O m I n
 ókomna	ou: k_h O m n a
 ók	ou: k_h
@@ -30851,6 +31201,7 @@ oxford	O k s f O r t
 ókunnugir	ou: k_h Y n Yi j I r
 ókunnugum	ou: k_h Y n Y G Y m
 ókunnugur	ou: k_h Y n Y G Y r
+ókunnur	ou: k_h Y n Y r
 óku	ou: k_h Y
 ókvæða	ou: k_h v ai D a
 ókvæðisorð	ou: k_h v ai D I s O r D
@@ -30893,10 +31244,12 @@ oxford	O k s f O r t
 ólíkan	ou: l i k_h a n
 ólíka	ou: l i k_h a
 ólíkar	ou: l i k_h a r
+ólíkindi	ou: l i c_h I n t I
 ólíkindum	ou: l i c_h I n t Y m
 ólíkir	ou: l i c_h I r
 ólíklega	ou: l i k l E G a
 ólíklegt	ou: l i k l E x t
+ólíklegur	ou: l i k l E G Y r
 ólíklegustu	ou: l i k l E G Y s t Y
 ólík	ou: l i k_h
 ólíkra	ou: l i k_h r a
@@ -30941,6 +31294,7 @@ oxford	O k s f O r t
 ólöglegt	ou: l 9 G l E x t
 ólöglegum	ou: l 9 G l E G Y m
 ólöglegu	ou: l 9 G l E G Y
+ólöglegur	ou: l 9 G l E G Y r
 ólögmæta	ou: l 9 G m ai t_h a
 ólögmætar	ou: l 9 G m ai t_h a r
 ólögmæti	ou: l 9 G m ai t_h I
@@ -30950,6 +31304,7 @@ oxford	O k s f O r t
 ólögmætt	ou: l 9 G m ai h t
 ólögmætum	ou: l 9 G m ai t_h Y m
 ólögmætu	ou: l 9 G m ai t_h Y
+ólögmætur	ou: l 9 G m ai t_h Y r
 ólögráða	ou: l 9 G r au D a
 ólöstuðum	ou: l 9 s t Y D Y m
 ómari	ou: m a r I
@@ -30990,6 +31345,7 @@ oxford	O k s f O r t
 ónýtur	ou: n i t_h Y r
 ónæði	ou: n ai D I
 ónæmiskerfið	ou: n ai m I s c_h E r v I D
+ó	ou:
 óperan	ou: p_h E r a n
 ópera	ou: p_h E r a
 óperuna	ou: p_h E r Y n a
@@ -31063,6 +31419,7 @@ oxford	O k s f O r t
 óskhyggja	ou s k h I c a
 óskiljanleg	ou: s c I l j a n l E G
 óskiljanlegt	ou: s c I l j a n l E x t
+óskiljanlegur	ou: s c I l j a n l E G Y r
 óskilum	ou: s c I l Y m
 óski	ou s c I
 óskipta	ou s c I f t a
@@ -31106,6 +31463,7 @@ oxford	O k s f O r t
 ósvífin	ou: s v i v I n
 ósvífni	ou: s v i p n I
 ósýnilegir	ou: s i n I l ei j I r
+ósýnilegur	ou: s i n I l E G Y r
 ósætti	ou: s ai h t I
 ótakmarkað	ou: t_h a k m a r_0 k a D
 ótalmargt	ou: t_h a l m a r_0 t
@@ -31187,6 +31545,7 @@ oxford	O k s f O r t
 óvissuna	ou: v I s Y n a
 óvissu	ou: v I s Y
 óvíða	ou: v i D a
+óvís	ou: v i s
 óvíst	ou: v i s t
 óvæntan	ou: v ai n_0 t a n
 óvænta	ou: v ai n_0 t a
@@ -31202,6 +31561,7 @@ oxford	O k s f O r t
 óþarfi	ou: T a r v I
 óþarflega	ou: T a r v l E G a
 óþarft	ou: T a r_0 t
+óþarfur	ou: T a r v Y r
 óþekkjanlegur	ou: T E h c a n l E G Y r
 óþekktan	ou: T E x t a n
 óþekkta	ou: T E x t a
@@ -31216,6 +31576,7 @@ oxford	O k s f O r t
 óþægilega	ou: T ai j I l E G a
 óþægileg	ou: T ai j I l E G
 óþægilegt	ou: T ai j I l E x t
+óþægilegur	ou: T ai j I l E G Y r
 óþægindi	ou: T ai j I n t I
 óþægindum	ou: T ai j I n t Y m
 óþökk	ou: T 9 h k
@@ -31223,6 +31584,7 @@ oxford	O k s f O r t
 óþörfu	ou: T 9 r v Y
 óæskileg	ou: ai s c I l E G
 óæskilegt	ou: ai s c I l E x t
+óæskilegur	ou: ai s c I l E G Y r
 óöryggi	ou: 9 r I c I
 óöryggis	ou: 9 r I c I s
 pabba	p_h a p a
@@ -31302,6 +31664,7 @@ pallíettu	p_h a l i E h t Y
 pallíetturnar	p_h a l i E h t Y r t n a r
 pallíettur	p_h a l i E h t Y r
 pall	p_h a t l_0
+pallur	p_h a t l Y r
 palmas	p_h a l m a s
 palmer	p_h a l m E r
 palm	p_h a l m
@@ -32073,6 +32436,7 @@ póllands	p_h ou t l a n t s
 pólska	p_h ou l s k a
 pólskipti	p_h ou l s c I f t I
 pólsku	p_h ou l s k Y
+pólskur	p_h ou l s k Y r
 pólstjörnuna	p_h ou l s t j 9 r t n Y n a
 pólverja	p_h ou l v E r j a
 pólverjar	p_h ou l v E r j a r
@@ -32470,6 +32834,7 @@ rafael	r a: f a E l
 rafa	r a: v a
 rafbíla	r a v p i l a
 rafeindasvæðin	r a: v ei n t a s v ai D I n
+rafeind	r a: v ei n t
 rafhlaða	r a f l_0 a D a
 rafhlöður	r a f l_0 9 D Y r
 rafiðnaðarskólans	r a: v I D n a D a r_0 s k ou l a n s
@@ -32505,6 +32870,7 @@ rafrænar	r a v r ai n a r
 rafrænna	r a v r ai t n a
 rafrænnar	r a v r ai t n a r
 rafrænni	r a v r ai t n I
+rafrænn	r a v r ai t n_0
 rafræn	r a v r ai n
 rafrænt	r a v r ai n_0 t
 rafrænum	r a v r ai n Y m
@@ -32782,10 +33148,11 @@ raust	r 9i s t
 rautt	r 9i h t
 raw	r O:
 raymond	r ei: m O n t
-rayo	r ai: j ou
+rayo	r ai j ou
 ray	r ei:
 ráðabruggi	r au: D a p r Y c I
 ráðabrugg	r au: D a p r Y k
+ráðamaður	r au: D a m a D Y r
 ráðamanna	r au: D a m a n a
 ráðamenn	r au: D a m E n
 ráðamönnum	r au: D a m 9 n Y m
@@ -32981,6 +33348,7 @@ regluleg	r E k l Y l E G
 reglulegri	r E k l Y l E G r I
 reglulegt	r E k l Y l E x t
 reglulegu	r E k l Y l E G Y
+reglulegur	r E k l Y l E G Y r
 reglum	r E k l Y m
 regluna	r E k l Y n a
 reglunnar	r E k l Y n a r
@@ -33169,6 +33537,7 @@ rennes	r E n
 renni	r E n I
 rennir	r E n I r
 rennslið	r E n s t l I D
+rennsli	r E n s t l I
 rennur	r E n Y r
 rental	r E n_0 t a l
 renta	r E n_0 t a
@@ -33199,7 +33568,7 @@ reward	r i v O r t
 reyðarfirði	r ei: D a r_0 f I r D I
 reyðarfjarðar	r ei: D a r_0 f j a r D a r
 reyðarfjörð	r ei: D a r_0 f j 9 r D
-reyes	r ei: j E s
+reyes	r ei j E s
 reykfjörð	r ei: k f j 9 r D
 reykholti	r ei k h O l_0 t I
 reykholtskirkju	r ei k h O l_0 t s c_h I r_0 c Y
@@ -33207,6 +33576,7 @@ reykhólahrepps	r ei k h ou l a r_0 E h p s
 reykhólum	r ei k h ou l Y m
 reykinga	r ei: c_h i N k a
 reykingar	r ei: c_h i N k a r
+reyking	r ei: c_h i N k
 reykingum	r ei: c_h i N k Y m
 reykjadal	r ei: c_h a t a l
 reykjagarðs	r ei: c_h a k a r D s
@@ -33353,6 +33723,7 @@ réttlátra	r j E h t l au t_h r a
 réttlát	r j E h t l au t
 réttlátt	r j E h t l au h t
 réttlátu	r j E h t l au t_h Y
+réttlátur	r j E h t l au t_h Y r
 réttlætanlegt	r j E h t l ai t_h a n l E x t
 réttlæta	r j E h t l ai t_h a
 réttlætið	r j E h t l ai t_h I D
@@ -33379,7 +33750,7 @@ rhapsody	r a p s O t i
 rhythm	r I D m
 ribbaldar	r I p a l t a r
 ribery	r i: p E r i
-ribs	r I p s
+ribs	r I f s
 rice	r ai: s
 richard	r I t s j a r t
 richards	r I t s j a r t s
@@ -33483,6 +33854,7 @@ rissa	r I s a
 rist	r I s t
 risu	r I: s Y
 ritað	r I: t_h a D
+ritaður	r I: t_h a D Y r
 ritara	r I: t_h a r a
 ritari	r I: t_h a r I
 rita	r I: t_h a
@@ -33634,6 +34006,7 @@ ríkisútvarpinu	r i: c_h I s u t_h v a r_0 p I n Y
 ríkisútvarpsins	r i: c_h I s u t_h v a r_0 p s I n s
 ríkisvaldið	r i: c_h I s v a l t I D
 ríkisvaldinu	r i: c_h I s v a l t I n Y
+ríkisvald	r i: c_h I s v a l t
 ríkisvaldsins	r i: c_h I s v a l t s I n s
 ríkisvalds	r i: c_h I s v a l t s
 ríkjandi	r i: c_h a n t I
@@ -33799,6 +34172,7 @@ rómantík	r ou: m a n t_h i k_h
 rómantíska	r ou: m a n t_h i s k a
 rómantísk	r ou: m a n t_h i s k
 rómantískt	r ou: m a n t_h i s t
+rómantískur	r ou: m a n t_h i s k Y r
 rómar	r ou: m a r
 rómi	r ou: m I
 róm	r ou: m
@@ -33819,11 +34193,12 @@ rósum	r ou: s Y m
 rósu	r ou: s Y
 rót	r ou: t_h
 rótt	r ou h t
-róttæka	r ou: t_h ai k_h a
+róttæka	r ou t_h ai k_h a
 róttækar	r ou t_h ai k_h a r
 róttækra	r ou t_h ai k_h r a
-róttæk	r ou: t_h ai k_h
+róttæk	r ou t_h ai k_h
 róttækum	r ou t_h ai k_h Y m
+róttækur	r ou t_h ai k_h Y r
 rótum	r ou: t_h Y m
 ruben	r u: p E n
 rubens	r u: p E n s
@@ -33983,6 +34358,7 @@ rúmeníu	r u: m E n i j Y
 rúmenska	r u: m E n s k a
 rúmföt	r u m f 9 t_h
 rúmgott	r u m k O h t
+rúmgóður	r u m k ou D Y r
 rúmið	r u: m I D
 rúminu	r u: m I n Y
 rúmir	r u: m I r
@@ -34064,7 +34440,7 @@ rútur	r u: t_h Y r
 rútu	r u: t_h Y
 rúv	r u: v
 rxe	E r E k s E
-ryanair	r ai: j a n E r
+ryanair	r ai j a n E r
 ryan	r ai j a n
 ryder	r ai: t E r
 ryðfrír	r I D f r i r
@@ -34133,6 +34509,7 @@ rækjuverksmiðjunni	r ai: c_h Y v E r_0 k s m I D j Y n I
 ræktaðar	r ai x t a D a r
 ræktaði	r ai x t a D I
 ræktað	r ai x t a D
+ræktaður	r ai x t a D Y r
 ræktandi	r ai x t a n t I
 rækta	r ai x t a
 ræktar	r ai x t a r
@@ -34152,6 +34529,7 @@ ræningjarnir	r ai: n i J c a r t n I r
 rænt	r ai n_0 t
 ræsa	r ai: s a
 ræst	r ai s t
+ræta	r ai: t_h a
 rætast	r ai: t_h a s t
 rætist	r ai: t_h I s t
 rættist	r ai h t I s t
@@ -34396,6 +34774,7 @@ salur	s a: l Y r
 salvador	s a l v a t O r
 salvör	s a l v 9 r
 salzburg	s a l s p u r k
+samanbera	s a: m a n p E r a
 samanber	s a: m a n p E r
 samanborið	s a: m a n p O r I D
 samanburðar	s a: m a n p Y r D a r
@@ -34476,6 +34855,7 @@ sameinaður	s a: m ei n a D Y r
 sameinar	s a: m ei n a r
 sameina	s a: m ei n a
 sameinast	s a: m ei n a s t
+sameind	s a: m ei n t
 sameiningar	s a: m ei n i N k a r
 sameiningin	s a: m ei n i J c I n
 sameining	s a: m ei n i N k
@@ -34491,6 +34871,7 @@ samfarir	s a m f a r I r
 samfeðra	s a m f E D r a
 samfellda	s a m f E l t a
 samfelld	s a m f E l t
+samfelldur	s a m f E l t Y r
 samfellt	s a m f E l_0 t
 samfellu	s a m f E t l Y
 samferðamenn	s a m f E r D a m E n
@@ -34506,6 +34887,7 @@ samfélagslega	s a m f j E l a x s t l E G a
 samfélagsleg	s a m f j E l a x s t l E G
 samfélagslegt	s a m f j E l a x s t l E x t
 samfélagslegum	s a m f j E l a x s t l E G Y m
+samfélagslegur	s a m f j E l a x s t l E G Y r
 samfélagslegu	s a m f j E l a x s t l E G Y
 samfélagsmiðlar	s a m f j E l a x s m I D l a r
 samfélagsmiðla	s a m f j E l a x s m I D l a
@@ -34537,6 +34919,7 @@ samgöngunefnd	s a m k 9i N k Y n E m t
 samgönguráðherra	s a m k 9i N k Y r au T h E r a
 samgönguráðuneytið	s a m k 9i N k Y r au D Y n ei t_h I D
 samgönguráðuneytinu	s a m k 9i N k Y r au D Y n ei t_h I n Y
+samgönguráðuneyti	s a m k 9i N k Y r au D Y n ei t_h I
 samgönguráðuneytisins	s a m k 9i N k Y r au D Y n ei t_h I s I n s
 samgöngur	s a m k 9i N k Y r
 samgönguslysa	s a m k 9i N k Y s t l I s a
@@ -34699,6 +35082,7 @@ samrýmast	s a m r i m a s t
 samrýmist	s a m r i m I s t
 samrýmst	s a m r i m s t
 samrýnd	s a m r i n t
+samræða	s a m r ai D a
 samræði	s a m r ai D I
 samræðum	s a m r ai D Y m
 samræður	s a m r ai D Y r
@@ -34709,6 +35093,7 @@ samræmdar	s a m r ai m t a r
 samræmda	s a m r ai m t a
 samræmd	s a m r ai m t
 samræmdum	s a m r ai m t Y m
+samræmdur	s a m r ai m t Y r
 samræmdu	s a m r ai m t Y
 samræmingu	s a m r ai m i N k Y
 samræmi	s a m r ai m I
@@ -34719,6 +35104,7 @@ sam	s a: m
 samsetning	s a m s E h t n i N k
 samsetningu	s a m s E h t n i N k Y
 samsett	s a m s E h t
+samsettur	s a m s E h t Y r
 samskipa	s a m s c I p_h a
 samskip	s a m s c I p_h
 samskiptaforrita	s a m s c I f t a f O r I t_h a
@@ -34807,6 +35193,7 @@ samtímann	s a m t_h i m a n
 samtímans	s a m t_h i m a n s
 samtímanum	s a m t_h i m a n Y m
 samtíma	s a m t_h i m a
+samtími	s a m t_h i m I
 samtímis	s a m t_h i m I s
 samtryggingardeildar	s a m t_h r I c i N k a r t ei l t a r
 samt	s a m_0 t
@@ -34819,6 +35206,7 @@ samtöl	s a m t_h 9 l
 samtölum	s a m t_h 9 l Y m
 samuel	s a m j u E l
 samur	s a: m Y r
+samúðarkveðja	s a: m u D a r_0 k_h v E D j a
 samúðarkveðjur	s a: m u D a r_0 k_h v E D j Y r
 samúð	s a: m u D
 samúel	s a: m u E l
@@ -34834,6 +35222,7 @@ samverustund	s a m v E r Y s t Y n t
 samverustundum	s a m v E r Y s t Y n t Y m
 samvinna	s a m v I n a
 samvinnufélaga	s a m v I n Y f j E l a G a
+samvinnufélag	s a m v I n Y f j E l a G
 samvinnunefndar	s a m v I n Y n E m t a r
 samvinnunefnd	s a m v I n Y n E m t
 samvinnu	s a m v I n Y
@@ -34978,7 +35367,7 @@ saw	s O:
 saxað	s a k s a D
 saxaður	s a k s a D Y r
 saxa	s a k s a
-saying	s ei: j i N
+saying	s ei j i N
 say	s ei:
 says	s E s
 sáá	E s au: au:
@@ -34999,6 +35388,7 @@ sálin	s au: l I n
 sálir	s au: l I r
 sálmabók	s au l m a p ou k_h
 sálma	s au l m a
+sálmur	s au l m Y r
 sál	s au: l
 sálugi	s au: l Yi j I
 sáluhjálp	s au: l Y C au l_0 p
@@ -35015,6 +35405,7 @@ sárlega	s au r l E G a
 sárrar	s au r a r
 sársaukafullt	s au r_0 s 9i k_h a f Y l_0 t
 sársauka	s au r_0 s 9i k_h a
+sársauki	s au r_0 s 9i c_h I
 sár	s au: r
 sárt	s au r_0 t
 sárum	s au: r Y m
@@ -35029,6 +35420,7 @@ sáttmálann	s au h t m au l a n
 sáttmálans	s au h t m au l a n s
 sáttmálanum	s au h t m au l a n Y m
 sáttmála	s au h t m au l a
+sáttmáli	s au h t m au l I
 sátt	s au h t
 sáttum	s au h t Y m
 sáttur	s au h t Y r
@@ -35148,6 +35540,7 @@ sektir	s E x t I r
 sekt	s E x t
 sektum	s E x t Y m
 sekur	s E: k_h Y r
+sekúnda	s E: k_h u n t a
 sekúndna	s E: k_h u n t n a
 sekúndum	s E: k_h u n t Y m
 sekúndur	s E: k_h u n t Y r
@@ -35375,6 +35768,7 @@ sessions	s E s j O n s
 sessi	s E s I
 sess	s E s
 sest	s E s t
+seta	s E: t_h a
 setbergshnaus	s E: t p E r k s n_0 9i s
 setið	s E: t_h I D
 setjarar	s E: t_h j a r a r
@@ -35453,6 +35847,7 @@ sérhæfa	s j E r_0 h ai v a
 sérhæfða	s j E: r_0 h ai v D a
 sérhæfð	s j E: r_0 h ai v D
 sérhæfðum	s j E r_0 h ai v D Y m
+sérhæfður	s j E r_0 h ai v D Y r
 sérhæfingu	s j E r_0 h ai v i N k Y
 sérhæfir	s j E r_0 h ai v I r
 sérhæft	s j E r_0 h ai f t
@@ -35460,6 +35855,7 @@ séríslenskur	s j E: r i s t l E n s k Y r
 sérkennilega	s j E r_0 c_h E n I l E G a
 sérkennileg	s j E r_0 c_h E n I l E G
 sérkennilegt	s j E r_0 c_h E n I l E x t
+sérkennilegur	s j E r_0 c_h E n I l E G Y r
 sérkenni	s j E r_0 c_h E n I
 sérkennslu	s j E r_0 c_h E n s t l Y
 sérlega	s j E r l E G a
@@ -35477,6 +35873,7 @@ sérstakra	s j E r_0 s t a k_h r a
 sérstaks	s j E r_0 s t a k s
 sérstakt	s j E r_0 s t a x t
 sérstakur	s j E r_0 s t a k_h Y r
+sérstæður	s j E r_0 s t ai D Y r
 sérstöðu	s j E r_0 s t 9 D Y
 sérstök	s j E r_0 s t 9 k_h
 sérstökum	s j E r_0 s t_h 9 k_h Y m
@@ -35489,6 +35886,7 @@ sértækar	s j E r_0 t_h ai k_h a r
 sértæka	s j E r t_h ai k_h a
 sértæk	s j E r_0 t_h ai k_h
 sértækum	s j E r_0 t_h ai k_h Y m
+sértækur	s j E r_0 t_h ai k_h Y r
 sérþarfir	s j E r_0 T a r v I r
 sérþekkingu	s j E r_0 T E h c i N k Y
 sést	s j E s t
@@ -35562,6 +35960,7 @@ siðareglum	s I: D a r E k l Y m
 siðareglur	s I: D a r E k l Y r
 siðferðilega	s I D f E r D I l E G a
 siðferðileg	s I D f E r D I l E G
+siðferðilegur	s I D f E r D I l E G Y r
 siðferði	s I D f E r D I
 siðferðislega	s I D f E r D I s t l E G a
 siðfræði	s I D f r ai D I
@@ -35724,7 +36123,7 @@ silki	s I l_0 c I
 silkislaufur	s I l_0 c I s t l 9i f Y r
 silk	s I l_0 k
 silla	s I t l a
-sillu	s I t l Y
+sillu	s I l Y
 silungana	s I: l u N k a n a
 silungar	s I: l u N k a r
 silunginn	s I: l u J c I n
@@ -35805,12 +36204,14 @@ síðara	s i: D a r a
 síðari	s i: D a r I
 síðarnefnda	s i: D a r n E m t a
 síðarnefndi	s i: D a r n E m t I
+síðarnefndur	s i: D a r n E m t Y r
 síðarnefndu	s i: D a r n E m t Y
 síðar	s i: D a r
 síða	s i: D a
 síðasta	s i: D a s t a
 síðasti	s i: D a s t I
 síðastliðið	s i: D a s t l I D I D
+síðastliðinn	s i: D a s t l I D I n
 síðastliðin	s i: D a s t l I D I n
 síðastliðins	s i: D a s t l I D I n s
 síðastliðna	s i: D a s t l I D n a
@@ -35918,6 +36319,7 @@ sígauni	s i: k 9i n I
 sígaunum	s i: k 9i n Y m
 sígilda	s i: c I l t a
 sígild	s i: c I l t
+sígildur	s i: c I l t Y r
 síldargallana	s i l t a r k a l a n a
 síldargallanna	s i l t a r k a l a n a
 síldargallann	s i l t a r k a l a n
@@ -36050,7 +36452,7 @@ sjálfsbjörg	s j au l f s p j 9 r k
 sjálfsdáðum	s j au l f s t au D Y m
 sjálfseignarstofnun	s j au l f s ei k n a r_0 s t O p n Y n
 sjálfsfróun	s j au l f s f r ou Y n
-sjálfsgagnrýni	s j au l f s k a k n_0 r i n I
+sjálfsgagnrýni	s j au l f s k a k r i n I
 sjálfshjálparhópur	s j au l f s C au l_0 p a r_0 h ou p_h Y r
 sjálfshjálpin	s j au l f s C au l_0 p I n
 sjálfshjálp	s j au l f s C au l_0 p
@@ -36128,6 +36530,7 @@ sjálfvirkni	s j au l v I r_0 k n I
 sjálfvirk	s j au l v I r_0 k
 sjálfvirkt	s j au l v I r_0 t
 sjálfvirkum	s j au l v I r_0 k Y m
+sjálfvirkur	s j au l v I r_0 k Y r
 sjá	s j au:
 sjást	s j au s t
 sjáum	s j au: Y m
@@ -36135,9 +36538,11 @@ sjáumst	s j au: Y m s t
 sjávarafla	s j au: v a r a p l a
 sjávarafurða	s j au: v a r a v Y r D a
 sjávarafurðir	s j au: v a r a v Y r D I r
+sjávarafurð	s j au: v a r a v Y r D
 sjávarafurðum	s j au: v a r a v Y r D Y m
 sjávarfangs	s j au: v a r_0 f au N s
 sjávarmáli	s j au: v a r m au l I
+sjávarmál	s j au: v a r m au l
 sjávarplássa	s j au: v a r_0 p_h l au s a
 sjávarsíðuna	s j au: v a r_0 s i D Y n a
 sjávar	s j au: v a r
@@ -36220,6 +36625,7 @@ sjónarhorni	s j ou: n a r_0 h O r t n I
 sjónarhorn	s j ou: n a r_0 h O r t n_0
 sjónarhornum	s j ou: n a r_0 h O r t n Y m
 sjónarhóli	s j ou: n a r_0 h ou l I
+sjónarhóll	s j ou: n a r_0 h ou t l_0
 sjónarmiða	s j ou: n a r m I D a
 sjónarmiði	s j ou: n a r m I D I
 sjónarmið	s j ou: n a r m I D
@@ -36236,6 +36642,7 @@ sjónir	s j ou: n I r
 sjónlagi	s j ou n l ai j I
 sjónmáli	s j ou n m au l I
 sjón	s j ou: n
+sjónskertur	s j ou n s c E r_0 t Y r
 sjónum	s j ou: n Y m
 sjónvarpað	s j ou n v a r_0 p a D
 sjónvarpið	s j ou n v a r_0 p I D
@@ -36279,6 +36686,7 @@ sjónvarpsviðtali	s j ou n v a r_0 p s v I D t_h a l I
 sjónvarpsþátta	s j ou n v a r_0 p s T au h t a
 sjónvarpsþáttum	s j ou n v a r_0 p s T au h t Y m
 sjónvarpsþáttunum	s j ou n v a r_0 p s T au h t Y n Y m
+sjónvarpsþáttur	s j ou n v a r_0 p s T au h t Y r
 sjónvarpsþættinum	s j ou n v a r_0 p s T ai h t I n Y m
 sjónvarpsþætti	s j ou n v a r_0 p s T ai h t I
 sjórinn	s j ou: r I n
@@ -36662,6 +37070,7 @@ skelfilega	s c E l v I l E G a
 skelfileg	s c E l v I l E G
 skelfilegt	s c E l v I l E x t
 skelfilegum	s c E l v I l E G Y m
+skelfilegur	s c E l v I l E G Y r
 skelfilegu	s c E l v I l E G Y
 skelfing	s c E l v i N k
 skelfingu	s c E l v i N k Y
@@ -36722,6 +37131,7 @@ skemmti	s c E m_0 t I
 skemmtistaðinn	s c E m_0 t I s t a D I n
 skemmtistaðnum	s c E m_0 t I s t a D n Y m
 skemmtistað	s c E m_0 t I s t a D
+skemmtistaður	s c E m_0 t I s t a D Y r
 skemmtistöðum	s c E m_0 t I s t 9 D Y m
 skemmtisögur	s c E m_0 t I s 9 G Y r
 skemmt	s c E m_0 t
@@ -36819,6 +37229,7 @@ skilji	s c I l j I
 skiljum	s c I l j Y m
 skilmálar	s c I l m au l a r
 skilmála	s c I l m au l a
+skilmáli	s c I l m au l I
 skilmálum	s c I l m au l Y m
 skilmerkilega	s c I l m E r_0 c I l E G a
 skilnaðar	s c I l n a D a r
@@ -36853,6 +37264,7 @@ skilvirkari	s c I l v I r_0 k a r I
 skilvirkni	s c I l v I r_0 k n I
 skilvirk	s c I l v I r_0 k
 skilvirkt	s c I l v I r_0 t
+skilvirkur	s c I l v I r_0 k Y r
 skilyrða	s c I: l I r D a
 skilyrðið	s c I: l I r D I D
 skilyrðin	s c I: l I r D I n
@@ -36933,6 +37345,7 @@ skipulagður	s c I: p_h Y l a G D Y r
 skipulagið	s c I: p_h Y l ai j I D
 skipulaginu	s c I p_h Y l ai j I n Y
 skipulagi	s c I: p_h Y l ai j I
+skipulagning	s c I: p_h Y l a k n i N k
 skipulagningu	s c I: p_h Y l a k n i N k Y
 skipulagsbreytingar	s c I: p_h Y l a x s p r ei t_h i N k a r
 skipulag	s c I: p_h Y l a G
@@ -36955,6 +37368,7 @@ skipuleggjendum	s c I: p_h Y l E c E n t Y m
 skipuleggjendur	s c I: p_h Y l E c E n t Y r
 skipuleggur	s c I: p_h Y l E k Y r
 skipulegum	s c I p_h Y l E G Y m
+skipulegur	s c I: p_h Y l E G Y r
 skipulögð	s c I: p_h Y l 9 G D
 skipulögðum	s c I: p_h Y l 9 G D Y m
 skipulögðu	s c I: p_h Y l 9 G D Y
@@ -37102,6 +37516,7 @@ skordýr	s k O r t i r
 skordýrs	s k O r t i r_0 s
 skordýrum	s k O r t i r Y m
 skordýrunum	s k O r t i r O n Y m
+skorða	s k O r D a
 skorðum	s k O r D Y m
 skorður	s k O r D Y r
 skorið	s k O: r I D
@@ -37191,6 +37606,7 @@ skólaböllum	s k ou: l a p 9 l Y m
 skólaböllunum	s k ou: l a p 9 l O n Y m
 skólabörn	s k ou: l a p 9 r t n_0
 skólafulltrúinn	s k ou: l a f Y t l_0 t_h r u I n
+skólaganga	s k ou: l a k au N k a
 skólagjöld	s k ou: l a c 9 l t
 skólagöngu	s k ou: l a k 9i N k Y
 skólahald	s k ou: l a h a l t
@@ -37309,7 +37725,8 @@ skrifaður	s k r I: v a D Y r
 skrifar	s k r I: v a r
 skrifa	s k r I: v a
 skrifast	s k r I v a s t
-skrifborðsskúffuna	s k r I p O r s k u f Y n a
+skrifborð	s k r I v p O r D
+skrifborðsskúffuna	s k r I v p O r D s k u f Y n a
 skrifborðsskúffurnar	s k r I v p O r D s k u f Y r t n a r
 skrifin	s k r I: v I n
 skrifi	s k r I: v I
@@ -37337,6 +37754,7 @@ skrifstofustjóra	s k r I f s t O v Y s t j ou r a
 skrifstofustjóri	s k r I f s t O v Y s t j ou r I
 skrifstofusvæðið	s k r I f s t O v Y s v ai D I D
 skriftir	s k r I f t I r
+skrift	s k r I f t
 skrifuð	s k r I v Y D
 skrifuðu	s k r I: v Y D Y
 skrifum	s k r I: v Y m
@@ -37347,6 +37765,7 @@ skrilljónum	s k r I l j ou n Y m
 skríða	s k r i: D a
 skrímsli	s k r i m s t l I
 skrítið	s k r i: t_h I D
+skrítinn	s k r i: t_h I n
 skrítin	s k r i: t_h I n
 skrokki	s k r O h c I
 skrokk	s k r O h k
@@ -37369,6 +37788,7 @@ skrúðganga	s k r u D k au N k a
 skrúðgöngu	s k r u D k 9i N k Y
 skrúfa	s k r u: v a
 skrýtið	s k r i: t_h I D
+skrýtinn	s k r i: t_h I n
 skrýtin	s k r i: t_h I n
 skrýtipönklaginu	s k r i: t_h I p_h 9i N_0 k l a j I n Y
 skröllin	s k r 9 l I n
@@ -37411,6 +37831,7 @@ skuldbinda	s k Y l t p I n t a
 skuldbindingargildi	s k Y l t p I n t i N k a r c I l t I
 skuldbindingar	s k Y l t p I n t i N k a r
 skuldbindinga	s k Y l t p I n t i N k a
+skuldbinding	s k Y l t p I n t i N k
 skuldbindingum	s k Y l t p I n t i N k Y m
 skuldbindingu	s k Y l t p I n t i N k Y
 skuldbindur	s k Y l t p I n t Y r
@@ -37435,6 +37856,7 @@ skurðaðgerð	s k Y r D a D c E r D
 skurði	s k Y r D I
 skurðlæknirinn	s k Y r D l ai h k n I r I n
 skurð	s k Y r D
+skurður	s k Y r D Y r
 skutla	s k Y h t l a
 skutu	s k Y: t_h Y
 skúffuna	s k u f Y n a
@@ -37502,11 +37924,13 @@ skynsamlegri	s c I n s a m l E G r I
 skynsamleg	s c I n s a m l E G
 skynsamlegt	s c I n s a m l E x t
 skynsamlegum	s c I n s a m l E G Y m
+skynsamlegur	s c I n s a m l E G Y r
 skyn	s c I: n
 skynsemi	s c I n s E m I
 skype	s c ai: p
 skyri	s c I: r I
 skyr	s c I: r
+skyrta	s c I r_0 t a
 skyrtu	s c I r_0 t Y
 sky	s k ai:
 skytta	s c I h t a
@@ -37638,7 +38062,7 @@ slaufur	s t l 9i: f Y r
 slaufu	s t l 9i: f Y
 slaufusviga	s t l 9i: f Y s v I G a
 slave	s l ei: v
-slayer	s l ei: j E r
+slayer	s l ei j E r
 sláandi	s t l au: a n t I
 slái	s t l au: I
 slá	s t l au:
@@ -38002,6 +38426,7 @@ sniðtalningar	s t n I D t_h a l n i N k a r
 sniðugan	s t n I: D Y G a n
 sniðug	s t n I: D Y G
 sniðugt	s t n I: D Y x t
+sniðugur	s t n I: D Y G Y r
 sniðum	s t n I: D Y m
 sniff	s t n I f
 sniglaðist	s t n I k l a D I s t
@@ -38075,6 +38500,7 @@ snúllum	s t n u l Y m
 snúninga	s t n u: n i N k a
 snúningsásnum	s t n u: n i N s au s t n Y m
 snúning	s t n u: n i N k
+snúningur	s t n u: n i N k Y r
 snúum	s t n u: Y m
 snyrtilega	s t n I r_0 t I l E G a
 snyrtilegt	s t n I r_0 t I l E x t
@@ -38098,7 +38524,7 @@ snæfellsjökull	s t n ai: f E l s j 9 k_h Y t l_0
 snæfellsjökul	s t n ai: f E l s j 9 k_h Y l
 snæfellsnesi	s t n ai: f E l s t n E s I
 snæfellsnes	s t n ai: f E l s t n E s
-snæfellsport	s t n ai: f E l s p O r_0 t
+snæfellsport	s t n ai: f E l s p_h O r_0 t
 snæfells	s t n ai: f E l s
 snæfell	s t n ai: f E t l_0
 snæfríður	s t n ai f r i D Y r
@@ -38112,6 +38538,7 @@ snævar	s t n ai: v a r
 snöggklippt	s t n 9 k k_h l I f t
 snögglega	s t n 9 k l E G a
 snögg	s t n 9 k
+snöggt	s t n 9 x t
 snöggur	s t n 9 k Y r
 soccer	s O h k E r
 soðið	s O: D I D
@@ -38174,6 +38601,7 @@ sorgin	s O r c I n
 sorglega	s O r k l E G a
 sorgleg	s O r k l E G
 sorglegt	s O r k l E x t
+sorglegur	s O r k l E G Y r
 sorg	s O r k
 sorpgeymslu	s O r_0 p c ei m s t l Y
 sorphirðu	s O r_0 p h I r D Y
@@ -38286,6 +38714,7 @@ sólarhringsins	s ou: l a r_0 i N s I n s
 sólarhring	s ou: l a r_0 i N k
 sólarhrings	s ou: l a r_0 i N s
 sólarhringum	s ou: l a r_0 i N k Y m
+sólarhringur	s ou: l a r_0 i N k Y r
 sólarinnar	s ou: l a r I n a r
 sólarlag	s ou: l a r l a G
 sólarljós	s ou: l a r l j ou s
@@ -38302,6 +38731,7 @@ sólheimum	s ou l h ei m Y m
 sólina	s ou: l I n a
 sólinni	s ou: l I n I
 sólin	s ou: l I n
+sólkerfi	s ou l c_h E r v I
 sólnes	s ou l n E s
 sólon	s ou: l O n
 sólóplötu	s ou: l ou p_h l 9 t_h Y
@@ -38522,6 +38952,7 @@ spjallaði	s p j a t l a D I
 spjallað	s p j a t l a D
 spjalla	s p j a t l a
 spjallið	s p j a t l I D
+spjall	s p j a t l_0
 spjótkasti	s p j ou t k_h a s t I
 spjót	s p j ou: t_h
 spjótum	s p j ou: t_h Y m
@@ -38738,6 +39169,7 @@ staðarins	s t a: D a r I n s
 staðar	s t a: D a r
 staðartíma	s t a: D a r_0 t_h i m a
 staða	s t a: D a
+staðbundinn	s t a D p Y n t I n
 staðbundin	s t a D p Y n t I n
 staðfastlega	s t a D f a s t l E G a
 staðfestar	s t a D f E s t a r
@@ -38826,6 +39258,7 @@ stafsetningarvillunum	s t a f s E h t n I N k a r v I t l O n Y m
 stafsetningarvillurnar	s t a f s E h t n I N k a r v I t l Y r t n a r
 stafsetningarvillur	s t a f s E h t n I N k a r v I t l Y r
 stafsetningarvillu	s t a f s E h t n I N k a r v I t l Y
+stafsetning	s t a f s E h t n I N k
 staf	s t a: v
 stafur	s t a: v Y r
 staka	s t a: k_h a
@@ -38834,6 +39267,7 @@ stakkinn	s t a h c I n
 stakk	s t a h k
 stakri	s t a: k_h r I
 stak	s t a: k_h
+stakur	s t a: k_h Y r
 staldra	s t a l t r a
 stalíns	s t a: l i n s
 stalín	s t a: l i n
@@ -38855,6 +39289,7 @@ stand	s t a n t
 stanford	s t a n f O r t
 stanganna	s t au N k a n a
 stangarstökki	s t au N k a r_0 s t 9 h c I
+stanga	s t au N k a
 stangast	s t au N k a s t
 stangist	s t au J c I s t
 stangveiði	s t au N k v ei D I
@@ -38865,6 +39300,7 @@ stapa	s t a: p_h a
 stappaði	s t a h p a D I
 stappa	s t a h p a
 stappfull	s t a h p f Y t l_0
+stara	s t a: r a
 starfaði	s t a r v a D I
 starfað	s t a r v a D
 starfandi	s t a r v a n t I
@@ -39027,6 +39463,7 @@ stefnan	s t E p n a n
 stefna	s t E p n a
 stefndi	s t E m t I
 stefndum	s t E m t Y m
+stefndur	s t E m t Y r
 stefndu	s t E m t Y
 stefnenda	s t E p n E n t a
 stefnendum	s t E p n E n t Y m
@@ -39218,6 +39655,7 @@ stigs	s t I x s
 stig	s t I: G
 stigum	s t I: G Y m
 stigunum	s t I: G O n Y m
+stigur	s t I: G Y r
 stigu	s t I: G Y
 stigvaxandi	s t I G v a k s a n t I
 stikkpillu	s t I h k p_h I l Y
@@ -39303,6 +39741,7 @@ stjórnarflokkarnir	s t j ou r t n a r_0 f l O h k a r t n I r
 stjórnarflokkar	s t j ou r t n a r_0 f l O h k a r
 stjórnarflokka	s t j ou r t n a r_0 f l O h k a
 stjórnarflokkunum	s t j ou r t n a r_0 f l O h k O n Y m
+stjórnarflokkur	s t j ou r t n a r_0 f l O h k Y r
 stjórnarformaðurinn	s t j ou r t n a r_0 f O r m a D Y r I n
 stjórnarformaður	s t j ou r t n a r_0 f O r m a D Y r
 stjórnarformanni	s t j ou r t n a r_0 f O r m a n I
@@ -39510,6 +39949,7 @@ stokkseyri	s t O h k s ei r I
 stokk	s t O h k
 stokkunum	s t O h k O n Y m
 stolið	s t O: l I D
+stolinn	s t O: l I n
 stolnir	s t O l n I r
 stoltenberg	s t O l_0 t E n p E r k
 stoltir	s t O l_0 t I r
@@ -39565,6 +40005,7 @@ stórfelldar	s t ou r_0 f E l t a r
 stórfellda	s t ou r_0 f E l t a
 stórfelld	s t ou r_0 f E l t
 stórfelldum	s t ou r_0 f E l t Y m
+stórfelldur	s t ou r_0 f E l t Y r
 stórfelldu	s t ou r_0 f E l t Y
 stórfellt	s t ou r_0 f E l_0 t
 stórfenglegt	s t ou r_0 f ei N k l E x t
@@ -39643,6 +40084,7 @@ strange	s t r ei: n t s j
 stranglega	s t r au N k l E G a
 strangtrúuðu	s t r au N k t_h r u Y D Y
 strangt	s t r au N_0 t
+strangur	s t r au N k Y r
 strassborg	s t r a s p O r k
 strategískan	s t r a: t_h E c i s k a n
 strategískar	s t r a: t_h E c i s k a r
@@ -40133,6 +40575,7 @@ sumarbústaðinn	s Y: m a r p u s t a D I n
 sumarbústaði	s Y: m a r p u s t a D I
 sumarbústaðnum	s Y: m a r p u s t a D n Y m
 sumarbústað	s Y: m a r p u s t a D
+sumarbústaður	s Y: m a r p u s t a D Y r
 sumardaginn	s Y: m a r t ai j I n
 sumarfríinu	s Y: m a r_0 f r i j I n Y
 sumarfríi	s Y: m a r_0 f r i j I
@@ -40245,6 +40688,7 @@ súdan	s u: t a n
 súðavík	s u: D a v i k_h
 súkkulaðið	s u h k Y l a D I D
 súkkulaði	s u h k Y l a D I
+súla	s u: l a
 súld	s u l t
 súnnar	s u n a r
 súnna	s u n a
@@ -40359,8 +40803,8 @@ sveiflum	s v ei p l Y m
 sveiflur	s v ei p l Y r
 sveif	s v ei: f
 sveigjanleika	s v ei j a n l ei k_h a
-sveigjanleiki	s v ei: j a n l ei c_h I
-sveigja	s v ei: j a
+sveigjanleiki	s v ei j a n l ei c_h I
+sveigja	s v ei j a
 sveigur	s v ei: G Y r
 sveimi	s v ei: m I
 sveinbjarnardóttir	s v ei n p j a r t n a r t ou h t I r
@@ -40449,6 +40893,7 @@ sven	s v E n
 sveppir	s v E h p I r
 sveppi	s v E h p I
 sveppum	s v E h p Y m
+sveppur	s v E h p Y r
 sverð	s v E r D
 sverja	s v E r j a
 sverre	s v E r E
@@ -40539,6 +40984,7 @@ svíþjóðar	s v i: T j ou D a r
 svíþjóð	s v i: T j ou D
 svohljóðandi	s v O: l_0 j ou D a n t I
 svokallaðan	s v O: k_h a t l a D a n
+svokallaðar	s v O: k_h a t l a D a r
 svokallaða	s v O: k_h a t l a D a
 svokallaðir	s v O: k_h a t l a D I r
 svokallaði	s v O: k_h a t l a D I
@@ -40564,6 +41010,7 @@ svonefndra	s v O: n E m t r a
 svonefndri	s v O: n E m t r I
 svonefnd	s v O: n E m t
 svonefndum	s v O: n E m t Y m
+svonefndur	s v O: n E m t Y r
 svonefndu	s v O: n E m t Y
 svonefnt	s v O: n E m_0 t
 svosem	s v O: s E m
@@ -40735,9 +41182,9 @@ sæbjörn	s ai p j 9 r t n_0
 sæbraut	s ai: p r 9i t_h
 sædís	s ai: t i s
 sæði	s ai: D I
-sæi	s ai: I
+sæi	s ai I
 sæist	s ai j I s t
-sæju	s ai: j Y
+sæju	s ai j Y
 sækir	s ai: c_h I r
 sæki	s ai: c_h I
 sækist	s ai: c_h I s t
@@ -40807,7 +41254,7 @@ sætum	s ai: t_h Y m
 sætunum	s ai: t_h O n Y m
 sætur	s ai: t_h Y r
 sætu	s ai: t_h Y
-sæunn	s ai: j Y n
+sæunn	s ai j Y n
 sævari	s ai: v a r I
 sævar	s ai: v a r
 sævarsdóttir	s ai: v a r_0 s t ou h t I r
@@ -40818,6 +41265,7 @@ sävehof	s E: v E h O v
 söfnin	s 9 p n I n
 söfn	s 9 p n_0
 söfnuðurinn	s 9 p n Y D Y r I n
+söfnuður	s 9 p n Y D Y r
 söfnuðu	s 9 p n Y D Y
 söfnuðust	s 9 p n Y D Y s t
 söfnum	s 9 p n Y m
@@ -41137,7 +41585,7 @@ taxi	t_h a k s i
 taxta	t_h a k s t a
 tax	t_h a k s
 taylor	t_h ei l O r
-tayyip	t_h ai: j I p
+tayyip	t_h ai j I p
 táknar	t_h au h k n a r
 tákna	t_h au h k n a
 táknið	t_h au h k n I D
@@ -41219,6 +41667,7 @@ tekið	t_h E: c_h I D
 tekinn	t_h E: c_h I n
 tekin	t_h E: c_h I n
 tekist	t_h E: c_h I s t
+tekja	t_h E: c_h a
 tekjuáætlun	t_h E: c_h Y au ai h t l Y n
 tekjuhlið	t_h E: c_h Y l_0 I D
 tekjuhæstu	t_h E: c_h Y h ai s t Y
@@ -41374,9 +41823,9 @@ textum	t_h E k s t Y m
 teygaði	t_h ei: G a D I
 teygða	t_h ei G D a
 teygði	t_h ei G D I
-teygir	t_h ei: j I r
-teygist	t_h ei: j I s t
-teygjanlegur	t_h ei: j a n l E G Y r
+teygir	t_h ei j I r
+teygist	t_h ei j I s t
+teygjanlegur	t_h ei j a n l E G Y r
 teygja	t_h ei j a
 teygjur	t_h ei j Y r
 teygt	t_h ei x t
@@ -41393,6 +41842,7 @@ tékknesku	t_h j E h k n E s k Y
 tékkóslóvakíu	t_h j E h k ou s t l ou v a c_h i j Y
 tékk	t_h j E h k
 tékkum	t_h j E h k Y m
+té	t_h j E:
 thai	t_h ai:
 than	D E n
 thanks	T ei N k s
@@ -41443,7 +41893,7 @@ thoroddsen	t_h ou: r O t s E n
 thorsil	t_h O r_0 s I l
 thorsson	t_h O r_0 s O n
 thorsteinsson	t_h O r_0 s t ei n s O n
-thors	T ou r_0 s
+thors	t_h ou r_0 s
 thor	T O: r
 those	D ou: s
 though	D ou:
@@ -41519,6 +41969,7 @@ tilgangslaust	t_h I l k au N s t l 9i s t
 tilgang	t_h I l k au N k
 tilgangurinn	t_h I l k au N k Y r I n
 tilgangur	t_h I l k au N k Y r
+tilgáta	t_h I l k au t_h a
 tilgreina	t_h I l k r ei n a
 tilgreindar	t_h I l k r ei n t a r
 tilgreindir	t_h I l k r ei n t I r
@@ -41584,7 +42035,7 @@ tillitssemi	t_h I l I t s E m I
 tillits	t_h I l I t s
 tillit	t_h I l I t_h
 till	t_h I l
-tillum	t_h I t l Y m
+tillum	t_h I l Y m
 tillögugerð	t_h I l 9 G Y c E r D
 tillögum	t_h I l 9 G Y m
 tillöguna	t_h I l 9 G Y n a
@@ -41653,10 +42104,12 @@ tiltækar	t_h I l t_h ai k_h a r
 tiltæk	t_h I l t_h ai k_h
 tiltækt	t_h I l t_h ai x t
 tiltækum	t_h I l t_h ai k_h Y m
+tiltækur	t_h I l t_h ai k_h Y r
 tiltökumál	t_h I l t_h 9 k_h Y m au l
 tiltölulega	t_h I l t_h 9 l Y l E G a
 tilurð	t_h I: l Y r D
 tilvalið	t_h I l v a l I D
+tilvalinn	t_h I l v a l I n
 tilvera	t_h I l v E r a
 tilveruna	t_h I l v E r Y n a
 tilverunnar	t_h I l v E r Y n a r
@@ -41727,6 +42180,7 @@ tíðin	t_h i: D I n
 tíðir	t_h i: D I r
 tíðkaðist	t_h i T k a D I s t
 tíðkast	t_h i T k a s t
+tíðka	t_h i T k a
 tíðkist	t_h i T c I s t
 tíðkuðust	t_h i T k Y D Y s t
 tíðni	t_h i D n I
@@ -41787,6 +42241,7 @@ tímasetningin	t_h i: m a s E h t n i J c I n
 tímasetning	t_h i: m a s E h t n i N k
 tímasetningu	t_h i: m a s E h t n i N k Y
 tímaspursmál	t_h i: m a s p Y r_0 s m au l
+tímatal	t_h i: m a t_h a l
 tíma	t_h i: m a
 tímatöku	t_h i: m a t_h 9 k_h Y
 tíminn	t_h i: m I n
@@ -41877,6 +42332,7 @@ togararnir	t_h O: G a r a r t n I r
 togarar	t_h O: G a r a r
 togara	t_h O: G a r a
 togarinn	t_h O: G a r I n
+togari	t_h O: G a r I
 toga	t_h O: G a
 togi	t_h Oi j I
 tognaði	t_h O k n a D I
@@ -41975,6 +42431,7 @@ toppsætinu	t_h O h p s ai t_h I n Y
 toppsæti	t_h O h p s ai t_h I
 topp	t_h O h p
 toppurinn	t_h O h p Y r I n
+toppur	t_h O h p Y r
 top	t_h O h p
 torfadóttir	t_h O r v a t ou h t I r
 torfason	t_h O r v a s O n
@@ -42067,6 +42524,7 @@ tónleikar	t_h ou n l ei k_h a r
 tónleika	t_h ou n l ei k_h a
 tónleikum	t_h ou n l ei k_h Y m
 tónleikunum	t_h ou n l ei k_h O n Y m
+tónleikur	t_h ou n l ei k_h Y r
 tónlistaratriði	t_h ou n l I s t a r a t_h r I D I
 tónlistarflutning	t_h ou n l I s t a r_0 f l Y h t n i N k
 tónlistarflutningur	t_h ou n l I s t a r f l Y h t n i N k Y r
@@ -42139,6 +42597,7 @@ translate	t_h r a n s l ei t
 translator	t_h r a n s l ei t O r
 transport	t_h r a n s p O r_0 t
 trans	t_h r a n s
+trappa	t_h r a h p a
 trauma	t_h r au: m a
 traustadóttir	t_h r 9i s t a t ou h t I r
 traustan	t_h r 9i s t a n
@@ -42170,8 +42629,8 @@ trekkja	t_h r E h c a
 trekk	t_h r E h k
 trend	t_h r E n t
 trevor	t_h r E: v O r
-treyja	t_h r ei: j a
-treyju	t_h r ei: j Y
+treyja	t_h r ei j a
+treyju	t_h r ei j Y
 treystandi	t_h r ei s t a n t I
 treysta	t_h r ei s t a
 treystir	t_h r ei s t I r
@@ -42185,7 +42644,7 @@ trén	t_h r j E: n
 trénu	t_h r j E: n Y
 trésmiður	t_h r j E s m I D Y r
 tré	t_h r j E:
-trial	t_h r ai: j a l
+trial	t_h r ai j a l
 tribune	t_h r I p j 9: n
 tribute	t_h r I p j u: t
 tried	t_h r ai: t
@@ -42332,6 +42791,7 @@ trúarbragða	t_h r u: a r p r a G D a
 trúarbrögð	t_h r u: a r p r 9 G D
 trúarbrögðum	t_h r u: a r p r 9 G D Y m
 trúarlegum	t_h r u: a r l E G Y m
+trúarlegur	t_h r u: a r l E G Y r
 trúar	t_h r u: a r
 trúa	t_h r u: a
 trúði	t_h r u: D I
@@ -42499,6 +42959,7 @@ tunglskini	t_h u N l s c I n I
 tunglsljósinu	t_h u N l s t l j ou s I n Y
 tunglsljósi	t_h u N l s t l j ou s I
 tungls	t_h u N l s
+tungl	t_h u N l
 tungltímatal	t_h u N l_0 t_h i m a t_h a l
 tunglum	t_h u N l Y m
 tungnár	t_h u N n au r
@@ -42530,6 +42991,7 @@ turninn	t_h Y r t n I n
 turninum	t_h Y r t n I n Y m
 turn	t_h Y r t n_0
 tuttugasta	t_h Y h t Y G a s t a
+tuttugasti	t_h Y h t Y G a s t I
 tuttugustu	t_h Y h t Y G Y s t Y
 tuttugu	t_h Y h t Y G Y
 túlkaði	t_h u l_0 k a D I
@@ -42557,6 +43019,7 @@ tvenns	t_h v E n s
 tvenn	t_h v E n
 tvennt	t_h v E n_0 t
 tvennum	t_h v E n Y m
+tvennur	t_h v E n Y r
 tvennu	t_h v E n Y
 tvisvar	t_h v I: s v a r
 tvíburarnir	t_h v i: p Y r a r t n I r
@@ -42661,6 +43124,7 @@ tæknilega	t_h ai h k n I l E G a
 tæknilegra	t_h ai h k n I l E G r a
 tæknileg	t_h ai h k n I l E G
 tæknilegum	t_h ai h k n I l E G Y m
+tæknilegur	t_h ai h k n I l E G Y r
 tæknilegu	t_h ai h k n I l E G Y
 tæknimenn	t_h ai h k n I m E n
 tæknina	t_h ai h k n I n a
@@ -42677,6 +43141,7 @@ tæpar	t_h ai: p_h a r
 tæpast	t_h ai: p_h a s t
 tæpa	t_h ai: p_h a
 tæpir	t_h ai: p_h I r
+tæplega	t_h ai p l E G a
 tæpra	t_h ai: p_h r a
 tæpri	t_h ai: p_h r I
 tæp	t_h ai: p_h
@@ -42826,6 +43291,7 @@ umboðssvik	Y m p O D s v I k_h
 umboð	Y m p O D
 umbóta	Y m p ou t_h a
 umbótum	Y m p ou t_h Y m
+umbót	Y m p ou t_h
 umbreyta	Y m p r ei t_h a
 umbun	Y m p Y n
 umburðarlyndi	Y m p Y r D a r l I n t I
@@ -42833,6 +43299,7 @@ umbúðapappír	Y m p u D a p_h a h p i r
 umbúðirnar	Y m p u D I r t n a r
 umbúðir	Y m p u D I r
 umbúðum	Y m p u D Y m
+umbúð	Y m p u D
 umbætur	Y m p ai t_h Y r
 umdeildar	Y m t ei l t a r
 umdeilda	Y m t ei l t a
@@ -42851,6 +43318,7 @@ umfangsmesta	Y m f au N s m E s t a
 umfangsmestu	Y m f au N s m E s t Y
 umfangsmikið	Y m f au N s m I c_h I D
 umfangsmikilli	Y m f au N s m I c_h I t l I
+umfangsmikill	Y m f au N s m I c_h I t l_0
 umfangsmikil	Y m f au N s m I c_h I l
 umfangsmiklar	Y m f au N s m I h k l a r
 umfangsmikla	Y m f au N s m I h k l a
@@ -43027,6 +43495,7 @@ umtalsvert	Y m t_h a l s v E r_0 t
 umtal	Y m t_h a l
 umvafin	Y m v a v I n
 umvefji	Y m v E v j I
+um	Y m
 umönnunar	Y m 9 n Y n a r
 umönnun	Y m 9 n Y n
 un	9 n
@@ -43082,6 +43551,7 @@ undanþegnir	Y n t a n T E k n I r
 undanþiggja	Y n t a n T I c a
 undarlega	Y n t a r l E G a
 undarlegt	Y n t a r l E x t
+undarlegur	Y n t a r l E G Y r
 undarleg	Y n t a r l E G
 under	9 n t E r
 underground	9 n t E r k r au n t
@@ -43185,6 +43655,7 @@ unglinga	u N l i N k a
 unglingsaldri	u N l i N s a l t r I
 unglingsárin	u N l i N s au r I n
 unglingsárum	u N l i N s au r Y m
+unglingsár	u N l i N s au r
 unglingsárunum	u N l i N s au r O n Y m
 unglingum	u N l i N k Y m
 ungling	u N l i N k
@@ -43280,6 +43751,7 @@ uppfylltar	Y h p f I l_0 t a r
 uppfyllta	Y h p f I l_0 t a
 uppfyllti	Y h p f I l_0 t I
 uppfylltum	Y h p f I l_0 t Y m
+uppfylltur	Y h p f I l_0 t Y r
 uppfylltu	Y h p f I l_0 t Y
 uppfyllt	Y h p f I l_0 t
 uppfæra	Y h p f ai r a
@@ -43313,11 +43785,12 @@ upphaflega	Y h p h a v l E G a
 upphaflegri	Y h p h a v l E G r I
 upphaflegt	Y h p h a v l E x t
 upphaflegum	Y h p h a v l E G Y m
+upphaflegur	Y h p h a v l E G Y r
 upphaflegu	Y h p h a v l E G Y
 upphafleg	Y h p h a v l E G
 upphafsmaður	Y h p h a f s m a D Y r
 upphafstíma	Y h p h a f s t_h i m a
-upphaf	Y h p h a f
+upphaf	Y h p h a v
 upphátt	Y h p h au h t
 upphefja	Y h p h E v j a
 upphitun	Y h p h I t_h Y n
@@ -43371,6 +43844,7 @@ upplýsinga	Y h p l i s i N k a
 upplýsingaöflun	Y h p l i s i N k a 9 p l Y n
 upplýsingum	Y h p l i s i N k Y m
 upplýsingunum	Y h p l i s i N k O n Y m
+upplýsing	Y h p l i s i N k
 upplýsir	Y h p l i s I r
 upplýsi	Y h p l i s I
 upplýsta	Y h p l i s t a
@@ -43390,6 +43864,7 @@ uppreist	Y h p r ei s t
 upprennandi	Y h p r E n a n t I
 upprifjun	Y h p r I v j Y n
 upprunalega	Y h p r Y n a l E G a
+upprunalegur	Y h p r Y n a l E G Y r
 upprunalegu	Y h p r Y n a l E G Y
 upprunaleg	Y h p r Y n a l E G
 uppruna	Y h p r Y n a
@@ -43428,6 +43903,7 @@ uppskriftin	Y h p s k r I f t I n
 uppskriftir	Y h p s k r I f t I r
 uppskrift	Y h p s k r I f t
 uppskurð	Y h p s k Y r D
+uppspretta	Y h p s p r E h t a
 uppspuni	Y h p s p Y n I
 uppstokkun	Y h p s t O h k Y n
 uppsveiflu	Y h p s v ei p l Y
@@ -43546,8 +44022,10 @@ uxu	Y k s Y
 úran	u: r a n
 úrbóta	u r p ou t_h a
 úrbótum	u r p ou t_h Y m
+úrbót	u r p ou t_h
 úrbætur	u r p ai t_h Y r
 úrelt	u: r E l_0 t
+úreltur	u: r E l_0 t Y r
 úrgangi	u r k au J c I
 úrgangs	u r k au N s
 úrgang	u r k au N k
@@ -43586,6 +44064,7 @@ uxu	Y k s Y
 úrskurðum	u r_0 s k Y r D Y m
 úrskurð	u r_0 s k Y r D
 úrskurðurinn	u r_0 s k Y r D Y r I n
+úrskurður	u r_0 s k Y r D Y r
 úrslitaáhrif	u r_0 s t l I t_h a au r_0 I v
 úrslitabardaga	u r_0 s t l I t_h a p a r t a G a
 úrslitakeppnina	u r_0 s t l I t_h a c_h E h p n I n a
@@ -43747,6 +44226,7 @@ uxu	Y k s Y
 útigöllunum	u: t_h I k 9 l O n Y m
 útileik	u: t_h I l ei k_h
 útilokaði	u: t_h I l O k_h a D I
+útilokaður	u: t_h I l O k_h a D Y r
 útilokað	u: t_h I l O k_h a D
 útilokar	u: t_h I l O k_h a r
 útiloka	u: t_h I l O k_h a
@@ -43777,6 +44257,7 @@ uxu	Y k s Y
 útlagðs	u: t l a G D s
 útlagður	u t l a G D Y r
 útlanda	u: t l a n t a
+útland	u: t l a n t
 útlána	u: t_h l au n a
 útlánum	u: t l au n Y m
 útlán	u: t l au n
@@ -43788,6 +44269,7 @@ uxu	Y k s Y
 útlendinga	u: t l E n t i N k a
 útlendingum	u: t l E n t i N k Y m
 útlendingur	u: t l E n t i N k Y r
+útlendur	u: t l E n t Y r
 útlitið	u: t l I t_h I D
 útliti	u: t l I t_h I
 útlit	u: t l I t_h
@@ -43829,6 +44311,7 @@ uxu	Y k s Y
 útskýra	u: t s c i r a
 útskýrði	u: t s c i r D I
 útskýringar	u: t s c i r i N k a r
+útskýring	u: t s c i r i N k
 útskýrir	u: t s c i r I r
 útskýrt	u: t s c i r_0 t
 útslagið	u: t s t l ai j I D
@@ -43840,11 +44323,12 @@ uxu	Y k s Y
 útsvar	u: t s v a r
 útsýnið	u: t s i n I D
 útsýni	u: t s i n I
-úttektar	u: t E x t a r
+úttektar	u: t_h E x t a r
 úttektinni	u: t_h E x t I n I
 úttektin	u: t_h E x t I n
 úttektir	u: t_h E x t I r
 úttektum	u: t_h E x t Y m
+úttekt	u: t_h E x t
 útundan	u: t_h Y n t a n
 út	u: t_h
 útúr	u: t_h u r
@@ -43876,6 +44360,7 @@ uxu	Y k s Y
 útvegaði	u: t_h v E G a D I
 útvegað	u: t_h v E G a D
 útvega	u: t_h v E G a
+útvegsmaður	u: t v E x s m a D Y r
 útvegsmanna	u: t_h v E x s m a n a
 útvegsmenn	u: t_h v E x s m E n
 útvíkka	u: t_h v i h k a
@@ -43979,7 +44464,7 @@ valkost	v a l k_h O s t
 vallabía	v a l a p i j a
 vallabíur	v a l a p i j Y r
 vallabíu	v a l a p i j Y
-valladolid	v ai: j a t O l I t
+valladolid	v ai j a t O l I t
 vallarhelmingi	v a t l a r_0 h E l m i J c I
 vallarins	v a t l a r I n s
 vallar	v a t l a r
@@ -44049,6 +44534,7 @@ vanefnt	v a: n E m_0 t
 vanga	v au N k a
 vangaveltum	v au N k a v E l_0 t Y m
 vangaveltur	v au N k a v E l_0 t Y r
+vangi	v au J c I
 vanhæfi	v a: n h ai v I
 vanhæfur	v a: n h ai v Y r
 vanillað	v a: n I l a D
@@ -44086,6 +44572,7 @@ vanillusykur	v a: n I l Y s I k_h Y r
 vanillu	v a: n I l Y
 vanir	v a: n I r
 vanist	v a: n I s t
+vani	v a: n I
 vankanta	v a n k_h a n_0 t a
 vanlíðan	v a n l i D a n
 vanmat	v a n m a t_h
@@ -44174,10 +44661,12 @@ varðstjóra	v a r D s t j ou r a
 varðstjóri	v a r D s t j ou r I
 varðst	v a r D s t
 varð	v a r D
+varðveisla	v a r D v ei s t l a
 varðveislu	v a r D v ei s t l Y
 varðveist	v a r D v ei s t
 varðveita	v a r D v ei t_h a
 varðveiti	v a r D v ei t_h I
+varðveittur	v a r D v ei h t Y r
 varðveitt	v a r D v ei h t
 varfærni	v a r_0 f ai r t n I
 varhluta	v a: r l_0 Y t a
@@ -44216,6 +44705,7 @@ varnarleik	v a r t n a r l ei k_h
 varnarliðið	v a r t n a r l I D I D
 varnarliðinu	v a r t n a r l I D I n Y
 varnarliðsins	v a r t n a r l I D s I n s
+varnarlið	v a r t n a r l I D
 varnarmaðurinn	v a r t n a r m a D Y r I n
 varnarmaður	v a r t n a r m a D Y r
 varnarmanninn	v a r t n a r m a n I n
@@ -44461,11 +44951,12 @@ vegina	v ei j I n a
 veginn	v ei j I n
 veginum	v ei j I n Y m
 vegin	v ei j I n
-vegirnir	v ei: j I r t n I r
+vegirnir	v ei j I r t n I r
 vegir	v ei j I r
 vegi	v ei j I
 veglega	v E G l E G a
 veglegt	v E G l E x t
+veglegur	v E G l E G Y r
 vegleg	v E G l E G
 vegnað	v E k n a D
 vegnar	v E k n a r
@@ -44526,6 +45017,7 @@ veifaði	v ei: v a D I
 veifað	v ei: v a D
 veifa	v ei: v a
 veigamikið	v ei: k a m I c_h I D
+veigamikill	v ei: G a m I c_h I t l_0
 veigamikil	v ei: G a m I c_h I l
 veigamiklar	v ei: G a m I h k l a r
 veigamiklum	v ei: G a m I h k l Y m
@@ -44593,6 +45085,7 @@ veitingastöðum	v ei: t_h i N k a s t 9 D Y m
 veitinga	v ei: t_h i N k a
 veitingum	v ei: t_h i N k Y m
 veitingu	v ei: t_h i N k Y
+veiting	v ei: t_h i N k
 veitir	v ei: t_h I r
 veiti	v ei: t_h I
 veitna	v ei h t n a
@@ -44692,6 +45185,7 @@ venue	v E n j u
 venus	v E: n Y s
 veraldarvefnum	v E: r a l t a r v E p n Y m
 veraldar	v E: r a l t a r
+veraldlegur	v E: r a l t l E G Y r
 verandi	v E: r a n t I
 vera	v E: r a
 verdens	v E r t E n s
@@ -44808,6 +45302,7 @@ verkalýðshreyfingarinnar	v E r_0 k a l i D s r_0 ei v i N k a r I n a r
 verkalýðshreyfingin	v E r_0 k a l i D s r_0 ei v i J c I n
 verkalýðshreyfinguna	v E r_0 k a l i D s r_0 ei v i N k Y n a
 verkalýðshreyfingunni	v E r_0 k a l i D s r_0 ei v i N k Y n I
+verkalýðshreyfing	v E r_0 k a l i D s r_0 ei v i N k
 verkalýðsins	v E r_0 k a l i D s I n s
 verkamaður	v E r_0 k a m a D Y r
 verkamannaflokksins	v E r_0 k a m a n a f l O h k s I n s
@@ -44870,6 +45365,7 @@ verklagi	v E r_0 k l ai j I
 verklagsreglum	v E r_0 k l a x s r E k l Y m
 verklagsreglur	v E r_0 k l a x s r E k l Y r
 verklag	v E r_0 k l a G
+verklegur	v E r_0 k l E G Y r
 verklok	v E r_0 k l O k_h
 verknaðinn	v E r_0 k n a D I n
 verknaðinum	v E r_0 k n a D I n Y m
@@ -45030,12 +45526,12 @@ vestfirði	v E s t f I r D I
 vestfjarðaprófastsdæmi	v E s t f j a r D a p_h r ou f a s t s t ai m I
 vestfjarða	v E s t f j a r D a
 vestfjörðum	v E s t f j 9 r D Y m
-vestmannaeyjabæjar	v E s t m a n a ei j a p ai j a r
-vestmannaeyjabær	v E s t m a n a ei j a p ai r
+vestmannaeyjabæjar	v E s t m a n ei j a p ai j a r
+vestmannaeyjabær	v E s t m a n ei j a p ai r
 vestmannaeyjabæ	v E s t m a n ei j a p ai
-vestmannaeyjar	v E s t m a n a ei j a r
-vestmannaeyja	v E s t m a n a ei j a
-vestmannaeyjum	v E s t m a n a ei j Y m
+vestmannaeyjar	v E s t m a n ei j a r
+vestmannaeyja	v E s t m a n ei j a
+vestmannaeyjum	v E s t m a n ei j Y m
 vestmarks	v E s t m a r_0 k s
 vestnorræna	v E s t n O r ai n a
 vestra	v E s t r a
@@ -45044,6 +45540,7 @@ vestræna	v E s t r ai n a
 vestrænnar	v E s t r ai t n a r
 vestrænna	v E s t r ai t n a
 vestrænni	v E s t r ai t n I
+vestrænn	v E s t r ai t n_0
 vestrænum	v E s t r ai n Y m
 vestrænu	v E s t r ai n Y
 vestræn	v E s t r ai n
@@ -45129,6 +45626,7 @@ videos	v I t E O s
 video	v I t E ou
 vide	v i: t E
 viðamikið	v I: D a m I c_h I D
+viðamikill	v I: D a m I c_h I t l_0
 viðamikil	v I: D a m I c_h I l
 viðamiklar	v I: D a m I h k l a r
 viðamikla	v I: D a m I h k l a
@@ -45240,6 +45738,7 @@ viðrar	v I D r a r
 viðra	v I D r a
 viðreisnar	v I D r ei s t n a r
 viðreisn	v I D r ei s t n_0
+viðræða	v I D r ai D a
 viðræðnanna	v I D r ai D n a n a
 viðræðna	v I D r ai D n a
 viðræðum	v I D r ai D Y m
@@ -45271,6 +45770,7 @@ viðskiptalífið	v I D s c I f t a l i v I D
 viðskiptalífinu	v I D s c I f t a l i v I n Y
 viðskiptalífi	v I D s c I f t a l i v I
 viðskiptalífsins	v I D s c I f t a l i f s I n s
+viðskiptalíf	v I D s c I f t a l i v
 viðskiptalöndum	v I D s c I f t a l 9 n t Y m
 viðskiptamanna	v I D s c I f t a m a n a
 viðskiptamenn	v I D s c I f t a m E n
@@ -45517,6 +46017,7 @@ vinnuafls	v I n Y a p l s
 vinnuafl	v I n Y a p l_0
 vinnuálag	v I n Y au l a G
 vinnubragða	v I n Y p r a G D a
+vinnubragð	v I n Y p r a G D
 vinnubrögðin	v I n Y p r 9 G D I n
 vinnubrögðum	v I n Y p r 9 G D Y m
 vinnubrögð	v I n Y p r 9 G D
@@ -45554,6 +46055,7 @@ vinnumarkaðinum	v I n Y m a r_0 k a D I n Y m
 vinnumarkaði	v I n Y m a r_0 k a D I
 vinnumarkaðnum	v I n Y m a r_0 k a D n Y m
 vinnumarkaðurinn	v I n Y m a r_0 k a D Y r I n
+vinnumarkaður	v I n Y m a r_0 k a D Y r
 vinnumarkað	v I n Y m a r_0 k a D
 vinnumálastofnunar	v I n Y m au l a s t O p n Y n a r
 vinnumálastofnun	v I n Y m au l a s t O p n Y n
@@ -45606,6 +46108,7 @@ vinsæla	v I n s ai l a
 vinsælda	v I n s ai l t a
 vinsældir	v I n s ai l t I r
 vinsældum	v I n s ai l t Y m
+vinsæld	v I n s ai l t
 vinsælir	v I n s ai l I r
 vinsælla	v I n s ai t l a
 vinsæll	v I n s ai t l_0
@@ -45837,6 +46340,7 @@ víðtæka	v i D t_h ai k_h a
 víðtækri	v i D t_h ai k_h r I
 víðtækt	v i D t_h ai x t
 víðtækum	v i D t_h ai k_h Y m
+víðtækur	v i D t_h ai k_h Y r
 víðtæku	v i D t_h ai k_h Y
 víðtæk	v i D t_h ai k_h
 víðum	v i: D Y m
@@ -45850,7 +46354,7 @@ vígamanna	v i: G a m a n a
 vígamenn	v i: G a m E n
 vígður	v i G D Y r
 vígð	v i G D
-vígi	v i: j I
+vígi	v i j I
 vígja	v i j a
 víglínu	v i G l i n Y
 víglundsson	v i G l Y n t s O n
@@ -45892,11 +46396,13 @@ vísast	v i: s a s t
 vísa	v i: s a
 vísbendingar	v i s p E n t i N k a r
 vísbendingum	v i s p E n t i N k Y m
+vísbendingu	v i s p E n t i N k Y
 vísbending	v i s p E n t i N k
 vísifingur	v i: s I f i N k Y r
 vísindalegar	v i: s I n t a l E G a r
 vísindalega	v i: s I n t a l E G a
 vísindalegum	v i: s I n t a l E G Y m
+vísindalegur	v i: s I n t a l E G Y r
 vísindaleg	v i: s I n t a l E G
 vísindamaður	v i: s I n t a m a D Y r
 vísindamanna	v i: s I n t a m a n a
@@ -45918,6 +46424,7 @@ vísitöluna	v i: s I t_h 9 l Y n a
 vísitölunnar	v i: s I t_h 9 l Y n a r
 vísitölunni	v i: s I t_h 9 l Y n I
 vísitölur	v i: s I t_h 9 l Y r
+vísitölu	v i: s I t_h 9 l Y
 vísi	v i: s I
 víst	v i s t
 vísuðu	v i: s Y D Y
@@ -45955,6 +46462,7 @@ vodafone	v ou: t a f ou n
 vodka	v O t k a
 voðalega	v O: D a l E G a
 voða	v O: D a
+voði	v O: D I
 vofa	v O: v a
 voffi	v O f I
 voff	v O f
@@ -46064,6 +46572,7 @@ vægari	v ai: G a r I
 vægast	v ai: G a s t
 vægi	v ai j I
 vægt	v ai x t
+vægur	v ai: G Y r
 vægustu	v ai: G Y s t Y
 vægu	v ai: G Y
 væla	v ai: l a
@@ -46072,6 +46581,7 @@ vændi	v ai n t I
 vændum	v ai n t Y m
 vængir	v ai J c I r
 vængnum	v ai N n Y m
+vængur	v ai N k Y r
 væng	v ai N k
 vænkaðist	v ai N_0 k a D I s t
 vænlegt	v ai n l E x t
@@ -46093,6 +46603,7 @@ vænta	v ai n_0 t a
 væntingarnar	v ai n_0 t i N k a r t n a r
 væntingar	v ai n_0 t i N k a r
 væntingum	v ai n_0 t i N k Y m
+vænting	v ai n_0 t i N k
 væntir	v ai n_0 t I r
 vænti	v ai n_0 t I
 væntum	v ai n_0 t Y m
@@ -46108,6 +46619,7 @@ væta	v ai: t_h a
 vætti	v ai h t I
 vætu	v ai: t_h Y
 vöðva	v 9 D v a
+vöðvi	v 9 D v I
 vöðvum	v 9 D v Y m
 vöfflur	v 9 f l Y r
 vöknuðu	v 9 h k n Y D Y
@@ -46119,6 +46631,7 @@ vök	v 9: k_h
 vökvaði	v 9: k_h v a D I
 vökvar	v 9: k_h v a r
 vökva	v 9: k_h v a
+vökvi	v 9: k_h v I
 völdin	v 9 l t I n
 völdum	v 9 l t Y m
 völdu	v 9 l t Y
@@ -46386,6 +46899,7 @@ yfirheyra	I: v I r_0 h ei r a
 yfirheyrðir	I: v I r_0 h ei r D I r
 yfirheyrð	I: v I r_0 h ei r D
 yfirheyrður	I: v I r_0 h ei r D Y r
+yfirheyrsla	I: v I r_0 h ei r_0 s t l a
 yfirheyrslu	I: v I r_0 h ei r_0 s t l Y
 yfirheyrslum	I: v I r_0 h ei r_0 s t l Y m
 yfirheyrslur	I: v I r_0 h ei r_0 s t l Y r
@@ -46442,6 +46956,7 @@ yfirtöku	I: v I r_0 t_h 9 k_h Y
 yfirtökutilboð	I: v I r_0 t_h 9 k_h Y t_h I l p O D
 yfirumsjón	I: v I r Y m s j ou n
 yfirvalda	I: v I r v a l t a
+yfirvald	I: v I r v a l t
 yfirvegaður	I: v I r v E G a D Y r
 yfirveguð	I: v I r v E G Y D
 yfirvegun	I: v I r v E G Y n
@@ -46520,6 +47035,7 @@ ytri	I t_h r I
 ýmis	i: m I s
 ýmiskonar	i: m I s k_h O n a r
 ýmislegt	i: m I s t l E x t
+ýmislegur	i: m I s t l E G Y r
 ýmissa	i: m I s a
 ýmiss	i: m I s
 ýmist	i: m I s t
@@ -46554,6 +47070,7 @@ zuckerberg	s 9 h k E r p E r k
 það	T a: D
 þagga	T a k a
 þagnarskyldu	T a k n a r_0 s c I l t Y
+þagna	T a k n a
 þakið	T a: c_h I D
 þakinu	T a: c_h I n Y
 þaki	T a: c_h I
@@ -46588,9 +47105,11 @@ zuckerberg	s 9 h k E r p E r k
 þau	T 9i:
 þáði	T au: D I
 þáðu	T au: D Y
+þága	T au: G a
 þágildandi	T au: c I l t a n t I
 þágu	T au: G Y
 þál	T au: l
+þá	T au:
 þátíð	T au: t_h i D
 þáttanna	T au h t a n a
 þáttarins	T au h t a r I n s
@@ -46618,12 +47137,13 @@ zuckerberg	s 9 h k E r p E r k
 þáttöku	T au h t_h 9 k_h Y
 þáverandi	T au: v E r a n t I
 þegar	T E: G a r
-þegið	T ei: j I D
+þegið	T ei j I D
 þegjandi	T ei j a n t I
 þegja	T ei j a
 þegnanna	T E k n a n a
 þegnar	T E k n a r
 þegna	T E k n a
+þegn	T E k n_0
 þegnum	T E k n Y m
 þeim	T ei: m
 þeirrar	T ei r a r
@@ -46834,9 +47354,11 @@ zuckerberg	s 9 h k E r p E r k
 þjálfurum	T j au l v Y r Y m
 þjáningabætur	T j au n i N k a p ai t_h Y r
 þjáningar	T j au: n i N k a r
+þjáning	T j au n i N k
 þjáningum	T j au: n i N k Y m
 þjáningu	T j au: n i N k Y
 þjást	T j au s t
+þjá	T j au:
 þjóðanna	T j ou: D a n a
 þjóðaratkvæðagreiðslan	T j ou: D a r a t k_h v ai D a k r ei D s t l a n
 þjóðaratkvæðagreiðsla	T j ou: D a r a t k_h v ai D a k r ei D s t l a
@@ -46879,6 +47401,7 @@ zuckerberg	s 9 h k E r p E r k
 þjóðgarðinn	T j ou D k a r D I n
 þjóðgarðinum	T j ou D k a r D I n Y m
 þjóðgarðsins	T j ou D k a r D s I n s
+þjóðgarður	T j ou D k a r D Y r
 þjóðhagslega	T j ou T h a x s t l E G a
 þjóðhagsspá	T j ou T h a x s p au
 þjóðhagsstofnunar	T j ou T h a x s t O p n Y n a r
@@ -46892,10 +47415,12 @@ zuckerberg	s 9 h k E r p E r k
 þjóðirnar	T j ou: D I r t n a r
 þjóðir	T j ou: D I r
 þjóðkirkjan	T j ou D c_h I r_0 c a n
+þjóðkirkja	T j ou D c_h I r_0 c a
 þjóðkirkjuna	T j ou D c_h I r_0 c Y n a
 þjóðkirkjunnar	T j ou D c_h I r_0 c Y n a r
 þjóðkirkjunni	T j ou D c_h I r_0 c Y n I
 þjóðkunnur	T j ou D k_h Y n Y r
+þjóðlegur	T j ou D l E G Y r
 þjóðleikhúsið	T j ou D l ei k h u s I D
 þjóðleikhúsinu	T j ou D l ei k h u s I n Y
 þjóðleikhússins	T j ou D l ei k h u s I n s
@@ -46911,6 +47436,7 @@ zuckerberg	s 9 h k E r p E r k
 þjóðminjasafnsins	T j ou D m I n j a s a p n_0 s I n s
 þjóðminjasafns	T j ou D m I n j a s a p n_0 s
 þjóðminjasafn	T j ou D m I n j a s a p n_0
+þjóðsaga	T j ou D s a G a
 þjóðskránni	T j ou D s k r au n I
 þjóðskrár	T j ou D s k r au r
 þjóðskrá	T j ou D s k r au
@@ -47042,6 +47568,7 @@ zuckerberg	s 9 h k E r p E r k
 þorskinn	T O r_0 s c I n
 þorski	T O r_0 s c I
 þorskstofninn	T O r_0 s k s t O p n I n
+þorskstofn	T O r_0 s k s t O p n
 þorsks	T O r_0 s k s
 þorsk	T O r_0 s k
 þorskurinn	T O r_0 s k Y r I n
@@ -47198,6 +47725,7 @@ zuckerberg	s 9 h k E r p E r k
 þrenn	T r E n
 þrennt	T r E n_0 t
 þrennuna	T r E n Y n a
+þrennur	T r E n Y r
 þrennu	T r E n Y
 þrepa	T r E: p_h a
 þrepi	T r E: p_h I
@@ -47246,6 +47774,7 @@ zuckerberg	s 9 h k E r p E r k
 þrjátíu	T r j au: t_h i j Y
 þrjá	T r j au:
 þrjú	T r j u:
+þroskaheftur	T r O s k a h E f t Y r
 þroskahjálpar	T r O s k a C au l_0 p a r
 þroskahjálp	T r O s k a C au l_0 p
 þroskahömlun	T r O s k a h 9 m l Y n
@@ -47269,12 +47798,14 @@ zuckerberg	s 9 h k E r p E r k
 þróist	T r ou: I s t
 þróttarar	T r ou h t a r a r
 þróttara	T r ou h t a r a
+þróttar	T r ou h t a r
 þrótti	T r ou h t I
 þrótt	T r ou h t
 þróttur	T r ou h t Y r
 þróuð	T r ou: Y D
 þróuðust	T r ou: Y D Y s t
 þróunaraðstoð	T r ou: Y n a r a D s t O D
+þróunarsamvinna	T r ou: Y n a r_0 s a m v I n a
 þróunarsamvinnustofnun	T r ou: Y n a r_0 s a m v I n Y s t O p n Y n
 þróunarsamvinnu	T r ou: Y n a r_0 s a m v I n Y
 þróunarstarf	T r ou: Y n a r_0 s t a r v
@@ -47433,6 +47964,7 @@ zuckerberg	s 9 h k E r p E r k
 þýðandi	T i: D a n t I
 þýða	T i: D a
 þýðingarmikið	T i: D i N k a r m I c_h I D
+þýðingarmikill	T i: D i N k a r m I c_h I t l_0
 þýðingarmikil	T i: D i N k a r m I c_h I l
 þýðingar	T i: D i N k a r
 þýðing	T i: D i N k
@@ -47458,10 +47990,10 @@ zuckerberg	s 9 h k E r p E r k
 þæfingur	T ai: v i N k Y r
 þægilegan	T ai j I l E G a n
 þægilega	T ai j I l E G a
-þægilegra	T ai: j I l E G r a
+þægilegra	T ai j I l E G r a
 þægilegri	T ai j I l E G r I
-þægileg	T ai: j I l E G
-þægilegt	T ai: j I l E x t
+þægileg	T ai j I l E G
+þægilegt	T ai j I l E x t
 þægilegur	T ai j I l E G Y r
 þægindi	T ai j I n t I
 þær	T ai: r
@@ -47483,6 +48015,7 @@ zuckerberg	s 9 h k E r p E r k
 þörf	T 9 r v
 þörfum	T 9 r v Y m
 þörungur	T 9: r u N k Y r
+æ	ai:
 æð	ai: D
 æðasjúkdóma	ai: D a s j u k t ou m a
 æðasjúkdómum	ai: D a s j u k t ou m Y m
@@ -47533,7 +48066,7 @@ zuckerberg	s 9 h k E r p E r k
 æfir	ai: v I r
 æft	ai f t
 ægi	ai j I
-ægilegur	ai: j I l E G Y r
+ægilegur	ai j I l E G Y r
 ægir	ai j I r
 ægis	ai j I s
 ægisson	ai j I s O n
@@ -47547,10 +48080,12 @@ zuckerberg	s 9 h k E r p E r k
 æsa	ai: s a
 æsingnum	ai: s i N n Y m
 æsispennandi	ai: s I s p E n a n t I
+æska	ai s k a
 æskileg	ai s c I l E G
 æskilegast	ai s c I l E G a s t
 æskilegra	ai s c I l E G r a
 æskilegt	ai s c I l E x t
+æskilegur	ai s c I l E G Y r
 æsku	ai s k Y
 æskuheimili	ai s k Y h ei m I l I
 æskunnar	ai s k Y n a r
@@ -47590,6 +48125,7 @@ zuckerberg	s 9 h k E r p E r k
 ættleiðingar	ai h t l ei D i N k a r
 ættu	ai h t Y
 ættuð	ai h t Y D
+ættum	ai h t Y m
 ævar	ai: v a r
 ævarandi	ai: v a r a n t I
 ævarsdóttir	ai: v a r_0 s t ou h t I r
@@ -47640,9 +48176,11 @@ zuckerberg	s 9 h k E r p E r k
 öflugur	9 p l Y G Y r
 öflugustu	9 p l Y G Y s t Y
 öflum	9 p l Y m
+öflun	9 p l Y n
 öflunar	9 p l Y n a r
 öfuga	9: v Y G a
 öfugt	9 v Y x t
+öfugur	9: v Y G Y r
 öfund	9: v Y n t
 ögmund	9 G m Y n t
 ögmundar	9 G m Y n t a r
@@ -47724,12 +48262,14 @@ zuckerberg	s 9 h k E r p E r k
 ömurleg	9: m Y r l E G
 ömurlega	9: m Y r l E G a
 ömurlegt	9: m Y r l E x t
+ömurlegur	9: m Y r l E G Y r
 önd	9 n t
 öndun	9 n t Y n
 öndunarvél	9 n t Y n a r v j E l
 öndvegi	9 n t v ei j I
 öndverðu	9 n t v E r D Y
 öndverðum	9 n t v E r D Y m
+öndverður	9 n t v E r D Y r
 öngruðu	9i N k r Y D Y
 öngþveiti	9i N k T v ei t_h I
 önn	9 n
@@ -47747,6 +48287,7 @@ zuckerberg	s 9 h k E r p E r k
 örfáa	9 r_0 f au a
 örfáar	9 r_0 f au a r
 örfáir	9 r_0 f au I r
+örfár	9 r_0 f au r
 örfárra	9 r_0 f au r a
 örfáu	9 r_0 f au Y
 örfáum	9 r_0 f au Y m
@@ -47758,6 +48299,7 @@ zuckerberg	s 9 h k E r p E r k
 örlagaríka	9 r l a G a r i k_h a
 örlitla	9 r l I h t l a
 örlítið	9 r l i t_h I D
+örlítill	9 r l i t_h I t l_0
 örlygsson	9 r l I x s O n
 örlygur	9 r l I G Y r
 örlæti	9 r l ai t_h I
