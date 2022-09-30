@@ -2,8 +2,6 @@
 
 Lexical conceptual resource
 
-Version: 22.01
-
 Authors: Anna Björk Nikulásdóttir, Bjarki Ármannsson, Bryndís Bergþórsdóttir, Eiríkur Rögnvaldsson
 
 Publisher: Grammatek ehf
@@ -26,8 +24,6 @@ Anna Björk Nikulásdóttir, Jón Guðnason, Anton Karl Ingason, Hrafn Loftsson,
 
 
 # Íslensk framburðarorðabók fyrir máltækni
-
-Útgáfa: 22.01
 
 Höfundar: Anna Björk Nikulásdóttir, Bjarki Ármannsson, Bryndís Bergþórsdóttir, Eiríkur Rögnvaldsson
 
