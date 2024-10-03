@@ -40560,7 +40560,7 @@ netverslun	n E: t v E r_0 s t l Y n	n	standard_clear	true	none	false	IS	true
 netverslun	n E: t v E s t l Y n	n	standard_cas	true	none	false	IS	true	
 network	n E t v 9 r_0 k	n	all	false	none	false	GB	true	""
 netþjón	n E: t T j ou n	n	standard_clear	true	none	false	IS	true
-netþjón	n E: t T_h j ou n	n	north_clear	true	none	false	IS	true
+netþjón	n E: t_h T j ou n	n	north_clear	true	none	false	IS	true
 netþjónn	n E: t T j ou t n_0	n	standard_clear	true	none	false	IS	true
 netþjónn	n E: t_h T j ou t n_0	n	north_clear	true	none	false	IS	true
 neuer	n Oi E r	n	all	false	none	false	DE	true	
