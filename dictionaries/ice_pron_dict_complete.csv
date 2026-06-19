@@ -20772,7 +20772,7 @@ gæta	c ai: t a	so	standard_clear	false	none	false	IS	true
 gæta	c ai: t_h a	n	north_clear	false	none	false	IS	true	
 gæti	c ai: t_h I	n	north_clear	false	none	false	IS	true	
 gæti	c ai: t I	n	standard_clear	false	none	false	IS	true	
-gætir	c ai: t_h I	r	n	north_clear	false	none	false	IS	true
+gætir	c ai: t_h I r	n	north_clear	false	none	false	IS	true
 gætir	c ai: t I r	n	standard_clear	false	none	false	IS	true	
 gætt	c ai h t	lo	all	false	head	false	IS	true	
 gætt	c ai h t	n	all	false	head	false	IS	true	
