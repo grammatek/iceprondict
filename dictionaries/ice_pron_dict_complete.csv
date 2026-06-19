@@ -13416,7 +13416,6 @@ fermetri	f E r m E t_h r I	n	north_clear	true	none	false	IS	true	""
 fermetri	f E r m E t r I	n	standard_clear	true	none	false	IS	true	""
 fermetrum	f E r m E t_h r Y m	n	north_clear	true	none	false	IS	true	""
 fermetrum	f E r m E t r Y m	n	standard_clear	true	none	false	IS	true	""
-ferm	f E r m	n	all	false	none	false	IS	true	 - hvaða orð er þetta?
 fermingarbörn	f E r m i N k a r p 9 r t n_0	n	standard_clear	true	none	false	IS	true	
 fermingarbörn	f E r m i N k a r p 9 t n_0	n	standard_cas	true	none	false	IS	true	""
 fermingarkjólar	f E r m i N k a r_0 c_h ou l a r	n	all	true	none	false	IS	true	
@@ -13620,7 +13619,6 @@ fésbókarsíðu	f j E s p ou k a r_0 s i D Y	n	standard_clear	true	none	false	I
 fésbókarsíðu	f j E s p ou k_h a r_0 s i D Y	n	north_clear	true	none	false	IS	true	""
 févíti	f j E: v i t_h I	n	north_clear	true	none	false	IS	true	
 févíti	f j E: v i t I	n	standard_clear	true	none	false	IS	true	
-fia	f i: j a	n	all	false	none	false	GB	true	 - hvaða orð er þetta?
 fiat	f i: j a t	n	all	false	none	false	IT	true	
 fiction	f I k s j O n	n	all	false	none	false	GB	true	""
 fiðla	f I D l a	n	all	false	head	false	IS	true	
@@ -16030,7 +16028,6 @@ fótunum	f ou: t_h O n Y m	n	north_clear	false	head	false	IS	true
 fótunum	f ou: t O n Y m	n	standard_clear	false	head	false	IS	true	
 fótur	f ou: t_h Y r	n	north_clear	false	head	false	IS	true	""
 fótur	f ou: t Y r	n	standard_clear	false	head	false	IS	true	""
-fra	f r a:	n	all	false	none	false	GB	true	 - hvaða orð er þetta?
 fragtskipið	f r a x s c I p I D	n	standard_cas	true	none	false	IS	true	
 fragtskipið	f r a x t s c I p_h I D	n	north_clear	true	none	false	IS	true	
 fragtskipið	f r a x t s c I p I D	n	standard_clear	true	none	false	IS	true	
@@ -20635,7 +20632,6 @@ gunnu	k Y n Y	n	all	false	modifier	false	IS	true	""
 gunnþór	k Y n T ou r	n	all	true	none	false	IS	true	""
 gunnþórunn	k Y n T ou r Y n	ns	all	true	none	false	IS	true	
 guru	k u: r u	n	all	false	none	false	GB	true	""
-gus	k Y s	n	all	false	none	false	GB	true	 - hvaða orð er þetta?
 gustur	k Y s t Y r	n	all	false	head	false	IS	true	
 gut	k 9 t	n	all	false	none	false	GB	true	""
 gutlaði	k Y h t l a D I	so	all	false	none	false	IS	true	
@@ -21539,7 +21535,6 @@ harðstjórn	h a r D s t j ou r t n_0	n	standard_clear	true	head	false	IS	true
 harðstjórn	h a r D s t j ou t n_0	n	standard_cas	true	head	false	IS	true	
 harður	h a r D Y r	lo	all	false	head	false	IS	true	
 hargreaves	h a r k r i v s	n	all	false	none	false	GB	true	""
-har	h a r	n	all	false	none	false	GB	true	 - hvaða orð er þetta?
 hari	h a: r i	n	all	false	none	false	GB	true	""
 harka	h a r_0 k a	n	all	false	head	false	IS	true	
 harka	h a r_0 k a	so	all	false	head	false	IS	true	
@@ -27195,7 +27190,6 @@ iðnaður	I D n a D Y r	n	all	false	head	false	IS	true
 iðnaðurinn	I D n a D Y r I n	n	all	false	head	false	IS	true	""
 iðngrein	I D n k r ei n	n	all	true	head	false	IS	true	
 iðn	I D n	n	all	false	both	false	IS	true	""
-iðnn	I D n	n	all	false	none	false	IS	true	 - hvaða orð er þetta?
 iðnó	I D n ou	n	all	false	none	false	IS	true	
 iðnríkja	I D n r i c a	n	standard_clear	true	modifier	false	IS	true	
 iðnríkja	I D n r i c_h a	n	north_clear	true	modifier	false	IS	true	
@@ -45157,7 +45151,6 @@ reipi	r ei: p_h I	n	north_clear	false	both	false	IS	true
 reipi	r ei: p_h I	so	north_clear	false	both	false	IS	true	
 reipi	r ei: p I	n	standard_clear	false	both	false	IS	true	
 reipi	r ei: p I	so	standard_clear	false	both	false	IS	true	
-rei	r ei:	n	all	false	none	false	IS	true	 - hvaða orð er þetta?
 reisa	r ei: s a	lo	all	false	head	false	IS	true	
 reisa	r ei: s a	n	all	false	head	false	IS	true	
 reisa	r ei: s a	so	all	false	head	false	IS	true	
@@ -45426,7 +45419,6 @@ reykjavíkurveg	r ei: c_h a v i k_h Y r v E G	ns	north_clear	true	none	false	IS	
 reykjum	r ei: c_h Y m	n	north_clear	false	none	false	IS	true	""
 reykjum	r ei: c Y m	n	standard_clear	false	none	false	IS	true	""
 reykmökkinn	r ei k m 9 h c I n	n	all	true	none	false	IS	true	
-reykn	r ei h k n	n	all	false	none	false	IS	true	 - hvaða orð er þetta?
 reyk	r ei: k_h	n	north_clear	false	both	false	IS	true	
 reyk	r ei: k_h	so	north_clear	false	both	false	IS	true	
 reyk	r ei: k	n	standard_clear	false	both	false	IS	true	
@@ -52323,7 +52315,6 @@ solberg	s O l p E r k	ns	all	true	none	false	GB	true	""
 soldier	s ou l t j E r	n	all	false	none	false	GB	true	""
 sold	s ou l t	n	all	false	none	false	GB	true	""
 solid	s O l I t	n	all	false	none	false	GB	true	""
-solidum	s O: l I t Y m	n	all	false	none	false	GB	true	 - hvaða orð er þetta?
 solla	s O l a	ns	all	false	none	false	IS	true	
 sollu	s O l Y	n	all	false	modifier	false	IS	true	""
 sol	s u l	n	all	false	none	false	NO	true	

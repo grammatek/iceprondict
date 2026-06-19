@@ -1431,7 +1431,6 @@ amfetamíns	a m f E t_h a m i n s	north_clear
 amma	a m a	all
 amman	a m a n	all
 amnesty	a m n E s t i	all
-a-moll	a: m O l	all
 amper	a m_0 p E r	standard_clear
 amper	a m p_h E r	northeast_clear
 amsterdam	a m s t E r t a m	all
@@ -1785,7 +1784,6 @@ ansi	a n s I	all
 answer	a n s 9 r	all
 anthony	a n T O n i	all
 anti	a n_0 t i	all
-&	a n t	all
 antoine	a n_0 t v a n	all
 anton	a n_0 t O n	standard_clear
 anton	a n t_h O n	northeast_clear
@@ -4354,7 +4352,6 @@ banni	p a n I	all
 banni	p a n I	all
 bann	p a n	all
 ban	p a: n	all
-ba	p j E: a	all
 barak	p a: r a k	all
 bara	p a: r a	all
 baráttan	p a: r au h t a n	all
@@ -6066,7 +6063,6 @@ blönduós	p l 9 n t ou s	all
 blönduóss	p l 9 n t ou s	all
 blöndu	p l 9 n t Y	all
 blöskraði	p l 9 s k r a D I	all
-b-moll	p j E: m O l	all
 bmw	p j E: E m v a f	all
 board	p O r t	all
 boateng	p ou t_h ei N	all
@@ -6446,7 +6442,6 @@ bottas	p O h t a s	all
 bottom	p O h t O m	all
 bought	p O t	all
 bound	p au: n t	all
-bourbon-viskí	p 9 r p O n v I s c i	all
 bournemouth	p O r n m au T	all
 bowie	p ou: i	all
 boxara	p O k s a r a	all
@@ -8235,7 +8230,6 @@ city	s I t i	all
 ciudad	s i j Y t a t	all
 civic	s I v I k	all
 civil	s I v I l	all
-cís-moll	s i: s m O l	all
 claim	k_h l ei: m	all
 claims	k_h l ei: m s	all
 clan	k_h l a: n	all
@@ -8266,7 +8260,6 @@ clothing	k_h l ou: D i N	all
 cloud	k_h l au: t	all
 clouds	k_h l au: t s	all
 club	k_h l 9 p	all
-c-moll	s j E: m O l	all
 cnn	s j E: E n E n	all
 coach	k_h ou t s	all
 coast	k_h ou s t	all
@@ -9151,7 +9144,6 @@ djöfullegt	t j 9: v Y l E x t	all
 djöfullegu	t j 9: v Y l E G Y	all
 djöfull	t j 9: v Y t l_0	all
 djörfung	t j 9 r f u N k	all
-d-moll	t j E: m O l	all
 dna	t j E: E n a	all
 docs	t O k s	all
 doctor	t O x t O r	all
@@ -11597,7 +11589,6 @@ emirates	E m I r ei t s	all
 emma	E m a	all
 emmanuel	E m a n u E l	all
 emmu	E m Y	all
-e-moll	E: m O l	all
 empire	E m p_h ai r	all
 empoli	E m p O l i	all
 emsdetten	E m s t E h t E n	all
@@ -11943,15 +11934,6 @@ entist	E n_0 t I s t	standard_clear
 entist	E n t_h I s t	northeast_clear
 entry	E n_0 t r i	all
 epic	E p_h I k	all
-e-pilla	E: p_h I l a	all
-e-pillan	E: p_h I l a n	all
-e-pillna	E: p_h I l n a	all
-e-pillu	E: p_h I l Y	all
-e-pillum	E: p_h I l Y m	all
-e-pilluna	E: p_h I l Y n a	all
-e-pillur	E: p_h I l Y r	all
-e-pillurnar	E: p_h I l Y r t n a r	standard_clear
-e-pillurnar	E: p_h I l Y t n a r	standard_cas
 eplabúðin	E h p l a p u D I n	all
 epla	E h p l a	all
 eplaforritið	E h p l a f O r I t_h I D	north_clear
@@ -12108,8 +12090,6 @@ eru	E: r Y	all
 erum	E: r Y m	all
 esa	E: s a	all
 esbjerg	E s p j E r k	all
-e-scooter	i: s k u t E r	all
-e-scooters	i: s k u t E r_0 s	all
 es	E: s	all
 esja	E: s j a	all
 esju	E: s j Y	all
@@ -13361,7 +13341,6 @@ fermetri	f E r m E t_h r I	north_clear
 fermetri	f E r m E t r I	standard_clear
 fermetrum	f E r m E t_h r Y m	north_clear
 fermetrum	f E r m E t r Y m	standard_clear
-ferm	f E r m	all
 fermingarbörn	f E r m i N k a r p 9 r t n_0	standard_clear
 fermingarbörn	f E r m i N k a r p 9 t n_0	standard_cas
 fermingarkjólar	f E r m i N k a r_0 c_h ou l a r	all
@@ -13565,7 +13544,6 @@ fésbókarsíðu	f j E s p ou k a r_0 s i D Y	standard_clear
 fésbókarsíðu	f j E s p ou k_h a r_0 s i D Y	north_clear
 févíti	f j E: v i t_h I	north_clear
 févíti	f j E: v i t I	standard_clear
-fia	f i: j a	all
 fiat	f i: j a t	all
 fiction	f I k s j O n	all
 fiðla	f I D l a	all
@@ -15309,7 +15287,6 @@ flötinn	f l 9: t I n	standard_clear
 flötum	f l 9: t_h Y m	north_clear
 flötum	f l 9: t Y m	standard_clear
 fm	E f E m	all
-f-moll	E f m O l	all
 fnjóskadal	f n j ou s k a t a l	all
 fnyk	f n I: k_h	north_clear
 fnyk	f n I: k	standard_clear
@@ -15969,7 +15946,6 @@ fótunum	f ou: t_h O n Y m	north_clear
 fótunum	f ou: t O n Y m	standard_clear
 fótur	f ou: t_h Y r	north_clear
 fótur	f ou: t Y r	standard_clear
-fra	f r a:	all
 fragtskipið	f r a x s c I p I D	standard_cas
 fragtskipið	f r a x t s c I p_h I D	north_clear
 fragtskipið	f r a x t s c I p I D	standard_clear
@@ -19431,7 +19407,6 @@ glötun	k l 9: t_h Y n	north_clear
 glötun	k l 9: t Y n	standard_clear
 gmail	c E: m ei l	all
 gm	k j E: E m	all
-g-moll	c E: m O l	all
 gnarr	k n a r	all
 gná	k n au:	all
 gnístan	k n i s t a n	all
@@ -20555,7 +20530,6 @@ gunnu	k Y n Y	all
 gunnþór	k Y n T ou r	all
 gunnþórunn	k Y n T ou r Y n	all
 guru	k u: r u	all
-gus	k Y s	all
 gustur	k Y s t Y r	all
 gut	k 9 t	all
 gutlaði	k Y h t l a D I	all
@@ -21454,7 +21428,6 @@ harðstjórn	h a r D s t j ou r t n_0	standard_clear
 harðstjórn	h a r D s t j ou t n_0	standard_cas
 harður	h a r D Y r	all
 hargreaves	h a r k r i v s	all
-har	h a r	all
 hari	h a: r i	all
 harka	h a r_0 k a	all
 harka	h a r_0 k a	all
@@ -24403,7 +24376,6 @@ hlökkuðu	l_0 9 h k Y D Y	all
 hlökkum	l_0 9 h k Y m	all
 hlölli	l_0 9 l I	all
 hm	h au: E m	all
-h-moll	h au: m O l	all
 hnakka	n_0 a h k a	all
 hnakka	n_0 a h k a	all
 hnakkann	n_0 a h k a n	all
@@ -27095,7 +27067,6 @@ iðnaður	I D n a D Y r	all
 iðnaðurinn	I D n a D Y r I n	all
 iðngrein	I D n k r ei n	all
 iðn	I D n	all
-iðnn	I D n	all
 iðnó	I D n ou	all
 iðnríkja	I D n r i c a	standard_clear
 iðnríkja	I D n r i c_h a	north_clear
@@ -44989,7 +44960,6 @@ reipi	r ei: p_h I	north_clear
 reipi	r ei: p_h I	north_clear
 reipi	r ei: p I	standard_clear
 reipi	r ei: p I	standard_clear
-rei	r ei:	all
 reisa	r ei: s a	all
 reisa	r ei: s a	all
 reisa	r ei: s a	all
@@ -45257,7 +45227,6 @@ reykjavíkurveg	r ei: c_h a v i k_h Y r v E G	north_clear
 reykjum	r ei: c_h Y m	north_clear
 reykjum	r ei: c Y m	standard_clear
 reykmökkinn	r ei k m 9 h c I n	all
-reykn	r ei h k n	all
 reyk	r ei: k_h	north_clear
 reyk	r ei: k_h	north_clear
 reyk	r ei: k	standard_clear
@@ -48394,7 +48363,6 @@ sheets	s j i t s	all
 sheffield	s j E f i l t	all
 sheff	s j E f	all
 sheikh	s j ei k	all
-shein-fashion	s j i: j I n f a s j O n	all
 shein	s j i: j I n	all
 shell	s j E l	all
 she	s j i:	all
@@ -49576,8 +49544,6 @@ sjúkraþjálfun	s j u: k_h r a T j au l v Y n	north_clear
 sjúkraþjálfun	s j u: k r a T j au l v Y n	standard_clear
 sjúkur	s j u: k_h Y r	north_clear
 sjúkur	s j u: k Y r	standard_clear
-sjútvn	s j au: v a r u t_h v E x s n E m t	north_clear
-sjútvn	s j au: v a r u t v E x s n E m t	standard_clear
 sjöfn	s j 9 p n_0	all
 sjö	s j 9:	all
 sjötíu	s j 9: t_h i j Y	all
@@ -52103,7 +52069,6 @@ solberg	s O l p E r k	all
 soldier	s ou l t j E r	all
 sold	s ou l t	all
 solid	s O l I t	all
-solidum	s O: l I t Y m	all
 solla	s O l a	all
 sollu	s O l Y	all
 sol	s u l	all
@@ -52487,7 +52452,6 @@ sperringur	s p E r i N k Y r	all
 sperrist	s p E r I s t	all
 spes	s p E: s	all
 spice	s p ai: s	all
-spider-man	s p ai: t E r m E n	all
 spiegel	s p i: k E l	all
 spielberg	s p i: l p E r k	all
 spieth	s p i: T	all
@@ -63252,7 +63216,6 @@ wide	v ai: t	all
 widgets	v I t s j E t s	all
 wieder	v i: t E r	all
 wife	v ai: f	all
-wi-fi	v ai: f ai	all
 wifi	v ai: f ai	all
 wildlife	v ai: l t l ai: f	all
 wild	v ai: l t	all
